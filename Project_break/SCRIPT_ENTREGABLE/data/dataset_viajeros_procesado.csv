@@ -1,0 +1,46 @@
+;MES;PAIS_ORIGEN;TURISTAS;PERNOCTACIONES;ESTANCIA_MEDIA;TEMPORADA
+34;4;Reino Unido;173947.0;1143628.0;5.85;Pre-Temporada
+19;4;Irlanda;47048.0;319926.0;6.8;Pre-Temporada
+1;4;Alemania;46015.0;395729.0;8.6;Pre-Temporada
+11;4;Dinamarca;21590.0;170561.0;7.9;Pre-Temporada
+8;4;Bélgica;25104.0;173218.0;6.9;Pre-Temporada
+40;4;Suecia;31927.0;249031.0;7.8;Pre-Temporada
+15;4;Francia;38841.0;275771.0;7.1;Pre-Temporada
+31;4;Países Bajos;41591.0;262023.0;6.3;Pre-Temporada
+44;5;Alemania;43551.0;330988.0;7.6;Pre-Temporada
+58;5;Francia;44404.0;293066.0;6.6;Pre-Temporada
+62;5;Irlanda;60174.0;385114.0;6.4;Pre-Temporada
+74;5;Países Bajos;51579.0;340421.0;6.6;Pre-Temporada
+77;5;Reino Unido;206335.0;1316983.0;5.55;Pre-Temporada
+83;5;Suecia;31109.0;211541.0;6.8;Pre-Temporada
+51;5;Bélgica;24196.0;164533.0;6.8;Pre-Temporada
+120;6;Reino Unido;220636.0;1540936.0;6.25;Temporada Alta
+87;6;Alemania;46888.0;356349.0;7.6;Temporada Alta
+105;6;Irlanda;60493.0;489993.0;8.1;Temporada Alta
+117;6;Países Bajos;48578.0;349762.0;7.2;Temporada Alta
+169;7;Suecia;42893.0;368880.0;8.6;Temporada Alta
+160;7;Países Bajos;47161.0;306547.0;6.5;Temporada Alta
+144;7;Francia;50978.0;372139.0;7.3;Temporada Alta
+148;7;Irlanda;61319.0;539607.0;8.8;Temporada Alta
+163;7;Reino Unido;226690.0;1694595.0;6.55;Temporada Alta
+130;7;Alemania;40797.0;330456.0;8.1;Temporada Alta
+206;8;Reino Unido;228875.0;1938169.0;7.4;Temporada Alta
+187;8;Francia;89592.0;707777.0;7.9;Temporada Alta
+203;8;Países Bajos;74741.0;560558.0;7.5;Temporada Alta
+173;8;Alemania;51420.0;457638.0;8.9;Temporada Alta
+191;8;Irlanda;56634.0;498379.0;8.8;Temporada Alta
+248;9;Reino Unido;224585.0;1592646.0;6.7;Post-Temporada
+234;9;Irlanda;57748.0;386912.0;6.7;Post-Temporada
+223;9;Bélgica;28103.0;219203.0;7.8;Post-Temporada
+245;9;Países Bajos;53326.0;325289.0;6.1;Post-Temporada
+230;9;Francia;43736.0;323646.0;7.4;Post-Temporada
+216;9;Alemania;51150.0;424545.0;8.3;Post-Temporada
+254;9;Suecia;29728.0;184314.0;6.2;Post-Temporada
+291;10;Reino Unido;191486.0;1356453.0;6.25;Post-Temporada
+288;10;Países Bajos;52166.0;323429.0;6.2;Post-Temporada
+258;10;Alemania;61724.0;506137.0;8.2;Post-Temporada
+272;10;Francia;39391.0;271798.0;6.9;Post-Temporada
+276;10;Irlanda;51356.0;364628.0;7.1;Post-Temporada
+297;10;Suecia;36711.0;271661.0;7.4;Post-Temporada
+268;10;Dinamarca;27068.0;219251.0;8.1;Post-Temporada
+265;10;Bélgica;24938.0;197010.0;7.9;Post-Temporada

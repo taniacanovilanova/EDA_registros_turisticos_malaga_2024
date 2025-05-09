@@ -1,0 +1,3724 @@
+AÑO;MES;PROVINCIA_DESTINO;CONTINENTE_ORIGEN;PAIS_ORIGEN;TURISTAS;PERNOCTACIONES;ESTANCIA_MEDIA
+2022;1;Málaga;América;Argentina;592,0;7104,0;12,0
+2022;1;Málaga;América;Brasil;371,0;4526,0;12,2
+2022;1;Málaga;América;Canadá;1183,0;10174,0;8,6
+2022;1;Málaga;América;Chile;110,0;1089,0;9,9
+2022;1;Málaga;América;Colombia;624,0;6926,0;11,1
+2022;1;Málaga;América;Ecuador;54,0;545,0;10,1
+2022;1;Málaga;América;Estados Unidos de América;3722,0;38337,0;10,3
+2022;1;Málaga;América;México;679,0;5704,0;8,4
+2022;1;Málaga;América;Nicaragua;40,0;456,0;11,4
+2022;1;Málaga;América;Panamá;53,0;488,0;9,2
+2022;1;Málaga;América;Paraguay;99,0;990,0;10,0
+2022;1;Málaga;América;Perú;106,0;1219,0;11,5
+2022;1;Málaga;América;Uruguay;43,0;426,0;9,9
+2022;1;Málaga;América;Venezuela;108,0;1534,0;14,2
+2022;1;Málaga;Asia;Arabia Saudí;208,0;2101,0;10,1
+2022;1;Málaga;Asia;China;688,0;4334,0;6,3
+2022;1;Málaga;Asia;Corea;106,0;753,0;7,1
+2022;1;Málaga;Asia;Emiratos Árabes Unidos;357,0;2963,0;8,3
+2022;1;Málaga;Asia;Filipinas;501,0;3357,0;6,7
+2022;1;Málaga;Asia;India;268,0;2171,0;8,1
+2022;1;Málaga;Asia;Indonesia;44,0;400,0;9,1
+2022;1;Málaga;Asia;Irán;137,0;1274,0;9,3
+2022;1;Málaga;Asia;Israel;161,0;1916,0;11,9
+2022;1;Málaga;Asia;Japón;54,0;400,0;7,4
+2022;1;Málaga;Asia;Kazajstán;80,0;760,0;9,5
+2022;1;Málaga;Asia;Kuwait;109,0;1297,0;11,9
+2022;1;Málaga;Asia;Líbano;60,0;624,0;10,4
+2022;1;Málaga;Asia;Malasia;31,0;267,0;8,6
+2022;1;Málaga;Asia;Qatar;60,0;504,0;8,4
+2022;1;Málaga;Asia;Singapur;224,0;2531,0;11,3
+2022;1;Málaga;Asia;Tailandia;108,0;734,0;6,8
+2022;1;Málaga;Europa;Albania;43,0;301,0;7,0
+2022;1;Málaga;Europa;Alemania;19827,0;226028,0;11,4
+2022;1;Málaga;Europa;Andorra;46,0;460,0;10,0
+2022;1;Málaga;Europa;Austria;3145,0;28305,0;9,0
+2022;1;Málaga;Europa;Belarús;98,0;843,0;8,6
+2022;1;Málaga;Europa;Bosnia y Herzegovina;37,0;255,0;6,9
+2022;1;Málaga;Europa;Bulgaria;375,0;3525,0;9,4
+2022;1;Málaga;Europa;Bélgica;14275,0;119910,0;8,4
+2022;1;Málaga;Europa;Croacia;464,0;2970,0;6,4
+2022;1;Málaga;Europa;Dinamarca;7262,0;63179,0;8,7
+2022;1;Málaga;Europa;Eslovenia;125,0;938,0;7,5
+2022;1;Málaga;Europa;Estonia;958,0;9867,0;10,3
+2022;1;Málaga;Europa;Finlandia;7442,0;90792,0;12,2
+2022;1;Málaga;Europa;Francia;16084,0;168882,0;10,5
+2022;1;Málaga;Europa;Georgia;42,0;336,0;8,0
+2022;1;Málaga;Europa;Grecia;158,0;1311,0;8,3
+2022;1;Málaga;Europa;Hungría;1055,0;7913,0;7,5
+2022;1;Málaga;Europa;Irlanda;7389,0;65023,0;8,8
+2022;1;Málaga;Europa;Islandia;65,0;878,0;13,5
+2022;1;Málaga;Europa;Italia;4831,0;43962,0;9,1
+2022;1;Málaga;Europa;Letonia;1226,0;11892,0;9,7
+2022;1;Málaga;Europa;Liechtenstein;182,0;2075,0;11,4
+2022;1;Málaga;Europa;Lituania;1000,0;6900,0;6,9
+2022;1;Málaga;Europa;Luxemburgo;1361,0;14563,0;10,7
+2022;1;Málaga;Europa;Malta;151,0;1344,0;8,9
+2022;1;Málaga;Europa;Moldavia;32,0;486,0;15,2
+2022;1;Málaga;Europa;Noruega;4717,0;47170,0;10,0
+2022;1;Málaga;Europa;Países Bajos;21180,0;177912,0;8,4
+2022;1;Málaga;Europa;Polonia;4299,0;37401,0;8,7
+2022;1;Málaga;Europa;Portugal;1740,0;13224,0;7,6
+2022;1;Málaga;Europa;Reino Unido;30976,0;296016,0;8,05
+2022;1;Málaga;Europa;República Checa;2262,0;18548,0;8,2
+2022;1;Málaga;Europa;República Eslovaca;373,0;2798,0;7,5
+2022;1;Málaga;Europa;Rumanía;1295,0;11655,0;9,0
+2022;1;Málaga;Europa;Rusia;1338,0;14049,0;10,5
+2022;1;Málaga;Europa;Serbia;75,0;608,0;8,1
+2022;1;Málaga;Europa;Suecia;18307,0;181239,0;9,9
+2022;1;Málaga;Europa;Suiza;4111,0;40288,0;9,8
+2022;1;Málaga;Europa;Turquía;196,0;1196,0;6,1
+2022;1;Málaga;Europa;Ucrania;922,0;9036,0;9,8
+2022;1;Málaga;Oceanía;Australia;111,0;1032,0;9,3
+2022;1;Málaga;Total;Total;192987,0;1853334,0;9,6
+2022;1;Málaga;Total;Total América;7844,0;80047,0;10,2
+2022;1;Málaga;Total;Total América del Norte;5584,0;54215,0;9,7
+2022;1;Málaga;Total;Total Asia;3316,0;27561,0;8,3
+2022;1;Málaga;Total;Total Centroamérica y Caribe;145,0;1405,0;9,7
+2022;1;Málaga;Total;Total Europa;179509,0;1724337,0;9,6
+2022;1;Málaga;Total;Total Oceanía;132,0;1228,0;9,3
+2022;1;Málaga;Total;Total Sudamérica;2115,0;24427,0;11,5
+2022;1;Málaga;Total;Total África;2186,0;20161,0;9,2
+2022;1;Málaga;África;Argelia;113,0;814,0;7,2
+2022;1;Málaga;África;Egipto;77,0;662,0;8,6
+2022;1;Málaga;África;Kenia;42,0;315,0;7,5
+2022;1;Málaga;África;Marruecos;1643,0;15773,0;9,6
+2022;1;Málaga;África;Nigeria;109,0;894,0;8,2
+2022;1;Málaga;África;Senegal;38,0;372,0;9,8
+2022;2;Málaga;América;Argentina;542,0;5962,0;11,0
+2022;2;Málaga;América;Brasil;286,0;2717,0;9,5
+2022;2;Málaga;América;Canadá;1043,0;8448,0;8,1
+2022;2;Málaga;América;Chile;101,0;606,0;6,0
+2022;2;Málaga;América;Colombia;515,0;5150,0;10,0
+2022;2;Málaga;América;Estados Unidos de América;3002,0;26718,0;8,9
+2022;2;Málaga;América;México;355,0;2698,0;7,6
+2022;2;Málaga;América;Nicaragua;43,0;434,0;10,1
+2022;2;Málaga;América;Paraguay;102,0;1122,0;11,0
+2022;2;Málaga;América;Perú;100,0;860,0;8,6
+2022;2;Málaga;América;Uruguay;43,0;469,0;10,9
+2022;2;Málaga;América;Venezuela;80,0;1000,0;12,5
+2022;2;Málaga;Asia;Arabia Saudí;110,0;902,0;8,2
+2022;2;Málaga;Asia;China;542,0;3523,0;6,5
+2022;2;Málaga;Asia;Corea;136,0;938,0;6,9
+2022;2;Málaga;Asia;Emiratos Árabes Unidos;319,0;2201,0;6,9
+2022;2;Málaga;Asia;Filipinas;410,0;3936,0;9,6
+2022;2;Málaga;Asia;India;252,0;1966,0;7,8
+2022;2;Málaga;Asia;Indonesia;58,0;383,0;6,6
+2022;2;Málaga;Asia;Irán;123,0;1353,0;11,0
+2022;2;Málaga;Asia;Israel;126,0;1550,0;12,3
+2022;2;Málaga;Asia;Japón;79,0;648,0;8,2
+2022;2;Málaga;Asia;Kazajstán;47,0;541,0;11,5
+2022;2;Málaga;Asia;Kuwait;48,0;350,0;7,3
+2022;2;Málaga;Asia;Líbano;34,0;218,0;6,4
+2022;2;Málaga;Asia;Malasia;33,0;251,0;7,6
+2022;2;Málaga;Asia;Pakistán;30,0;279,0;9,3
+2022;2;Málaga;Asia;Qatar;34,0;309,0;9,1
+2022;2;Málaga;Asia;Singapur;64,0;480,0;7,5
+2022;2;Málaga;Asia;Tailandia;58,0;499,0;8,6
+2022;2;Málaga;Europa;Albania;42,0;265,0;6,3
+2022;2;Málaga;Europa;Alemania;15134,0;166474,0;11,0
+2022;2;Málaga;Europa;Austria;2140,0;22042,0;10,3
+2022;2;Málaga;Europa;Belarús;86,0;869,0;10,1
+2022;2;Málaga;Europa;Bulgaria;362,0;4308,0;11,9
+2022;2;Málaga;Europa;Bélgica;11329,0;86100,0;7,6
+2022;2;Málaga;Europa;Croacia;337,0;1921,0;5,7
+2022;2;Málaga;Europa;Dinamarca;9229,0;78447,0;8,5
+2022;2;Málaga;Europa;Eslovenia;139,0;973,0;7,0
+2022;2;Málaga;Europa;Estonia;845,0;9887,0;11,7
+2022;2;Málaga;Europa;Finlandia;6726,0;73313,0;10,9
+2022;2;Málaga;Europa;Francia;15659,0;161288,0;10,3
+2022;2;Málaga;Europa;Georgia;37,0;333,0;9,0
+2022;2;Málaga;Europa;Grecia;187,0;1365,0;7,3
+2022;2;Málaga;Europa;Hungría;1056,0;7498,0;7,1
+2022;2;Málaga;Europa;Irlanda;9399,0;73312,0;7,8
+2022;2;Málaga;Europa;Islandia;66,0;568,0;8,6
+2022;2;Málaga;Europa;Italia;4004,0;29229,0;7,3
+2022;2;Málaga;Europa;Letonia;1223,0;12108,0;9,9
+2022;2;Málaga;Europa;Liechtenstein;190,0;2052,0;10,8
+2022;2;Málaga;Europa;Lituania;940,0;6016,0;6,4
+2022;2;Málaga;Europa;Luxemburgo;1414,0;15271,0;10,8
+2022;2;Málaga;Europa;Malta;101,0;1111,0;11,0
+2022;2;Málaga;Europa;Noruega;6087,0;59653,0;9,8
+2022;2;Málaga;Europa;Países Bajos;16913,0;145452,0;8,6
+2022;2;Málaga;Europa;Polonia;4435,0;37254,0;8,4
+2022;2;Málaga;Europa;Portugal;1545,0;10815,0;7,0
+2022;2;Málaga;Europa;Reino Unido;58160,0;467186,0;6,85
+2022;2;Málaga;Europa;República Checa;2319,0;17393,0;7,5
+2022;2;Málaga;Europa;República Eslovaca;362,0;2462,0;6,8
+2022;2;Málaga;Europa;Rumanía;1002,0;8216,0;8,2
+2022;2;Málaga;Europa;Rusia;929,0;9476,0;10,2
+2022;2;Málaga;Europa;Serbia;58,0;336,0;5,8
+2022;2;Málaga;Europa;Suecia;12526,0;115239,0;9,2
+2022;2;Málaga;Europa;Suiza;4402,0;34776,0;7,9
+2022;2;Málaga;Europa;Turquía;203,0;1218,0;6,0
+2022;2;Málaga;Europa;Ucrania;867,0;8237,0;9,5
+2022;2;Málaga;Oceanía;Australia;63,0;668,0;10,6
+2022;2;Málaga;Total;Total;202703,0;1777234,0;8,8
+2022;2;Málaga;Total;Total América;6308,0;56932,0;9,0
+2022;2;Málaga;Total;Total América del Norte;4400,0;37864,0;8,6
+2022;2;Málaga;Total;Total Asia;2566,0;20953,0;8,2
+2022;2;Málaga;Total;Total Centroamérica y Caribe;109,0;862,0;7,9
+2022;2;Málaga;Total;Total Europa;190559,0;1673243,0;8,8
+2022;2;Málaga;Total;Total Oceanía;70,0;750,0;10,7
+2022;2;Málaga;Total;Total Sudamérica;1799,0;18206,0;10,1
+2022;2;Málaga;Total;Total África;3200,0;25356,0;7,9
+2022;2;Málaga;África;Argelia;100,0;830,0;8,3
+2022;2;Málaga;África;Egipto;65,0;618,0;9,5
+2022;2;Málaga;África;Marruecos;2675,0;21133,0;7,9
+2022;2;Málaga;África;Nigeria;102,0;887,0;8,7
+2022;2;Málaga;África;Senegal;45,0;248,0;5,5
+2022;2;Málaga;África;Túnez;44,0;356,0;8,1
+2022;3;Málaga;América;Argentina;699,0;6990,0;10,0
+2022;3;Málaga;América;Brasil;371,0;3116,0;8,4
+2022;3;Málaga;América;Canadá;2664,0;23177,0;8,7
+2022;3;Málaga;América;Chile;86,0;611,0;7,1
+2022;3;Málaga;América;Colombia;602,0;5900,0;9,8
+2022;3;Málaga;América;Ecuador;40,0;292,0;7,3
+2022;3;Málaga;América;Estados Unidos de América;5087,0;39170,0;7,7
+2022;3;Málaga;América;México;801,0;5126,0;6,4
+2022;3;Málaga;América;Nicaragua;38,0;296,0;7,8
+2022;3;Málaga;América;Panamá;41,0;320,0;7,8
+2022;3;Málaga;América;Paraguay;141,0;1072,0;7,6
+2022;3;Málaga;América;Perú;84,0;680,0;8,1
+2022;3;Málaga;América;Uruguay;42,0;349,0;8,3
+2022;3;Málaga;América;Venezuela;93,0;1209,0;13,0
+2022;3;Málaga;Asia;Arabia Saudí;415,0;2822,0;6,8
+2022;3;Málaga;Asia;Bahréin;32,0;218,0;6,8
+2022;3;Málaga;Asia;China;704,0;4435,0;6,3
+2022;3;Málaga;Asia;Emiratos Árabes Unidos;388,0;2794,0;7,2
+2022;3;Málaga;Asia;Filipinas;531,0;1805,0;3,4
+2022;3;Málaga;Asia;India;292,0;1781,0;6,1
+2022;3;Málaga;Asia;Indonesia;111,0;821,0;7,4
+2022;3;Málaga;Asia;Irán;198,0;1683,0;8,5
+2022;3;Málaga;Asia;Israel;202,0;2040,0;10,1
+2022;3;Málaga;Asia;Japón;61,0;939,0;15,4
+2022;3;Málaga;Asia;Kazajstán;63,0;693,0;11,0
+2022;3;Málaga;Asia;Kuwait;282,0;2820,0;10,0
+2022;3;Málaga;Asia;Líbano;46,0;451,0;9,8
+2022;3;Málaga;Asia;Malasia;49,0;309,0;6,3
+2022;3;Málaga;Asia;Qatar;80,0;424,0;5,3
+2022;3;Málaga;Asia;Singapur;95,0;770,0;8,1
+2022;3;Málaga;Asia;Tailandia;88,0;334,0;3,8
+2022;3;Málaga;Europa;Albania;41,0;246,0;6,0
+2022;3;Málaga;Europa;Alemania;24040,0;276460,0;11,5
+2022;3;Málaga;Europa;Andorra;68,0;646,0;9,5
+2022;3;Málaga;Europa;Austria;3116,0;25551,0;8,2
+2022;3;Málaga;Europa;Belarús;120,0;972,0;8,1
+2022;3;Málaga;Europa;Bosnia y Herzegovina;34,0;170,0;5,0
+2022;3;Málaga;Europa;Bulgaria;338,0;3076,0;9,1
+2022;3;Málaga;Europa;Bélgica;16877,0;123202,0;7,3
+2022;3;Málaga;Europa;Chipre;30,0;162,0;5,4
+2022;3;Málaga;Europa;Croacia;383,0;2145,0;5,6
+2022;3;Málaga;Europa;Dinamarca;12977,0;112900,0;8,7
+2022;3;Málaga;Europa;Eslovenia;188,0;1184,0;6,3
+2022;3;Málaga;Europa;Estonia;1148,0;9873,0;8,6
+2022;3;Málaga;Europa;Finlandia;9571,0;108152,0;11,3
+2022;3;Málaga;Europa;Francia;19733,0;215090,0;10,9
+2022;3;Málaga;Europa;Georgia;56,0;493,0;8,8
+2022;3;Málaga;Europa;Grecia;368,0;2098,0;5,7
+2022;3;Málaga;Europa;Hungría;1392,0;8770,0;6,3
+2022;3;Málaga;Europa;Irlanda;12057,0;84399,0;7,0
+2022;3;Málaga;Europa;Islandia;124,0;1079,0;8,7
+2022;3;Málaga;Europa;Italia;5966,0;40569,0;6,8
+2022;3;Málaga;Europa;Letonia;1625,0;13650,0;8,4
+2022;3;Málaga;Europa;Liechtenstein;251,0;2134,0;8,5
+2022;3;Málaga;Europa;Lituania;1068,0;7476,0;7,0
+2022;3;Málaga;Europa;Luxemburgo;1426,0;15829,0;11,1
+2022;3;Málaga;Europa;Malta;205,0;1558,0;7,6
+2022;3;Málaga;Europa;Moldavia;42,0;307,0;7,3
+2022;3;Málaga;Europa;Noruega;10321,0;95985,0;9,3
+2022;3;Málaga;Europa;Países Bajos;23794,0;199870,0;8,4
+2022;3;Málaga;Europa;Polonia;5208,0;42706,0;8,2
+2022;3;Málaga;Europa;Portugal;2184,0;15288,0;7,0
+2022;3;Málaga;Europa;Reino Unido;84514,0;657526,0;7,25
+2022;3;Málaga;Europa;República Checa;3492,0;24095,0;6,9
+2022;3;Málaga;Europa;República Eslovaca;563,0;3885,0;6,9
+2022;3;Málaga;Europa;Rumanía;1767,0;12722,0;7,2
+2022;3;Málaga;Europa;Rusia;998,0;10379,0;10,4
+2022;3;Málaga;Europa;Serbia;41,0;267,0;6,5
+2022;3;Málaga;Europa;Suecia;18985,0;168967,0;8,9
+2022;3;Málaga;Europa;Suiza;6043,0;43510,0;7,2
+2022;3;Málaga;Europa;Turquía;293,0;1465,0;5,0
+2022;3;Málaga;Oceanía;Australia;94,0;667,0;7,1
+2022;3;Málaga;Total;Total;291667,0;2485812,0;8,5
+2022;3;Málaga;Total;Total América;10852,0;88833,0;8,2
+2022;3;Málaga;Total;Total América del Norte;8552,0;67473,0;7,9
+2022;3;Málaga;Total;Total Asia;3796,0;26153,0;6,9
+2022;3;Málaga;Total;Total Centroamérica y Caribe;135,0;1080,0;8,0
+2022;3;Málaga;Total;Total Europa;271496,0;2335057,0;8,6
+2022;3;Málaga;Total;Total Oceanía;103,0;744,0;7,2
+2022;3;Málaga;Total;Total Sudamérica;2165,0;20280,0;9,4
+2022;3;Málaga;Total;Total África;5420,0;35025,0;6,5
+2022;3;Málaga;África;Argelia;115,0;863,0;7,5
+2022;3;Málaga;África;Egipto;64,0;499,0;7,8
+2022;3;Málaga;África;Kenia;34,0;394,0;11,6
+2022;3;Málaga;África;Marruecos;4762,0;30001,0;6,3
+2022;3;Málaga;África;Nigeria;140,0;994,0;7,1
+2022;3;Málaga;África;Senegal;82,0;541,0;6,6
+2022;3;Málaga;África;Túnez;51,0;377,0;7,4
+2022;4;Málaga;América;Argentina;861,0;8782,0;10,2
+2022;4;Málaga;América;Brasil;492,0;4084,0;8,3
+2022;4;Málaga;América;Canadá;2110,0;16036,0;7,6
+2022;4;Málaga;América;Chile;159,0;1097,0;6,9
+2022;4;Málaga;América;Colombia;746,0;5968,0;8,0
+2022;4;Málaga;América;Ecuador;56,0;588,0;10,5
+2022;4;Málaga;América;Estados Unidos de América;6992,0;46846,0;6,7
+2022;4;Málaga;América;México;1172,0;7618,0;6,5
+2022;4;Málaga;América;Nicaragua;64,0;518,0;8,1
+2022;4;Málaga;América;Panamá;59,0;484,0;8,2
+2022;4;Málaga;América;Paraguay;108,0;972,0;9,0
+2022;4;Málaga;América;Perú;90,0;738,0;8,2
+2022;4;Málaga;América;Uruguay;81,0;786,0;9,7
+2022;4;Málaga;América;Venezuela;90,0;1242,0;13,8
+2022;4;Málaga;Asia;Arabia Saudí;120,0;984,0;8,2
+2022;4;Málaga;Asia;China;800,0;4720,0;5,9
+2022;4;Málaga;Asia;Corea;69,0;421,0;6,1
+2022;4;Málaga;Asia;Emiratos Árabes Unidos;430,0;3182,0;7,4
+2022;4;Málaga;Asia;Filipinas;1111,0;4777,0;4,3
+2022;4;Málaga;Asia;India;575,0;3968,0;6,9
+2022;4;Málaga;Asia;Indonesia;230,0;1426,0;6,2
+2022;4;Málaga;Asia;Irán;253,0;2884,0;11,4
+2022;4;Málaga;Asia;Israel;345,0;2795,0;8,1
+2022;4;Málaga;Asia;Japón;154,0;939,0;6,1
+2022;4;Málaga;Asia;Kazajstán;49,0;426,0;8,7
+2022;4;Málaga;Asia;Kuwait;48,0;451,0;9,4
+2022;4;Málaga;Asia;Líbano;63,0;384,0;6,1
+2022;4;Málaga;Asia;Malasia;33,0;241,0;7,3
+2022;4;Málaga;Asia;Qatar;51,0;311,0;6,1
+2022;4;Málaga;Asia;Singapur;129,0;1019,0;7,9
+2022;4;Málaga;Asia;Tailandia;264,0;871,0;3,3
+2022;4;Málaga;Asia;Vietnam;35,0;287,0;8,2
+2022;4;Málaga;Europa;Albania;59,0;407,0;6,9
+2022;4;Málaga;Europa;Alemania;29410,0;291159,0;9,9
+2022;4;Málaga;Europa;Andorra;85,0;646,0;7,6
+2022;4;Málaga;Europa;Austria;3382,0;27394,0;8,1
+2022;4;Málaga;Europa;Belarús;124,0;1339,0;10,8
+2022;4;Málaga;Europa;Bulgaria;1110,0;7326,0;6,6
+2022;4;Málaga;Europa;Bélgica;27784,0;191710,0;6,9
+2022;4;Málaga;Europa;Chipre;53,0;313,0;5,9
+2022;4;Málaga;Europa;Croacia;454,0;2633,0;5,8
+2022;4;Málaga;Europa;Dinamarca;17190,0;137520,0;8,0
+2022;4;Málaga;Europa;Eslovenia;172,0;1101,0;6,4
+2022;4;Málaga;Europa;Estonia;4023,0;23333,0;5,8
+2022;4;Málaga;Europa;Finlandia;10206,0;105122,0;10,3
+2022;4;Málaga;Europa;Francia;28997,0;255174,0;8,8
+2022;4;Málaga;Europa;Georgia;56,0;297,0;5,3
+2022;4;Málaga;Europa;Grecia;470,0;3525,0;7,5
+2022;4;Málaga;Europa;Hungría;1317,0;9087,0;6,9
+2022;4;Málaga;Europa;Irlanda;30949,0;204263,0;6,6
+2022;4;Málaga;Europa;Islandia;317,0;3170,0;10,0
+2022;4;Málaga;Europa;Italia;7673,0;48340,0;6,3
+2022;4;Málaga;Europa;Letonia;1603,0;14748,0;9,2
+2022;4;Málaga;Europa;Liechtenstein;270,0;2862,0;10,6
+2022;4;Málaga;Europa;Lituania;1149,0;9422,0;8,2
+2022;4;Málaga;Europa;Luxemburgo;2046,0;19028,0;9,3
+2022;4;Málaga;Europa;Macedonia del Norte;64,0;326,0;5,1
+2022;4;Málaga;Europa;Malta;218,0;1613,0;7,4
+2022;4;Málaga;Europa;Moldavia;59,0;478,0;8,1
+2022;4;Málaga;Europa;Montenegro;38,0;160,0;4,2
+2022;4;Málaga;Europa;Noruega;15368,0;133702,0;8,7
+2022;4;Málaga;Europa;Países Bajos;23357,0;179849,0;7,7
+2022;4;Málaga;Europa;Polonia;6233,0;50487,0;8,1
+2022;4;Málaga;Europa;Portugal;5216,0;27645,0;5,3
+2022;4;Málaga;Europa;Reino Unido;168950,0;1146048,0;6,05
+2022;4;Málaga;Europa;República Checa;2815,0;19987,0;7,1
+2022;4;Málaga;Europa;República Eslovaca;593,0;4388,0;7,4
+2022;4;Málaga;Europa;Rumanía;2362,0;18187,0;7,7
+2022;4;Málaga;Europa;Rusia;1156,0;11329,0;9,8
+2022;4;Málaga;Europa;Serbia;103,0;659,0;6,4
+2022;4;Málaga;Europa;Suecia;28450,0;221910,0;7,8
+2022;4;Málaga;Europa;Suiza;8997,0;61180,0;6,8
+2022;4;Málaga;Europa;Turquía;343,0;2058,0;6,0
+2022;4;Málaga;Oceanía;Australia;178,0;1193,0;6,7
+2022;4;Málaga;Oceanía;Nueva Zelanda;36,0;281,0;7,8
+2022;4;Málaga;Total;Total;455400,0;3394866,0;7,5
+2022;4;Málaga;Total;Total América;13170,0;96474,0;7,3
+2022;4;Málaga;Total;Total América del Norte;10274,0;70500,0;6,9
+2022;4;Málaga;Total;Total Asia;4952,0;31450,0;6,4
+2022;4;Málaga;Total;Total Centroamérica y Caribe;207,0;1671,0;8,1
+2022;4;Málaga;Total;Total Europa;433244,0;3240022,0;7,5
+2022;4;Málaga;Total;Total Oceanía;217,0;1515,0;7,0
+2022;4;Málaga;Total;Total Sudamérica;2689,0;24303,0;9,0
+2022;4;Málaga;Total;Total África;3817,0;25405,0;6,7
+2022;4;Málaga;África;Argelia;103,0;597,0;5,8
+2022;4;Málaga;África;Egipto;83,0;556,0;6,7
+2022;4;Málaga;África;Kenia;68,0;483,0;7,1
+2022;4;Málaga;África;Marruecos;3116,0;20566,0;6,6
+2022;4;Málaga;África;Nigeria;116,0;870,0;7,5
+2022;4;Málaga;África;Senegal;134,0;951,0;7,1
+2022;4;Málaga;África;Sudáfrica;47,0;428,0;9,1
+2022;4;Málaga;África;Túnez;35,0;182,0;5,2
+2022;5;Málaga;América;Argentina;1319,0;15037,0;11,4
+2022;5;Málaga;América;Brasil;546,0;4750,0;8,7
+2022;5;Málaga;América;Canadá;3088,0;21616,0;7,0
+2022;5;Málaga;América;Chile;180,0;1440,0;8,0
+2022;5;Málaga;América;Colombia;910,0;8372,0;9,2
+2022;5;Málaga;América;Ecuador;51,0;413,0;8,1
+2022;5;Málaga;América;Estados Unidos de América;9001,0;62107,0;6,9
+2022;5;Málaga;América;México;999,0;6094,0;6,1
+2022;5;Málaga;América;Nicaragua;86,0;817,0;9,5
+2022;5;Málaga;América;Panamá;37,0;329,0;8,9
+2022;5;Málaga;América;Paraguay;189,0;1852,0;9,8
+2022;5;Málaga;América;Perú;155,0;1550,0;10,0
+2022;5;Málaga;América;Uruguay;71,0;838,0;11,8
+2022;5;Málaga;América;Venezuela;127,0;1219,0;9,6
+2022;5;Málaga;Asia;Arabia Saudí;497,0;3231,0;6,5
+2022;5;Málaga;Asia;Bahréin;62,0;335,0;5,4
+2022;5;Málaga;Asia;China;714,0;4570,0;6,4
+2022;5;Málaga;Asia;Corea;148,0;784,0;5,3
+2022;5;Málaga;Asia;Emiratos Árabes Unidos;696,0;4385,0;6,3
+2022;5;Málaga;Asia;Filipinas;951,0;3994,0;4,2
+2022;5;Málaga;Asia;India;656,0;3936,0;6,0
+2022;5;Málaga;Asia;Indonesia;415,0;1785,0;4,3
+2022;5;Málaga;Asia;Irán;165,0;1634,0;9,9
+2022;5;Málaga;Asia;Israel;359,0;2693,0;7,5
+2022;5;Málaga;Asia;Japón;121,0;1016,0;8,4
+2022;5;Málaga;Asia;Jordania;45,0;239,0;5,3
+2022;5;Málaga;Asia;Kazajstán;97,0;834,0;8,6
+2022;5;Málaga;Asia;Kuwait;235,0;1974,0;8,4
+2022;5;Málaga;Asia;Líbano;69,0;531,0;7,7
+2022;5;Málaga;Asia;Malasia;67,0;482,0;7,2
+2022;5;Málaga;Asia;Omán;37,0;281,0;7,6
+2022;5;Málaga;Asia;Pakistán;38,0;395,0;10,4
+2022;5;Málaga;Asia;Qatar;142,0;895,0;6,3
+2022;5;Málaga;Asia;Singapur;144,0;1253,0;8,7
+2022;5;Málaga;Asia;Tailandia;241,0;940,0;3,9
+2022;5;Málaga;Asia;Vietnam;41,0;258,0;6,3
+2022;5;Málaga;Europa;Albania;55,0;336,0;6,1
+2022;5;Málaga;Europa;Alemania;28256,0;279734,0;9,9
+2022;5;Málaga;Europa;Andorra;105,0;914,0;8,7
+2022;5;Málaga;Europa;Armenia;30,0;195,0;6,5
+2022;5;Málaga;Europa;Austria;5376,0;60211,0;11,2
+2022;5;Málaga;Europa;Belarús;156,0;1404,0;9,0
+2022;5;Málaga;Europa;Bosnia y Herzegovina;65,0;325,0;5,0
+2022;5;Málaga;Europa;Bulgaria;1471,0;9414,0;6,4
+2022;5;Málaga;Europa;Bélgica;23853,0;169356,0;7,1
+2022;5;Málaga;Europa;Chipre;64,0;352,0;5,5
+2022;5;Málaga;Europa;Croacia;527,0;3004,0;5,7
+2022;5;Málaga;Europa;Dinamarca;17722,0;138232,0;7,8
+2022;5;Málaga;Europa;Eslovenia;456,0;2599,0;5,7
+2022;5;Málaga;Europa;Estonia;2123,0;20169,0;9,5
+2022;5;Málaga;Europa;Finlandia;9812,0;98120,0;10,0
+2022;5;Málaga;Europa;Francia;40347,0;326811,0;8,1
+2022;5;Málaga;Europa;Georgia;64,0;352,0;5,5
+2022;5;Málaga;Europa;Grecia;438,0;2935,0;6,7
+2022;5;Málaga;Europa;Hungría;1738,0;11645,0;6,7
+2022;5;Málaga;Europa;Irlanda;33783,0;229724,0;6,8
+2022;5;Málaga;Europa;Islandia;239,0;2175,0;9,1
+2022;5;Málaga;Europa;Italia;9970,0;59820,0;6,0
+2022;5;Málaga;Europa;Letonia;1771,0;17179,0;9,7
+2022;5;Málaga;Europa;Liechtenstein;304,0;3526,0;11,6
+2022;5;Málaga;Europa;Lituania;1103,0;8934,0;8,1
+2022;5;Málaga;Europa;Luxemburgo;1823,0;15313,0;8,4
+2022;5;Málaga;Europa;Macedonia del Norte;45,0;248,0;5,5
+2022;5;Málaga;Europa;Malta;265,0;1908,0;7,2
+2022;5;Málaga;Europa;Moldavia;87,0;653,0;7,5
+2022;5;Málaga;Europa;Montenegro;37,0;148,0;4,0
+2022;5;Málaga;Europa;Noruega;15274,0;117610,0;7,7
+2022;5;Málaga;Europa;Países Bajos;37986,0;296291,0;7,8
+2022;5;Málaga;Europa;Polonia;9693,0;76575,0;7,9
+2022;5;Málaga;Europa;Portugal;3154,0;19870,0;6,3
+2022;5;Málaga;Europa;Reino Unido;189541,0;1230149,0;6,05
+2022;5;Málaga;Europa;República Checa;3107,0;21438,0;6,9
+2022;5;Málaga;Europa;República Eslovaca;751,0;5783,0;7,7
+2022;5;Málaga;Europa;Rumanía;2800,0;20720,0;7,4
+2022;5;Málaga;Europa;Rusia;1124,0;11577,0;10,3
+2022;5;Málaga;Europa;Serbia;229,0;1237,0;5,4
+2022;5;Málaga;Europa;Suecia;26523,0;196270,0;7,4
+2022;5;Málaga;Europa;Suiza;9490,0;74022,0;7,8
+2022;5;Málaga;Europa;Turquía;506,0;2429,0;4,8
+2022;5;Málaga;Oceanía;Australia;292,0;2102,0;7,2
+2022;5;Málaga;Oceanía;Nueva Zelanda;49,0;377,0;7,7
+2022;5;Málaga;Total;Total;517793,0;3770607,0;7,3
+2022;5;Málaga;Total;Total América;16851,0;127284,0;7,6
+2022;5;Málaga;Total;Total América del Norte;13088,0;89817,0;6,9
+2022;5;Málaga;Total;Total Asia;6061,0;37186,0;6,1
+2022;5;Málaga;Total;Total Centroamérica y Caribe;208,0;1953,0;9,4
+2022;5;Málaga;Total;Total Europa;482266,0;3539721,0;7,3
+2022;5;Málaga;Total;Total Oceanía;344,0;2523,0;7,3
+2022;5;Málaga;Total;Total Sudamérica;3555,0;35514,0;10,0
+2022;5;Málaga;Total;Total África;12271,0;63893,0;5,2
+2022;5;Málaga;África;Argelia;125,0;613,0;4,9
+2022;5;Málaga;África;Egipto;127,0;711,0;5,6
+2022;5;Málaga;África;Ghana;35,0;179,0;5,1
+2022;5;Málaga;África;Kenia;61,0;494,0;8,1
+2022;5;Málaga;África;Marruecos;11293,0;57594,0;5,1
+2022;5;Málaga;África;Mauricio;31,0;143,0;4,6
+2022;5;Málaga;África;Nigeria;141,0;1043,0;7,4
+2022;5;Málaga;África;Senegal;166,0;1228,0;7,4
+2022;5;Málaga;África;Sudáfrica;119,0;833,0;7,0
+2022;5;Málaga;África;Túnez;70,0;378,0;5,4
+2022;6;Málaga;América;Argentina;1517,0;18356,0;12,1
+2022;6;Málaga;América;Brasil;598,0;4904,0;8,2
+2022;6;Málaga;América;Canadá;2769,0;18275,0;6,6
+2022;6;Málaga;América;Chile;258,0;1832,0;7,1
+2022;6;Málaga;América;Colombia;867,0;8237,0;9,5
+2022;6;Málaga;América;Ecuador;54,0;475,0;8,8
+2022;6;Málaga;América;Estados Unidos de América;13711,0;94606,0;6,9
+2022;6;Málaga;América;México;783,0;4463,0;5,7
+2022;6;Málaga;América;Nicaragua;52,0;499,0;9,6
+2022;6;Málaga;América;Panamá;54,0;529,0;9,8
+2022;6;Málaga;América;Paraguay;184,0;1380,0;7,5
+2022;6;Málaga;América;Perú;142,0;1292,0;9,1
+2022;6;Málaga;América;Uruguay;105,0;924,0;8,8
+2022;6;Málaga;América;Venezuela;100,0;1210,0;12,1
+2022;6;Málaga;Asia;Arabia Saudí;447,0;2950,0;6,6
+2022;6;Málaga;Asia;Bahréin;60,0;342,0;5,7
+2022;6;Málaga;Asia;China;642,0;4173,0;6,5
+2022;6;Málaga;Asia;Corea;179,0;895,0;5,0
+2022;6;Málaga;Asia;Emiratos Árabes Unidos;670,0;4623,0;6,9
+2022;6;Málaga;Asia;Filipinas;476,0;2237,0;4,7
+2022;6;Málaga;Asia;India;566,0;3679,0;6,5
+2022;6;Málaga;Asia;Indonesia;124,0;1004,0;8,1
+2022;6;Málaga;Asia;Irán;186,0;1600,0;8,6
+2022;6;Málaga;Asia;Israel;336,0;2386,0;7,1
+2022;6;Málaga;Asia;Japón;171,0;1522,0;8,9
+2022;6;Málaga;Asia;Jordania;36,0;248,0;6,9
+2022;6;Málaga;Asia;Kazajstán;81,0;583,0;7,2
+2022;6;Málaga;Asia;Kuwait;365,0;2519,0;6,9
+2022;6;Málaga;Asia;Líbano;67,0;496,0;7,4
+2022;6;Málaga;Asia;Malasia;66,0;370,0;5,6
+2022;6;Málaga;Asia;Omán;35,0;186,0;5,3
+2022;6;Málaga;Asia;Pakistán;49,0;333,0;6,8
+2022;6;Málaga;Asia;Qatar;239,0;1601,0;6,7
+2022;6;Málaga;Asia;Singapur;137,0;1123,0;8,2
+2022;6;Málaga;Asia;Tailandia;195,0;917,0;4,7
+2022;6;Málaga;Asia;Vietnam;31,0;174,0;5,6
+2022;6;Málaga;Europa;Albania;83,0;647,0;7,8
+2022;6;Málaga;Europa;Alemania;32305,0;313359,0;9,7
+2022;6;Málaga;Europa;Andorra;87,0;809,0;9,3
+2022;6;Málaga;Europa;Austria;4061,0;35331,0;8,7
+2022;6;Málaga;Europa;Belarús;150,0;1290,0;8,6
+2022;6;Málaga;Europa;Bulgaria;1416,0;9062,0;6,4
+2022;6;Málaga;Europa;Bélgica;26105,0;201009,0;7,7
+2022;6;Málaga;Europa;Chipre;76,0;547,0;7,2
+2022;6;Málaga;Europa;Croacia;307,0;2026,0;6,6
+2022;6;Málaga;Europa;Dinamarca;15347,0;124311,0;8,1
+2022;6;Málaga;Europa;Eslovenia;168,0;1075,0;6,4
+2022;6;Málaga;Europa;Estonia;1243,0;11933,0;9,6
+2022;6;Málaga;Europa;Finlandia;9026,0;83039,0;9,2
+2022;6;Málaga;Europa;Francia;30693,0;257821,0;8,4
+2022;6;Málaga;Europa;Georgia;87,0;566,0;6,5
+2022;6;Málaga;Europa;Grecia;597,0;3821,0;6,4
+2022;6;Málaga;Europa;Hungría;2053,0;14576,0;7,1
+2022;6;Málaga;Europa;Irlanda;36096,0;281549,0;7,8
+2022;6;Málaga;Europa;Islandia;449,0;4310,0;9,6
+2022;6;Málaga;Europa;Italia;10406,0;64517,0;6,2
+2022;6;Málaga;Europa;Letonia;1876,0;17447,0;9,3
+2022;6;Málaga;Europa;Liechtenstein;295,0;3422,0;11,6
+2022;6;Málaga;Europa;Lituania;1065,0;7668,0;7,2
+2022;6;Málaga;Europa;Luxemburgo;1631,0;14516,0;8,9
+2022;6;Málaga;Europa;Macedonia del Norte;65,0;325,0;5,0
+2022;6;Málaga;Europa;Malta;233,0;1911,0;8,2
+2022;6;Málaga;Europa;Moldavia;76,0;699,0;9,2
+2022;6;Málaga;Europa;Noruega;14286,0;100002,0;7,0
+2022;6;Málaga;Europa;Países Bajos;31655,0;256406,0;8,1
+2022;6;Málaga;Europa;Polonia;9044,0;71448,0;7,9
+2022;6;Málaga;Europa;Portugal;5737,0;32701,0;5,7
+2022;6;Málaga;Europa;Reino Unido;208818,0;1477530,0;6,2
+2022;6;Málaga;Europa;República Checa;3231,0;22940,0;7,1
+2022;6;Málaga;Europa;República Eslovaca;891,0;6772,0;7,6
+2022;6;Málaga;Europa;Rumanía;2858,0;22864,0;8,0
+2022;6;Málaga;Europa;Rusia;1140,0;11058,0;9,7
+2022;6;Málaga;Europa;Serbia;102,0;663,0;6,5
+2022;6;Málaga;Europa;Suecia;25176,0;186302,0;7,4
+2022;6;Málaga;Europa;Suiza;9687,0;66840,0;6,9
+2022;6;Málaga;Europa;Turquía;421,0;2063,0;4,9
+2022;6;Málaga;Oceanía;Australia;448,0;3270,0;7,3
+2022;6;Málaga;Oceanía;Nueva Zelanda;78,0;764,0;9,8
+2022;6;Málaga;Total;Total;525340,0;3964470,0;7,5
+2022;6;Málaga;Total;Total América;21269,0;157573,0;7,4
+2022;6;Málaga;Total;Total América del Norte;17263,0;117344,0;6,8
+2022;6;Málaga;Total;Total Asia;5251,0;34622,0;6,6
+2022;6;Málaga;Total;Total Centroamérica y Caribe;174,0;1570,0;9,0
+2022;6;Málaga;Total;Total Europa;489119,0;3715662,0;7,6
+2022;6;Málaga;Total;Total Oceanía;529,0;4072,0;7,7
+2022;6;Málaga;Total;Total Sudamérica;3832,0;38659,0;10,1
+2022;6;Málaga;Total;Total África;9172,0;52541,0;5,7
+2022;6;Málaga;África;Argelia;193,0;1177,0;6,1
+2022;6;Málaga;África;Egipto;101,0;657,0;6,5
+2022;6;Málaga;África;Kenia;30,0;180,0;6,0
+2022;6;Málaga;África;Marruecos;8241,0;46150,0;5,6
+2022;6;Málaga;África;Nigeria;114,0;855,0;7,5
+2022;6;Málaga;África;Senegal;137,0;986,0;7,2
+2022;6;Málaga;África;Sudáfrica;131,0;956,0;7,3
+2022;6;Málaga;África;Túnez;90,0;531,0;5,9
+2022;7;Málaga;América;Argentina;1608,0;19618,0;12,2
+2022;7;Málaga;América;Brasil;732,0;7027,0;9,6
+2022;7;Málaga;América;Canadá;2931,0;21396,0;7,3
+2022;7;Málaga;América;Chile;310,0;2263,0;7,3
+2022;7;Málaga;América;Colombia;1085,0;10416,0;9,6
+2022;7;Málaga;América;Ecuador;69,0;628,0;9,1
+2022;7;Málaga;América;Estados Unidos de América;12126,0;86095,0;7,1
+2022;7;Málaga;América;Guatemala;35,0;263,0;7,5
+2022;7;Málaga;América;México;939,0;6104,0;6,5
+2022;7;Málaga;América;Nicaragua;37,0;370,0;10,0
+2022;7;Málaga;América;Panamá;62,0;570,0;9,2
+2022;7;Málaga;América;Paraguay;210,0;1680,0;8,0
+2022;7;Málaga;América;Perú;155,0;1814,0;11,7
+2022;7;Málaga;América;Uruguay;132,0;1478,0;11,2
+2022;7;Málaga;América;Venezuela;133,0;1330,0;10,0
+2022;7;Málaga;Asia;Arabia Saudí;4054,0;27973,0;6,9
+2022;7;Málaga;Asia;Bahréin;333,0;1965,0;5,9
+2022;7;Málaga;Asia;China;764,0;5883,0;7,7
+2022;7;Málaga;Asia;Corea;267,0;1415,0;5,3
+2022;7;Málaga;Asia;Emiratos Árabes Unidos;1698,0;10528,0;6,2
+2022;7;Málaga;Asia;Filipinas;492,0;2558,0;5,2
+2022;7;Málaga;Asia;India;453,0;2899,0;6,4
+2022;7;Málaga;Asia;Indonesia;157,0;1005,0;6,4
+2022;7;Málaga;Asia;Iraq;34,0;146,0;4,3
+2022;7;Málaga;Asia;Irán;207,0;1656,0;8,0
+2022;7;Málaga;Asia;Israel;443,0;3500,0;7,9
+2022;7;Málaga;Asia;Japón;102,0;755,0;7,4
+2022;7;Málaga;Asia;Jordania;224,0;1590,0;7,1
+2022;7;Málaga;Asia;Kazajstán;107,0;1091,0;10,2
+2022;7;Málaga;Asia;Kuwait;2226,0;20702,0;9,3
+2022;7;Málaga;Asia;Líbano;268,0;1581,0;5,9
+2022;7;Málaga;Asia;Malasia;84,0;512,0;6,1
+2022;7;Málaga;Asia;Omán;56,0;325,0;5,8
+2022;7;Málaga;Asia;Pakistán;44,0;295,0;6,7
+2022;7;Málaga;Asia;Qatar;1189,0;7015,0;5,9
+2022;7;Málaga;Asia;Singapur;196,0;1588,0;8,1
+2022;7;Málaga;Asia;Sri Lanka;36,0;288,0;8,0
+2022;7;Málaga;Asia;Tailandia;232,0;1206,0;5,2
+2022;7;Málaga;Asia;Vietnam;45,0;338,0;7,5
+2022;7;Málaga;Europa;Albania;82,0;615,0;7,5
+2022;7;Málaga;Europa;Alemania;26105,0;274103,0;10,5
+2022;7;Málaga;Europa;Andorra;136,0;1238,0;9,1
+2022;7;Málaga;Europa;Armenia;42,0;260,0;6,2
+2022;7;Málaga;Europa;Austria;4724,0;38264,0;8,1
+2022;7;Málaga;Europa;Belarús;166,0;1444,0;8,7
+2022;7;Málaga;Europa;Bulgaria;1462,0;11988,0;8,2
+2022;7;Málaga;Europa;Bélgica;34051,0;275813,0;8,1
+2022;7;Málaga;Europa;Chipre;68,0;442,0;6,5
+2022;7;Málaga;Europa;Croacia;225,0;1440,0;6,4
+2022;7;Málaga;Europa;Dinamarca;29669,0;249220,0;8,4
+2022;7;Málaga;Europa;Eslovenia;320,0;2432,0;7,6
+2022;7;Málaga;Europa;Estonia;1560,0;14352,0;9,2
+2022;7;Málaga;Europa;Finlandia;10156,0;93435,0;9,2
+2022;7;Málaga;Europa;Francia;40943,0;327544,0;8,0
+2022;7;Málaga;Europa;Georgia;124,0;732,0;5,9
+2022;7;Málaga;Europa;Grecia;585,0;3920,0;6,7
+2022;7;Málaga;Europa;Hungría;2932,0;23163,0;7,9
+2022;7;Málaga;Europa;Irlanda;37688,0;320348,0;8,5
+2022;7;Málaga;Europa;Islandia;525,0;4883,0;9,3
+2022;7;Málaga;Europa;Italia;12912,0;90384,0;7,0
+2022;7;Málaga;Europa;Letonia;1674,0;17410,0;10,4
+2022;7;Málaga;Europa;Liechtenstein;344,0;3406,0;9,9
+2022;7;Málaga;Europa;Lituania;1270,0;9779,0;7,7
+2022;7;Málaga;Europa;Luxemburgo;1827,0;16443,0;9,0
+2022;7;Málaga;Europa;Macedonia del Norte;71,0;419,0;5,9
+2022;7;Málaga;Europa;Malta;302,0;2235,0;7,4
+2022;7;Málaga;Europa;Moldavia;97,0;776,0;8,0
+2022;7;Málaga;Europa;Montenegro;30,0;207,0;6,9
+2022;7;Málaga;Europa;Noruega;25906,0;235745,0;9,1
+2022;7;Málaga;Europa;Países Bajos;31886,0;261465,0;8,2
+2022;7;Málaga;Europa;Polonia;11458,0;81352,0;7,1
+2022;7;Málaga;Europa;Portugal;7861,0;50310,0;6,4
+2022;7;Málaga;Europa;Reino Unido;218447,0;1612401,0;6,65
+2022;7;Málaga;Europa;República Checa;4272,0;33322,0;7,8
+2022;7;Málaga;Europa;República Eslovaca;1149,0;9767,0;8,5
+2022;7;Málaga;Europa;Rumanía;2898,0;24343,0;8,4
+2022;7;Málaga;Europa;Rusia;1651,0;15519,0;9,4
+2022;7;Málaga;Europa;Serbia;229,0;1649,0;7,2
+2022;7;Málaga;Europa;Suecia;35647,0;306564,0;8,6
+2022;7;Málaga;Europa;Suiza;10651,0;82013,0;7,7
+2022;7;Málaga;Europa;Turquía;570,0;3135,0;5,5
+2022;7;Málaga;Oceanía;Australia;706,0;5295,0;7,5
+2022;7;Málaga;Oceanía;Nueva Zelanda;140,0;1078,0;7,7
+2022;7;Málaga;Total;Total;615556,0;4871231,0;7,9
+2022;7;Málaga;Total;Total América;20674,0;161987,0;7,8
+2022;7;Málaga;Total;Total América del Norte;15996,0;113595,0;7,1
+2022;7;Málaga;Total;Total Asia;13798,0;97366,0;7,1
+2022;7;Málaga;Total;Total Centroamérica y Caribe;236,0;2091,0;8,9
+2022;7;Málaga;Total;Total Europa;562731,0;4504367,0;8,0
+2022;7;Málaga;Total;Total Oceanía;848,0;6407,0;7,6
+2022;7;Málaga;Total;Total Sudamérica;4442,0;46301,0;10,4
+2022;7;Málaga;Total;Total África;17505,0;101104,0;5,8
+2022;7;Málaga;África;Argelia;212,0;1463,0;6,9
+2022;7;Málaga;África;Egipto;277,0;1634,0;5,9
+2022;7;Málaga;África;Kenia;46,0;248,0;5,4
+2022;7;Málaga;África;Mali;37,0;218,0;5,9
+2022;7;Málaga;África;Marruecos;16104,0;91793,0;5,7
+2022;7;Málaga;África;Nigeria;189,0;1304,0;6,9
+2022;7;Málaga;África;República Democrática del Congo;40,0;212,0;5,3
+2022;7;Málaga;África;Senegal;142,0;966,0;6,8
+2022;7;Málaga;África;Sudáfrica;192,0;1440,0;7,5
+2022;7;Málaga;África;Túnez;96,0;662,0;6,9
+2022;8;Málaga;América;Argentina;1580,0;20066,0;12,7
+2022;8;Málaga;América;Brasil;726,0;8494,0;11,7
+2022;8;Málaga;América;Canadá;2776,0;19710,0;7,1
+2022;8;Málaga;América;Chile;244,0;2147,0;8,8
+2022;8;Málaga;América;Colombia;1086,0;11729,0;10,8
+2022;8;Málaga;América;Ecuador;70,0;840,0;12,0
+2022;8;Málaga;América;Estados Unidos de América;8661,0;73619,0;8,5
+2022;8;Málaga;América;México;933,0;6624,0;7,1
+2022;8;Málaga;América;Nicaragua;49,0;372,0;7,6
+2022;8;Málaga;América;Panamá;64,0;774,0;12,1
+2022;8;Málaga;América;Paraguay;227,0;2020,0;8,9
+2022;8;Málaga;América;Perú;130,0;1300,0;10,0
+2022;8;Málaga;América;Uruguay;107,0;1220,0;11,4
+2022;8;Málaga;América;Venezuela;120,0;2172,0;18,1
+2022;8;Málaga;Asia;Arabia Saudí;5220,0;52722,0;10,1
+2022;8;Málaga;Asia;Azerbaiyán;49,0;314,0;6,4
+2022;8;Málaga;Asia;Bahréin;531,0;6160,0;11,6
+2022;8;Málaga;Asia;China;807,0;6940,0;8,6
+2022;8;Málaga;Asia;Corea;157,0;926,0;5,9
+2022;8;Málaga;Asia;Emiratos Árabes Unidos;2075,0;18675,0;9,0
+2022;8;Málaga;Asia;Filipinas;593,0;4981,0;8,4
+2022;8;Málaga;Asia;India;400,0;2640,0;6,6
+2022;8;Málaga;Asia;Indonesia;195,0;1853,0;9,5
+2022;8;Málaga;Asia;Irán;262,0;2725,0;10,4
+2022;8;Málaga;Asia;Israel;506,0;4605,0;9,1
+2022;8;Málaga;Asia;Japón;223,0;2408,0;10,8
+2022;8;Málaga;Asia;Jordania;96,0;960,0;10,0
+2022;8;Málaga;Asia;Kazajstán;120,0;1200,0;10,0
+2022;8;Málaga;Asia;Kuwait;3367,0;46465,0;13,8
+2022;8;Málaga;Asia;Líbano;156,0;1498,0;9,6
+2022;8;Málaga;Asia;Malasia;45,0;293,0;6,5
+2022;8;Málaga;Asia;Omán;83,0;1145,0;13,8
+2022;8;Málaga;Asia;Pakistán;54,0;367,0;6,8
+2022;8;Málaga;Asia;Qatar;602,0;6321,0;10,5
+2022;8;Málaga;Asia;Singapur;158,0;1864,0;11,8
+2022;8;Málaga;Asia;Tailandia;209,0;899,0;4,3
+2022;8;Málaga;Asia;Vietnam;55,0;380,0;6,9
+2022;8;Málaga;Europa;Albania;105,0;840,0;8,0
+2022;8;Málaga;Europa;Alemania;28948,0;361850,0;12,5
+2022;8;Málaga;Europa;Andorra;174,0;1636,0;9,4
+2022;8;Málaga;Europa;Armenia;74,0;829,0;11,2
+2022;8;Málaga;Europa;Austria;6318,0;64444,0;10,2
+2022;8;Málaga;Europa;Belarús;242,0;2275,0;9,4
+2022;8;Málaga;Europa;Bulgaria;838,0;7793,0;9,3
+2022;8;Málaga;Europa;Bélgica;30743,0;276687,0;9,0
+2022;8;Málaga;Europa;Chipre;67,0;476,0;7,1
+2022;8;Málaga;Europa;Croacia;343,0;2298,0;6,7
+2022;8;Málaga;Europa;Dinamarca;20119,0;189119,0;9,4
+2022;8;Málaga;Europa;Eslovenia;233,0;1678,0;7,2
+2022;8;Málaga;Europa;Estonia;1288,0;12107,0;9,4
+2022;8;Málaga;Europa;Finlandia;6359,0;54687,0;8,6
+2022;8;Málaga;Europa;Francia;70360,0;668420,0;9,5
+2022;8;Málaga;Europa;Georgia;102,0;1000,0;9,8
+2022;8;Málaga;Europa;Grecia;560,0;4872,0;8,7
+2022;8;Málaga;Europa;Hungría;2436,0;21680,0;8,9
+2022;8;Málaga;Europa;Irlanda;37498,0;329982,0;8,8
+2022;8;Málaga;Europa;Islandia;429,0;4547,0;10,6
+2022;8;Málaga;Europa;Italia;19016,0;157833,0;8,3
+2022;8;Málaga;Europa;Letonia;1890,0;22491,0;11,9
+2022;8;Málaga;Europa;Liechtenstein;424,0;5215,0;12,3
+2022;8;Málaga;Europa;Lituania;894,0;7599,0;8,5
+2022;8;Málaga;Europa;Luxemburgo;2408,0;23358,0;9,7
+2022;8;Málaga;Europa;Macedonia del Norte;54,0;400,0;7,4
+2022;8;Málaga;Europa;Malta;303,0;2576,0;8,5
+2022;8;Málaga;Europa;Moldavia;88,0;739,0;8,4
+2022;8;Málaga;Europa;Noruega;15304,0;148449,0;9,7
+2022;8;Málaga;Europa;Países Bajos;45724,0;443523,0;9,7
+2022;8;Málaga;Europa;Polonia;13304,0;101110,0;7,6
+2022;8;Málaga;Europa;Portugal;12741,0;89187,0;7,0
+2022;8;Málaga;Europa;Reino Unido;216073,0;1897004,0;8,15
+2022;8;Málaga;Europa;República Checa;3374,0;29016,0;8,6
+2022;8;Málaga;Europa;República Eslovaca;1050,0;9345,0;8,9
+2022;8;Málaga;Europa;Rumanía;2794,0;25146,0;9,0
+2022;8;Málaga;Europa;Rusia;1861,0;20471,0;11,0
+2022;8;Málaga;Europa;Serbia;144,0;1037,0;7,2
+2022;8;Málaga;Europa;Suecia;27460,0;249886,0;9,1
+2022;8;Málaga;Europa;Suiza;10976,0;102077,0;9,3
+2022;8;Málaga;Europa;Turquía;399,0;2354,0;5,9
+2022;8;Málaga;Oceanía;Australia;541,0;4058,0;7,5
+2022;8;Málaga;Oceanía;Nueva Zelanda;81,0;745,0;9,2
+2022;8;Málaga;Total;Total;651885,0;5892464,0;9,0
+2022;8;Málaga;Total;Total América;16874,0;152297,0;9,0
+2022;8;Málaga;Total;Total América del Norte;12370,0;99953,0;8,1
+2022;8;Málaga;Total;Total Asia;16083,0;167198,0;10,4
+2022;8;Málaga;Total;Total Centroamérica y Caribe;206,0;2278,0;11,1
+2022;8;Málaga;Total;Total Europa;583555,0;5346339,0;9,2
+2022;8;Málaga;Total;Total Oceanía;625,0;4892,0;7,8
+2022;8;Málaga;Total;Total Sudamérica;4298,0;50066,0;11,6
+2022;8;Málaga;Total;Total África;34748,0;221738,0;6,4
+2022;8;Málaga;África;Argelia;390,0;3354,0;8,6
+2022;8;Málaga;África;Egipto;188,0;1523,0;8,1
+2022;8;Málaga;África;Ghana;44,0;524,0;11,9
+2022;8;Málaga;África;Kenia;67,0;610,0;9,1
+2022;8;Málaga;África;Marruecos;33335,0;210011,0;6,3
+2022;8;Málaga;África;Mauritania;37,0;300,0;8,1
+2022;8;Málaga;África;Nigeria;191,0;1413,0;7,4
+2022;8;Málaga;África;Senegal;108,0;950,0;8,8
+2022;8;Málaga;África;Sudáfrica;137,0;1247,0;9,1
+2022;8;Málaga;África;Túnez;92,0;681,0;7,4
+2022;9;Málaga;América;Argentina;1342,0;14762,0;11,0
+2022;9;Málaga;América;Brasil;639,0;4856,0;7,6
+2022;9;Málaga;América;Canadá;3265,0;21549,0;6,6
+2022;9;Málaga;América;Chile;250,0;1725,0;6,9
+2022;9;Málaga;América;Colombia;840,0;7308,0;8,7
+2022;9;Málaga;América;Ecuador;51,0;372,0;7,3
+2022;9;Málaga;América;Estados Unidos de América;12700,0;80010,0;6,3
+2022;9;Málaga;América;Guatemala;38,0;293,0;7,7
+2022;9;Málaga;América;Honduras;33,0;300,0;9,1
+2022;9;Málaga;América;México;813,0;6016,0;7,4
+2022;9;Málaga;América;Nicaragua;35,0;284,0;8,1
+2022;9;Málaga;América;Panamá;54,0;448,0;8,3
+2022;9;Málaga;América;Paraguay;146,0;1256,0;8,6
+2022;9;Málaga;América;Perú;152,0;1626,0;10,7
+2022;9;Málaga;América;Uruguay;120,0;1188,0;9,9
+2022;9;Málaga;América;Venezuela;101,0;737,0;7,3
+2022;9;Málaga;Asia;Arabia Saudí;1147,0;10094,0;8,8
+2022;9;Málaga;Asia;Bahréin;122,0;1122,0;9,2
+2022;9;Málaga;Asia;China;573,0;4584,0;8,0
+2022;9;Málaga;Asia;Corea;240,0;1296,0;5,4
+2022;9;Málaga;Asia;Emiratos Árabes Unidos;732,0;5344,0;7,3
+2022;9;Málaga;Asia;Filipinas;475,0;2565,0;5,4
+2022;9;Málaga;Asia;India;470,0;2914,0;6,2
+2022;9;Málaga;Asia;Indonesia;111,0;766,0;6,9
+2022;9;Málaga;Asia;Irán;231,0;1756,0;7,6
+2022;9;Málaga;Asia;Israel;406,0;3045,0;7,5
+2022;9;Málaga;Asia;Japón;258,0;1600,0;6,2
+2022;9;Málaga;Asia;Jordania;49,0;319,0;6,5
+2022;9;Málaga;Asia;Kazajstán;94,0;602,0;6,4
+2022;9;Málaga;Asia;Kuwait;899,0;13395,0;14,9
+2022;9;Málaga;Asia;Líbano;99,0;594,0;6,0
+2022;9;Málaga;Asia;Malasia;50,0;290,0;5,8
+2022;9;Málaga;Asia;Pakistán;42,0;290,0;6,9
+2022;9;Málaga;Asia;Qatar;222,0;1199,0;5,4
+2022;9;Málaga;Asia;Singapur;146,0;978,0;6,7
+2022;9;Málaga;Asia;Tailandia;194,0;912,0;4,7
+2022;9;Málaga;Asia;Vietnam;40,0;212,0;5,3
+2022;9;Málaga;Europa;Albania;83,0;540,0;6,5
+2022;9;Málaga;Europa;Alemania;31327,0;316403,0;10,1
+2022;9;Málaga;Europa;Andorra;112,0;1064,0;9,5
+2022;9;Málaga;Europa;Armenia;37,0;259,0;7,0
+2022;9;Málaga;Europa;Austria;4420,0;36244,0;8,2
+2022;9;Málaga;Europa;Belarús;222,0;1798,0;8,1
+2022;9;Málaga;Europa;Bosnia y Herzegovina;37,0;192,0;5,2
+2022;9;Málaga;Europa;Bulgaria;1212,0;7999,0;6,6
+2022;9;Málaga;Europa;Bélgica;25926,0;194445,0;7,5
+2022;9;Málaga;Europa;Chipre;67,0;422,0;6,3
+2022;9;Málaga;Europa;Croacia;488,0;2635,0;5,4
+2022;9;Málaga;Europa;Dinamarca;21130,0;145797,0;6,9
+2022;9;Málaga;Europa;Eslovenia;253,0;1493,0;5,9
+2022;9;Málaga;Europa;Estonia;1179,0;9432,0;8,0
+2022;9;Málaga;Europa;Finlandia;8847,0;68122,0;7,7
+2022;9;Málaga;Europa;Francia;30681,0;251584,0;8,2
+2022;9;Málaga;Europa;Georgia;122,0;1037,0;8,5
+2022;9;Málaga;Europa;Grecia;480,0;3024,0;6,3
+2022;9;Málaga;Europa;Hungría;2068,0;14683,0;7,1
+2022;9;Málaga;Europa;Irlanda;36629,0;252740,0;6,9
+2022;9;Málaga;Europa;Islandia;331,0;3012,0;9,1
+2022;9;Málaga;Europa;Italia;13453,0;86099,0;6,4
+2022;9;Málaga;Europa;Letonia;1673,0;15224,0;9,1
+2022;9;Málaga;Europa;Liechtenstein;419,0;3813,0;9,1
+2022;9;Málaga;Europa;Lituania;808,0;5818,0;7,2
+2022;9;Málaga;Europa;Luxemburgo;1881,0;15424,0;8,2
+2022;9;Málaga;Europa;Macedonia del Norte;56,0;308,0;5,5
+2022;9;Málaga;Europa;Malta;298,0;2414,0;8,1
+2022;9;Málaga;Europa;Moldavia;69,0;497,0;7,2
+2022;9;Málaga;Europa;Noruega;20896,0;140003,0;6,7
+2022;9;Málaga;Europa;Países Bajos;31320,0;244296,0;7,8
+2022;9;Málaga;Europa;Polonia;10106,0;69731,0;6,9
+2022;9;Málaga;Europa;Portugal;8405,0;52952,0;6,3
+2022;9;Málaga;Europa;Reino Unido;203650,0;1464698,0;6,9
+2022;9;Málaga;Europa;República Checa;2620,0;18602,0;7,1
+2022;9;Málaga;Europa;República Eslovaca;856,0;6078,0;7,1
+2022;9;Málaga;Europa;Rumanía;2408,0;18782,0;7,8
+2022;9;Málaga;Europa;Rusia;1335,0;11748,0;8,8
+2022;9;Málaga;Europa;Serbia;166,0;1062,0;6,4
+2022;9;Málaga;Europa;Suecia;21761,0;139270,0;6,4
+2022;9;Málaga;Europa;Suiza;8934,0;60751,0;6,8
+2022;9;Málaga;Europa;Turquía;419,0;1844,0;4,4
+2022;9;Málaga;Oceanía;Australia;612,0;4223,0;6,9
+2022;9;Málaga;Oceanía;Nueva Zelanda;113,0;994,0;8,8
+2022;9;Málaga;Total;Total;541327,0;3963769,0;7,3
+2022;9;Málaga;Total;Total América;20644,0;143208,0;6,9
+2022;9;Málaga;Total;Total América del Norte;16778,0;107575,0;6,4
+2022;9;Málaga;Total;Total Asia;6756,0;54976,0;8,1
+2022;9;Málaga;Total;Total Centroamérica y Caribe;218,0;1731,0;7,9
+2022;9;Málaga;Total;Total Europa;497213,0;3672541,0;7,4
+2022;9;Málaga;Total;Total Oceanía;728,0;5240,0;7,2
+2022;9;Málaga;Total;Total Sudamérica;3648,0;33902,0;9,3
+2022;9;Málaga;Total;Total África;15986,0;87804,0;5,5
+2022;9;Málaga;África;Argelia;204,0;1795,0;8,8
+2022;9;Málaga;África;Egipto;119,0;678,0;5,7
+2022;9;Málaga;África;Ghana;32,0;253,0;7,9
+2022;9;Málaga;África;Kenia;36,0;263,0;7,3
+2022;9;Málaga;África;Marruecos;14983,0;80908,0;5,4
+2022;9;Málaga;África;Nigeria;153,0;1025,0;6,7
+2022;9;Málaga;África;Senegal;95,0;551,0;5,8
+2022;9;Málaga;África;Sudáfrica;133,0;1024,0;7,7
+2022;9;Málaga;África;Túnez;88,0;440,0;5,0
+2022;10;Málaga;América;Argentina;1217,0;13022,0;10,7
+2022;10;Málaga;América;Brasil;573,0;4699,0;8,2
+2022;10;Málaga;América;Canadá;3694,0;25858,0;7,0
+2022;10;Málaga;América;Chile;212,0;1654,0;7,8
+2022;10;Málaga;América;Colombia;856,0;8046,0;9,4
+2022;10;Málaga;América;Costa Rica;44,0;422,0;9,6
+2022;10;Málaga;América;Ecuador;119,0;833,0;7,0
+2022;10;Málaga;América;Estados Unidos de América;13875,0;101288,0;7,3
+2022;10;Málaga;América;Guatemala;31,0;313,0;10,1
+2022;10;Málaga;América;Honduras;34,0;241,0;7,1
+2022;10;Málaga;América;México;740,0;4736,0;6,4
+2022;10;Málaga;América;Nicaragua;38,0;281,0;7,4
+2022;10;Málaga;América;Panamá;48,0;350,0;7,3
+2022;10;Málaga;América;Paraguay;224,0;1770,0;7,9
+2022;10;Málaga;América;Perú;118,0;1333,0;11,3
+2022;10;Málaga;América;Uruguay;109,0;1134,0;10,4
+2022;10;Málaga;América;Venezuela;97,0;1019,0;10,5
+2022;10;Málaga;Asia;Arabia Saudí;604,0;3322,0;5,5
+2022;10;Málaga;Asia;Bahréin;46,0;317,0;6,9
+2022;10;Málaga;Asia;China;686,0;5488,0;8,0
+2022;10;Málaga;Asia;Corea;264,0;1452,0;5,5
+2022;10;Málaga;Asia;Emiratos Árabes Unidos;614,0;4544,0;7,4
+2022;10;Málaga;Asia;Filipinas;497,0;2634,0;5,3
+2022;10;Málaga;Asia;India;529,0;3439,0;6,5
+2022;10;Málaga;Asia;Indonesia;181,0;1267,0;7,0
+2022;10;Málaga;Asia;Iraq;35,0;193,0;5,5
+2022;10;Málaga;Asia;Irán;293,0;2344,0;8,0
+2022;10;Málaga;Asia;Israel;485,0;3783,0;7,8
+2022;10;Málaga;Asia;Japón;153,0;1071,0;7,0
+2022;10;Málaga;Asia;Kazajstán;110,0;1023,0;9,3
+2022;10;Málaga;Asia;Kuwait;117,0;1088,0;9,3
+2022;10;Málaga;Asia;Líbano;73,0;555,0;7,6
+2022;10;Málaga;Asia;Malasia;81,0;454,0;5,6
+2022;10;Málaga;Asia;Omán;33,0;297,0;9,0
+2022;10;Málaga;Asia;Pakistán;34,0;272,0;8,0
+2022;10;Málaga;Asia;Qatar;110,0;792,0;7,2
+2022;10;Málaga;Asia;Singapur;143,0;1201,0;8,4
+2022;10;Málaga;Asia;Tailandia;197,0;887,0;4,5
+2022;10;Málaga;Asia;Vietnam;50,0;355,0;7,1
+2022;10;Málaga;Europa;Albania;64,0;358,0;5,6
+2022;10;Málaga;Europa;Alemania;36915,0;358076,0;9,7
+2022;10;Málaga;Europa;Andorra;73,0;621,0;8,5
+2022;10;Málaga;Europa;Armenia;52,0;426,0;8,2
+2022;10;Málaga;Europa;Austria;4554,0;37343,0;8,2
+2022;10;Málaga;Europa;Belarús;288,0;2362,0;8,2
+2022;10;Málaga;Europa;Bulgaria;1318,0;9094,0;6,9
+2022;10;Málaga;Europa;Bélgica;22864,0;176053,0;7,7
+2022;10;Málaga;Europa;Chipre;64,0;390,0;6,1
+2022;10;Málaga;Europa;Croacia;543,0;3149,0;5,8
+2022;10;Málaga;Europa;Dinamarca;19487,0;146153,0;7,5
+2022;10;Málaga;Europa;Eslovenia;320,0;1824,0;5,7
+2022;10;Málaga;Europa;Estonia;1999,0;15392,0;7,7
+2022;10;Málaga;Europa;Finlandia;14225,0;119490,0;8,4
+2022;10;Málaga;Europa;Francia;37045,0;281542,0;7,6
+2022;10;Málaga;Europa;Georgia;77,0;447,0;5,8
+2022;10;Málaga;Europa;Grecia;444,0;3330,0;7,5
+2022;10;Málaga;Europa;Hungría;2140,0;14766,0;6,9
+2022;10;Málaga;Europa;Irlanda;40885,0;286195,0;7,0
+2022;10;Málaga;Europa;Islandia;157,0;1460,0;9,3
+2022;10;Málaga;Europa;Italia;9676,0;60959,0;6,3
+2022;10;Málaga;Europa;Letonia;1831,0;18127,0;9,9
+2022;10;Málaga;Europa;Liechtenstein;332,0;3586,0;10,8
+2022;10;Málaga;Europa;Lituania;1355,0;8943,0;6,6
+2022;10;Málaga;Europa;Luxemburgo;1962,0;18443,0;9,4
+2022;10;Málaga;Europa;Macedonia del Norte;48,0;331,0;6,9
+2022;10;Málaga;Europa;Malta;237,0;2062,0;8,7
+2022;10;Málaga;Europa;Moldavia;73,0;548,0;7,5
+2022;10;Málaga;Europa;Montenegro;47,0;334,0;7,1
+2022;10;Málaga;Europa;Noruega;21564,0;148792,0;6,9
+2022;10;Málaga;Europa;Países Bajos;34772,0;271222,0;7,8
+2022;10;Málaga;Europa;Polonia;9178,0;65164,0;7,1
+2022;10;Málaga;Europa;Portugal;3673,0;21303,0;5,8
+2022;10;Málaga;Europa;Reino Unido;174301,0;1251606,0;6,4
+2022;10;Málaga;Europa;República Checa;3088,0;21616,0;7,0
+2022;10;Málaga;Europa;República Eslovaca;700,0;5180,0;7,4
+2022;10;Málaga;Europa;Rumanía;2302,0;16574,0;7,2
+2022;10;Málaga;Europa;Rusia;1482,0;12301,0;8,3
+2022;10;Málaga;Europa;Serbia;132,0;884,0;6,7
+2022;10;Málaga;Europa;Suecia;26245,0;188964,0;7,2
+2022;10;Málaga;Europa;Suiza;12367,0;89042,0;7,2
+2022;10;Málaga;Europa;Turquía;430,0;2150,0;5,0
+2022;10;Málaga;Oceanía;Australia;452,0;3435,0;7,6
+2022;10;Málaga;Oceanía;Nueva Zelanda;64,0;493,0;7,7
+2022;10;Málaga;Total;Total;527396,0;3935069,0;7,5
+2022;10;Málaga;Total;Total América;22072,0;167298,0;7,6
+2022;10;Málaga;Total;Total América del Norte;18309,0;131882,0;7,2
+2022;10;Málaga;Total;Total Asia;5444,0;37520,0;6,9
+2022;10;Málaga;Total;Total Centroamérica y Caribe;230,0;1864,0;8,1
+2022;10;Málaga;Total;Total Europa;489329,0;3666690,0;7,5
+2022;10;Málaga;Total;Total Oceanía;519,0;3960,0;7,6
+2022;10;Málaga;Total;Total Sudamérica;3533,0;33552,0;9,5
+2022;10;Málaga;Total;Total África;10032,0;59601,0;5,9
+2022;10;Málaga;África;Argelia;152,0;851,0;5,6
+2022;10;Málaga;África;Egipto;101,0;465,0;4,6
+2022;10;Málaga;África;Ghana;45,0;216,0;4,8
+2022;10;Málaga;África;Kenia;42,0;231,0;5,5
+2022;10;Málaga;África;Marruecos;9125,0;53838,0;5,9
+2022;10;Málaga;África;Nigeria;119,0;928,0;7,8
+2022;10;Málaga;África;Senegal;94,0;837,0;8,9
+2022;10;Málaga;África;Sudáfrica;108,0;734,0;6,8
+2022;10;Málaga;África;Túnez;91,0;491,0;5,4
+2022;11;Málaga;América;Argentina;1247,0;13966,0;11,2
+2022;11;Málaga;América;Brasil;400,0;4040,0;10,1
+2022;11;Málaga;América;Canadá;2585,0;17837,0;6,9
+2022;11;Málaga;América;Chile;174,0;1444,0;8,3
+2022;11;Málaga;América;Colombia;794,0;7464,0;9,4
+2022;11;Málaga;América;Ecuador;65,0;488,0;7,5
+2022;11;Málaga;América;Estados Unidos de América;9955,0;64708,0;6,5
+2022;11;Málaga;América;Guatemala;33,0;208,0;6,3
+2022;11;Málaga;América;Honduras;47,0;320,0;6,8
+2022;11;Málaga;América;México;810,0;5103,0;6,3
+2022;11;Málaga;América;Nicaragua;33,0;221,0;6,7
+2022;11;Málaga;América;Panamá;55,0;655,0;11,9
+2022;11;Málaga;América;Paraguay;278,0;1974,0;7,1
+2022;11;Málaga;América;Perú;135,0;1269,0;9,4
+2022;11;Málaga;América;Uruguay;62,0;657,0;10,6
+2022;11;Málaga;América;Venezuela;125,0;1538,0;12,3
+2022;11;Málaga;Asia;Arabia Saudí;443,0;2880,0;6,5
+2022;11;Málaga;Asia;China;610,0;4331,0;7,1
+2022;11;Málaga;Asia;Corea;255,0;1530,0;6,0
+2022;11;Málaga;Asia;Emiratos Árabes Unidos;429,0;3303,0;7,7
+2022;11;Málaga;Asia;Filipinas;833,0;5248,0;6,3
+2022;11;Málaga;Asia;India;535,0;2889,0;5,4
+2022;11;Málaga;Asia;Indonesia;342,0;2394,0;7,0
+2022;11;Málaga;Asia;Irán;189,0;1512,0;8,0
+2022;11;Málaga;Asia;Israel;249,0;2117,0;8,5
+2022;11;Málaga;Asia;Japón;131,0;1035,0;7,9
+2022;11;Málaga;Asia;Kazajstán;101,0;1071,0;10,6
+2022;11;Málaga;Asia;Kuwait;110,0;957,0;8,7
+2022;11;Málaga;Asia;Líbano;69,0;552,0;8,0
+2022;11;Málaga;Asia;Malasia;62,0;329,0;5,3
+2022;11;Málaga;Asia;Pakistán;34,0;316,0;9,3
+2022;11;Málaga;Asia;Qatar;147,0;2514,0;17,1
+2022;11;Málaga;Asia;Singapur;115,0;909,0;7,9
+2022;11;Málaga;Asia;Tailandia;199,0;816,0;4,1
+2022;11;Málaga;Asia;Vietnam;33,0;195,0;5,9
+2022;11;Málaga;Europa;Albania;68,0;354,0;5,2
+2022;11;Málaga;Europa;Alemania;25136,0;253874,0;10,1
+2022;11;Málaga;Europa;Andorra;76,0;654,0;8,6
+2022;11;Málaga;Europa;Armenia;35,0;326,0;9,3
+2022;11;Málaga;Europa;Austria;3643,0;33880,0;9,3
+2022;11;Málaga;Europa;Belarús;247,0;2198,0;8,9
+2022;11;Málaga;Europa;Bosnia y Herzegovina;69,0;311,0;4,5
+2022;11;Málaga;Europa;Bulgaria;593,0;4507,0;7,6
+2022;11;Málaga;Europa;Bélgica;17798,0;137045,0;7,7
+2022;11;Málaga;Europa;Chipre;51,0;270,0;5,3
+2022;11;Málaga;Europa;Croacia;525,0;2888,0;5,5
+2022;11;Málaga;Europa;Dinamarca;12161,0;107017,0;8,8
+2022;11;Málaga;Europa;Eslovenia;378,0;2079,0;5,5
+2022;11;Málaga;Europa;Estonia;1449,0;13621,0;9,4
+2022;11;Málaga;Europa;Finlandia;14133,0;163943,0;11,6
+2022;11;Málaga;Europa;Francia;23189,0;194788,0;8,4
+2022;11;Málaga;Europa;Georgia;78,0;523,0;6,7
+2022;11;Málaga;Europa;Grecia;446,0;3390,0;7,6
+2022;11;Málaga;Europa;Hungría;1788,0;12337,0;6,9
+2022;11;Málaga;Europa;Irlanda;19962,0;145723,0;7,3
+2022;11;Málaga;Europa;Islandia;78,0;694,0;8,9
+2022;11;Málaga;Europa;Italia;8395,0;52049,0;6,2
+2022;11;Málaga;Europa;Letonia;1825,0;18980,0;10,4
+2022;11;Málaga;Europa;Liechtenstein;314,0;2952,0;9,4
+2022;11;Málaga;Europa;Lituania;1643,0;11172,0;6,8
+2022;11;Málaga;Europa;Luxemburgo;1778,0;14224,0;8,0
+2022;11;Málaga;Europa;Malta;179,0;1522,0;8,5
+2022;11;Málaga;Europa;Moldavia;67,0;469,0;7,0
+2022;11;Málaga;Europa;Montenegro;40,0;236,0;5,9
+2022;11;Málaga;Europa;Noruega;11624,0;108103,0;9,3
+2022;11;Málaga;Europa;Países Bajos;30713,0;248775,0;8,1
+2022;11;Málaga;Europa;Polonia;6829,0;51900,0;7,6
+2022;11;Málaga;Europa;Portugal;2381,0;15477,0;6,5
+2022;11;Málaga;Europa;Reino Unido;71370,0;526406,0;6,85
+2022;11;Málaga;Europa;República Checa;2122,0;15915,0;7,5
+2022;11;Málaga;Europa;República Eslovaca;555,0;4163,0;7,5
+2022;11;Málaga;Europa;Rumanía;1389,0;11112,0;8,0
+2022;11;Málaga;Europa;Rusia;1375,0;13063,0;9,5
+2022;11;Málaga;Europa;Serbia;84,0;563,0;6,7
+2022;11;Málaga;Europa;Suecia;24283,0;211262,0;8,7
+2022;11;Málaga;Europa;Suiza;6549,0;47808,0;7,3
+2022;11;Málaga;Europa;Turquía;505,0;2424,0;4,8
+2022;11;Málaga;Oceanía;Australia;233,0;2027,0;8,7
+2022;11;Málaga;Oceanía;Nueva Zelanda;50,0;425,0;8,5
+2022;11;Málaga;Total;Total;327067,0;2643377,0;8,1
+2022;11;Málaga;Total;Total América;16872,0;122485,0;7,3
+2022;11;Málaga;Total;Total América del Norte;13350,0;87648,0;6,6
+2022;11;Málaga;Total;Total Asia;5053,0;36149,0;7,2
+2022;11;Málaga;Total;Total Centroamérica y Caribe;235,0;1972,0;8,4
+2022;11;Málaga;Total;Total Europa;295947,0;2439165,0;8,2
+2022;11;Málaga;Total;Total Oceanía;285,0;2475,0;8,7
+2022;11;Málaga;Total;Total Sudamérica;3287,0;32865,0;10,0
+2022;11;Málaga;Total;Total África;8910,0;43103,0;4,8
+2022;11;Málaga;África;Argelia;141,0;1213,0;8,6
+2022;11;Málaga;África;Egipto;65,0;338,0;5,2
+2022;11;Málaga;África;Ghana;49,0;431,0;8,8
+2022;11;Málaga;África;Kenia;44,0;255,0;5,8
+2022;11;Málaga;África;Marruecos;8161,0;37541,0;4,6
+2022;11;Málaga;África;Nigeria;128,0;960,0;7,5
+2022;11;Málaga;África;Senegal;84,0;790,0;9,4
+2022;11;Málaga;África;Sudáfrica;61,0;415,0;6,8
+2022;11;Málaga;África;Túnez;62,0;397,0;6,4
+2022;12;Málaga;América;Argentina;1256,0;12309,0;9,8
+2022;12;Málaga;América;Brasil;505,0;4495,0;8,9
+2022;12;Málaga;América;Canadá;1807,0;14095,0;7,8
+2022;12;Málaga;América;Chile;121,0;895,0;7,4
+2022;12;Málaga;América;Colombia;859,0;8848,0;10,3
+2022;12;Málaga;América;Ecuador;47,0;315,0;6,7
+2022;12;Málaga;América;Estados Unidos de América;6464,0;53651,0;8,3
+2022;12;Málaga;América;Honduras;38,0;255,0;6,7
+2022;12;Málaga;América;México;1058,0;8147,0;7,7
+2022;12;Málaga;América;Panamá;45,0;554,0;12,3
+2022;12;Málaga;América;Paraguay;334,0;2438,0;7,3
+2022;12;Málaga;América;Perú;123,0;1365,0;11,1
+2022;12;Málaga;América;Uruguay;33,0;307,0;9,3
+2022;12;Málaga;América;Venezuela;114,0;1345,0;11,8
+2022;12;Málaga;Asia;Arabia Saudí;501,0;3407,0;6,8
+2022;12;Málaga;Asia;Bahréin;30,0;195,0;6,5
+2022;12;Málaga;Asia;China;810,0;6480,0;8,0
+2022;12;Málaga;Asia;Corea;406,0;2436,0;6,0
+2022;12;Málaga;Asia;Emiratos Árabes Unidos;598,0;3827,0;6,4
+2022;12;Málaga;Asia;Filipinas;490,0;2401,0;4,9
+2022;12;Málaga;Asia;India;453,0;2763,0;6,1
+2022;12;Málaga;Asia;Indonesia;106,0;784,0;7,4
+2022;12;Málaga;Asia;Irán;195,0;2028,0;10,4
+2022;12;Málaga;Asia;Israel;261,0;2062,0;7,9
+2022;12;Málaga;Asia;Japón;186,0;1693,0;9,1
+2022;12;Málaga;Asia;Kazajstán;113,0;1175,0;10,4
+2022;12;Málaga;Asia;Kuwait;84,0;655,0;7,8
+2022;12;Málaga;Asia;Líbano;53,0;424,0;8,0
+2022;12;Málaga;Asia;Malasia;83,0;589,0;7,1
+2022;12;Málaga;Asia;Omán;31,0;183,0;5,9
+2022;12;Málaga;Asia;Pakistán;42,0;197,0;4,7
+2022;12;Málaga;Asia;Qatar;137,0;1069,0;7,8
+2022;12;Málaga;Asia;Singapur;113,0;1096,0;9,7
+2022;12;Málaga;Asia;Tailandia;289,0;954,0;3,3
+2022;12;Málaga;Asia;Vietnam;49,0;333,0;6,8
+2022;12;Málaga;Europa;Albania;59,0;407,0;6,9
+2022;12;Málaga;Europa;Alemania;14476,0;170817,0;11,8
+2022;12;Málaga;Europa;Andorra;45,0;482,0;10,7
+2022;12;Málaga;Europa;Armenia;48,0;384,0;8,0
+2022;12;Málaga;Europa;Austria;3148,0;31795,0;10,1
+2022;12;Málaga;Europa;Belarús;216,0;1901,0;8,8
+2022;12;Málaga;Europa;Bulgaria;398,0;3741,0;9,4
+2022;12;Málaga;Europa;Bélgica;9409,0;79036,0;8,4
+2022;12;Málaga;Europa;Chipre;58,0;493,0;8,5
+2022;12;Málaga;Europa;Croacia;329,0;2073,0;6,3
+2022;12;Málaga;Europa;Dinamarca;8601,0;74829,0;8,7
+2022;12;Málaga;Europa;Eslovenia;164,0;1099,0;6,7
+2022;12;Málaga;Europa;Estonia;1166,0;14692,0;12,6
+2022;12;Málaga;Europa;Finlandia;10539,0;138061,0;13,1
+2022;12;Málaga;Europa;Francia;17242,0;163799,0;9,5
+2022;12;Málaga;Europa;Georgia;86,0;671,0;7,8
+2022;12;Málaga;Europa;Grecia;314,0;2324,0;7,4
+2022;12;Málaga;Europa;Hungría;915,0;7229,0;7,9
+2022;12;Málaga;Europa;Irlanda;12613,0;103427,0;8,2
+2022;12;Málaga;Europa;Islandia;68,0;816,0;12,0
+2022;12;Málaga;Europa;Italia;6148,0;45495,0;7,4
+2022;12;Málaga;Europa;Letonia;1562,0;18432,0;11,8
+2022;12;Málaga;Europa;Liechtenstein;372,0;3683,0;9,9
+2022;12;Málaga;Europa;Lituania;1050,0;8505,0;8,1
+2022;12;Málaga;Europa;Luxemburgo;1248,0;12979,0;10,4
+2022;12;Málaga;Europa;Malta;178,0;1477,0;8,3
+2022;12;Málaga;Europa;Moldavia;63,0;680,0;10,8
+2022;12;Málaga;Europa;Montenegro;32,0;349,0;10,9
+2022;12;Málaga;Europa;Noruega;7700,0;76230,0;9,9
+2022;12;Málaga;Europa;Países Bajos;18981,0;168931,0;8,9
+2022;12;Málaga;Europa;Polonia;5687,0;46633,0;8,2
+2022;12;Málaga;Europa;Portugal;2779,0;18897,0;6,8
+2022;12;Málaga;Europa;Reino Unido;61615,0;451501,0;6,25
+2022;12;Málaga;Europa;República Checa;1211,0;10657,0;8,8
+2022;12;Málaga;Europa;República Eslovaca;371,0;3005,0;8,1
+2022;12;Málaga;Europa;Rumanía;1354,0;11238,0;8,3
+2022;12;Málaga;Europa;Rusia;1181,0;11338,0;9,6
+2022;12;Málaga;Europa;Serbia;81,0;429,0;5,3
+2022;12;Málaga;Europa;Suecia;15006,0;147059,0;9,8
+2022;12;Málaga;Europa;Suiza;4599,0;38172,0;8,3
+2022;12;Málaga;Europa;Turquía;398,0;2109,0;5,3
+2022;12;Málaga;Oceanía;Australia;176,0;1320,0;7,5
+2022;12;Málaga;Oceanía;Nueva Zelanda;36,0;245,0;6,8
+2022;12;Málaga;Total;Total;238270,0;2069583,0;8,7
+2022;12;Málaga;Total;Total América;12949,0;110050,0;8,5
+2022;12;Málaga;Total;Total América del Norte;9329,0;75893,0;8,1
+2022;12;Málaga;Total;Total Asia;5174,0;35718,0;6,9
+2022;12;Málaga;Total;Total Centroamérica y Caribe;210,0;1721,0;8,2
+2022;12;Málaga;Total;Total Europa;211531,0;1875974,0;8,9
+2022;12;Málaga;Total;Total Oceanía;214,0;1611,0;7,5
+2022;12;Málaga;Total;Total Sudamérica;3410,0;32436,0;9,5
+2022;12;Málaga;Total;Total África;8402,0;46230,0;5,5
+2022;12;Málaga;África;Argelia;129,0;710,0;5,5
+2022;12;Málaga;África;Egipto;114,0;661,0;5,8
+2022;12;Málaga;África;Ghana;65,0;468,0;7,2
+2022;12;Málaga;África;Kenia;33,0;208,0;6,3
+2022;12;Málaga;África;Marruecos;7666,0;41396,0;5,4
+2022;12;Málaga;África;Nigeria;104,0;645,0;6,2
+2022;12;Málaga;África;Senegal;75,0;525,0;7,0
+2022;12;Málaga;África;Sudáfrica;48,0;350,0;7,3
+2022;12;Málaga;África;Túnez;56,0;476,0;8,5
+2023;1;Málaga;América;Argentina;1582,0;17877,0;11,3
+2023;1;Málaga;América;Brasil;553,0;5088,0;9,2
+2023;1;Málaga;América;Canadá;3932,0;27524,0;7,0
+2023;1;Málaga;América;Chile;194,0;1571,0;8,1
+2023;1;Málaga;América;Colombia;904,0;10848,0;12,0
+2023;1;Málaga;América;Ecuador;77,0;1001,0;13,0
+2023;1;Málaga;América;Estados Unidos de América;6106,0;51290,0;8,4
+2023;1;Málaga;América;México;747,0;5827,0;7,8
+2023;1;Málaga;América;Panamá;75,0;938,0;12,5
+2023;1;Málaga;América;Paraguay;340,0;2924,0;8,6
+2023;1;Málaga;América;Perú;115,0;1461,0;12,7
+2023;1;Málaga;América;Uruguay;77,0;909,0;11,8
+2023;1;Málaga;América;Venezuela;174,0;2697,0;15,5
+2023;1;Málaga;Asia;Arabia Saudí;309,0;2843,0;9,2
+2023;1;Málaga;Asia;Bahréin;41,0;451,0;11,0
+2023;1;Málaga;Asia;China;920,0;7084,0;7,7
+2023;1;Málaga;Asia;Corea;519,0;3114,0;6,0
+2023;1;Málaga;Asia;Emiratos Árabes Unidos;532,0;4150,0;7,8
+2023;1;Málaga;Asia;Filipinas;358,0;2220,0;6,2
+2023;1;Málaga;Asia;India;424,0;2671,0;6,3
+2023;1;Málaga;Asia;Indonesia;109,0;785,0;7,2
+2023;1;Málaga;Asia;Irán;215,0;1957,0;9,1
+2023;1;Málaga;Asia;Israel;216,0;1469,0;6,8
+2023;1;Málaga;Asia;Japón;142,0;1122,0;7,9
+2023;1;Málaga;Asia;Kazajstán;131,0;1402,0;10,7
+2023;1;Málaga;Asia;Kuwait;169,0;1589,0;9,4
+2023;1;Málaga;Asia;Líbano;53,0;387,0;7,3
+2023;1;Málaga;Asia;Malasia;77,0;539,0;7,0
+2023;1;Málaga;Asia;Omán;51,0;622,0;12,2
+2023;1;Málaga;Asia;Otros países de Asia;31,0;146,0;4,7
+2023;1;Málaga;Asia;Pakistán;31,0;251,0;8,1
+2023;1;Málaga;Asia;Qatar;138,0;1049,0;7,6
+2023;1;Málaga;Asia;Singapur;117,0;1170,0;10,0
+2023;1;Málaga;Asia;Tailandia;211,0;844,0;4,0
+2023;1;Málaga;Asia;Uzbekistán;31,0;251,0;8,1
+2023;1;Málaga;Asia;Vietnam;46,0;368,0;8,0
+2023;1;Málaga;Europa;Albania;55,0;402,0;7,3
+2023;1;Málaga;Europa;Alemania;20736,0;223949,0;10,8
+2023;1;Málaga;Europa;Andorra;63,0;504,0;8,0
+2023;1;Málaga;Europa;Armenia;53,0;371,0;7,0
+2023;1;Málaga;Europa;Austria;4121,0;36677,0;8,9
+2023;1;Málaga;Europa;Belarús;243,0;2090,0;8,6
+2023;1;Málaga;Europa;Bosnia y Herzegovina;47,0;221,0;4,7
+2023;1;Málaga;Europa;Bulgaria;770,0;6391,0;8,3
+2023;1;Málaga;Europa;Bélgica;16401,0;134488,0;8,2
+2023;1;Málaga;Europa;Chipre;55,0;539,0;9,8
+2023;1;Málaga;Europa;Croacia;522,0;2975,0;5,7
+2023;1;Málaga;Europa;Dinamarca;9992,0;82934,0;8,3
+2023;1;Málaga;Europa;Eslovenia;127,0;762,0;6,0
+2023;1;Málaga;Europa;Estonia;1351,0;13375,0;9,9
+2023;1;Málaga;Europa;Finlandia;9974,0;107719,0;10,8
+2023;1;Málaga;Europa;Francia;19594,0;178305,0;9,1
+2023;1;Málaga;Europa;Georgia;83,0;822,0;9,9
+2023;1;Málaga;Europa;Grecia;289,0;2023,0;7,0
+2023;1;Málaga;Europa;Hungría;1961,0;14119,0;7,2
+2023;1;Málaga;Europa;Irlanda;16099,0;122352,0;7,6
+2023;1;Málaga;Europa;Islandia;80,0;808,0;10,1
+2023;1;Málaga;Europa;Italia;8276,0;57104,0;6,9
+2023;1;Málaga;Europa;Letonia;1711,0;18479,0;10,8
+2023;1;Málaga;Europa;Liechtenstein;439,0;4083,0;9,3
+2023;1;Málaga;Europa;Lituania;1114,0;8689,0;7,8
+2023;1;Málaga;Europa;Luxemburgo;1584,0;15840,0;10,0
+2023;1;Málaga;Europa;Macedonia del Norte;47,0;273,0;5,8
+2023;1;Málaga;Europa;Malta;244,0;1903,0;7,8
+2023;1;Málaga;Europa;Moldavia;63,0;617,0;9,8
+2023;1;Málaga;Europa;Montenegro;41,0;258,0;6,3
+2023;1;Málaga;Europa;Noruega;6123,0;50209,0;8,2
+2023;1;Málaga;Europa;Países Bajos;38325,0;321930,0;8,4
+2023;1;Málaga;Europa;Polonia;8427,0;56461,0;6,7
+2023;1;Málaga;Europa;Portugal;2356,0;16963,0;7,2
+2023;1;Málaga;Europa;Reino Unido;59438,0;484406,0;7,2
+2023;1;Málaga;Europa;República Checa;1631,0;13211,0;8,1
+2023;1;Málaga;Europa;República Eslovaca;544,0;3862,0;7,1
+2023;1;Málaga;Europa;Rumanía;1565,0;13459,0;8,6
+2023;1;Málaga;Europa;Rusia;1441,0;14554,0;10,1
+2023;1;Málaga;Europa;Serbia;215,0;1226,0;5,7
+2023;1;Málaga;Europa;Suecia;22039,0;200555,0;9,1
+2023;1;Málaga;Europa;Suiza;5709,0;49097,0;8,6
+2023;1;Málaga;Europa;Turquía;355,0;1811,0;5,1
+2023;1;Málaga;Oceanía;Australia;213,0;1640,0;7,7
+2023;1;Málaga;Oceanía;Nueva Zelanda;43,0;396,0;9,2
+2023;1;Málaga;Total;Total;298136,0;2503154,0;8,4
+2023;1;Málaga;Total;Total América;15056,0;131496,0;8,7
+2023;1;Málaga;Total;Total América del Norte;10785,0;84641,0;7,8
+2023;1;Málaga;Total;Total Asia;4979,0;37157,0;7,5
+2023;1;Málaga;Total;Total Centroamérica y Caribe;232,0;2272,0;9,8
+2023;1;Málaga;Total;Total Europa;264307,0;2266854,0;8,6
+2023;1;Málaga;Total;Total Oceanía;258,0;2065,0;8,0
+2023;1;Málaga;Total;Total Sudamérica;4039,0;44583,0;11,0
+2023;1;Málaga;Total;Total África;13536,0;65582,0;4,8
+2023;1;Málaga;África;Argelia;172,0;1359,0;7,9
+2023;1;Málaga;África;Egipto;91,0;482,0;5,3
+2023;1;Málaga;África;Ghana;62,0;539,0;8,7
+2023;1;Málaga;África;Marruecos;12791,0;60118,0;4,7
+2023;1;Málaga;África;Nigeria;100,0;710,0;7,1
+2023;1;Málaga;África;Senegal;76,0;608,0;8,0
+2023;1;Málaga;África;Sudáfrica;72,0;626,0;8,7
+2023;1;Málaga;África;Túnez;58,0;383,0;6,6
+2023;2;Málaga;América;Argentina;1399,0;13710,0;9,8
+2023;2;Málaga;América;Brasil;528,0;3854,0;7,3
+2023;2;Málaga;América;Canadá;4491,0;33683,0;7,5
+2023;2;Málaga;América;Chile;187,0;1533,0;8,2
+2023;2;Málaga;América;Colombia;685,0;6713,0;9,8
+2023;2;Málaga;América;Ecuador;36,0;328,0;9,1
+2023;2;Málaga;América;Estados Unidos de América;4493,0;34147,0;7,6
+2023;2;Málaga;América;Honduras;36,0;353,0;9,8
+2023;2;Málaga;América;México;560,0;3472,0;6,2
+2023;2;Málaga;América;Nicaragua;32,0;166,0;5,2
+2023;2;Málaga;América;Panamá;49,0;461,0;9,4
+2023;2;Málaga;América;Paraguay;283,0;2094,0;7,4
+2023;2;Málaga;América;Perú;109,0;1373,0;12,6
+2023;2;Málaga;América;Uruguay;33,0;284,0;8,6
+2023;2;Málaga;América;Venezuela;97,0;1038,0;10,7
+2023;2;Málaga;Asia;Arabia Saudí;208,0;1726,0;8,3
+2023;2;Málaga;Asia;China;712,0;4913,0;6,9
+2023;2;Málaga;Asia;Corea;660,0;3498,0;5,3
+2023;2;Málaga;Asia;Emiratos Árabes Unidos;384,0;2534,0;6,6
+2023;2;Málaga;Asia;Filipinas;423,0;2411,0;5,7
+2023;2;Málaga;Asia;India;406,0;2192,0;5,4
+2023;2;Málaga;Asia;Indonesia;95,0;741,0;7,8
+2023;2;Málaga;Asia;Irán;162,0;1620,0;10,0
+2023;2;Málaga;Asia;Israel;198,0;1544,0;7,8
+2023;2;Málaga;Asia;Japón;174,0;1288,0;7,4
+2023;2;Málaga;Asia;Kazajstán;79,0;695,0;8,8
+2023;2;Málaga;Asia;Kuwait;115,0;943,0;8,2
+2023;2;Málaga;Asia;Líbano;33,0;290,0;8,8
+2023;2;Málaga;Asia;Malasia;35,0;245,0;7,0
+2023;2;Málaga;Asia;Qatar;103,0;700,0;6,8
+2023;2;Málaga;Asia;Singapur;80,0;536,0;6,7
+2023;2;Málaga;Asia;Tailandia;223,0;781,0;3,5
+2023;2;Málaga;Asia;Vietnam;57,0;365,0;6,4
+2023;2;Málaga;Europa;Albania;49,0;270,0;5,5
+2023;2;Málaga;Europa;Alemania;17388,0;180835,0;10,4
+2023;2;Málaga;Europa;Andorra;43,0;357,0;8,3
+2023;2;Málaga;Europa;Armenia;38,0;289,0;7,6
+2023;2;Málaga;Europa;Austria;3610,0;32129,0;8,9
+2023;2;Málaga;Europa;Belarús;175,0;1505,0;8,6
+2023;2;Málaga;Europa;Bulgaria;686,0;5008,0;7,3
+2023;2;Málaga;Europa;Bélgica;12497,0;93728,0;7,5
+2023;2;Málaga;Europa;Chipre;56,0;409,0;7,3
+2023;2;Málaga;Europa;Croacia;380,0;1938,0;5,1
+2023;2;Málaga;Europa;Dinamarca;13710,0;115164,0;8,4
+2023;2;Málaga;Europa;Eslovenia;317,0;1839,0;5,8
+2023;2;Málaga;Europa;Estonia;1135,0;11123,0;9,8
+2023;2;Málaga;Europa;Finlandia;9239,0;96086,0;10,4
+2023;2;Málaga;Europa;Francia;17578,0;161718,0;9,2
+2023;2;Málaga;Europa;Georgia;78,0;546,0;7,0
+2023;2;Málaga;Europa;Grecia;225,0;1485,0;6,6
+2023;2;Málaga;Europa;Hungría;1476,0;10332,0;7,0
+2023;2;Málaga;Europa;Irlanda;16857,0;121370,0;7,2
+2023;2;Málaga;Europa;Islandia;73,0;774,0;10,6
+2023;2;Málaga;Europa;Italia;5679,0;36914,0;6,5
+2023;2;Málaga;Europa;Letonia;1423,0;15084,0;10,6
+2023;2;Málaga;Europa;Liechtenstein;415,0;3943,0;9,5
+2023;2;Málaga;Europa;Lituania;1226,0;8827,0;7,2
+2023;2;Málaga;Europa;Luxemburgo;1302,0;12499,0;9,6
+2023;2;Málaga;Europa;Malta;142,0;1335,0;9,4
+2023;2;Málaga;Europa;Moldavia;60,0;330,0;5,5
+2023;2;Málaga;Europa;Noruega;7045,0;66223,0;9,4
+2023;2;Málaga;Europa;Países Bajos;20846,0;179276,0;8,6
+2023;2;Málaga;Europa;Polonia;8470,0;55902,0;6,6
+2023;2;Málaga;Europa;Portugal;2589,0;16052,0;6,2
+2023;2;Málaga;Europa;Reino Unido;76175,0;560020,0;6,25
+2023;2;Málaga;Europa;República Checa;1699,0;12403,0;7,3
+2023;2;Málaga;Europa;República Eslovaca;341,0;2489,0;7,3
+2023;2;Málaga;Europa;Rumanía;1293,0;9956,0;7,7
+2023;2;Málaga;Europa;Rusia;965,0;10519,0;10,9
+2023;2;Málaga;Europa;Serbia;217,0;1128,0;5,2
+2023;2;Málaga;Europa;Suecia;14477,0;124502,0;8,6
+2023;2;Málaga;Europa;Suiza;6032,0;42827,0;7,1
+2023;2;Málaga;Europa;Turquía;312,0;1498,0;4,8
+2023;2;Málaga;Oceanía;Australia;107,0;899,0;8,4
+2023;2;Málaga;Total;Total;270944,0;2167403,0;8,0
+2023;2;Málaga;Total;Total América;13098,0;103981,0;7,9
+2023;2;Málaga;Total;Total América del Norte;9544,0;71302,0;7,5
+2023;2;Málaga;Total;Total Asia;4320,0;28358,0;6,6
+2023;2;Málaga;Total;Total Centroamérica y Caribe;178,0;1560,0;8,8
+2023;2;Málaga;Total;Total Europa;246387,0;1999038,0;8,1
+2023;2;Málaga;Total;Total Oceanía;133,0;1115,0;8,4
+2023;2;Málaga;Total;Total Sudamérica;3376,0;31119,0;9,2
+2023;2;Málaga;Total;Total África;7006,0;34911,0;5,0
+2023;2;Málaga;África;Argelia;96,0;643,0;6,7
+2023;2;Málaga;África;Egipto;104,0;541,0;5,2
+2023;2;Málaga;África;Ghana;46,0;308,0;6,7
+2023;2;Málaga;África;Kenia;32,0;179,0;5,6
+2023;2;Málaga;África;Marruecos;6401,0;31365,0;4,9
+2023;2;Málaga;África;Nigeria;97,0;534,0;5,5
+2023;2;Málaga;África;Senegal;61,0;268,0;4,4
+2023;2;Málaga;África;Sudáfrica;31,0;174,0;5,6
+2023;2;Málaga;África;Túnez;48,0;254,0;5,3
+2023;3;Málaga;América;Argentina;1860,0;18042,0;9,7
+2023;3;Málaga;América;Brasil;685,0;5069,0;7,4
+2023;3;Málaga;América;Canadá;8446,0;76014,0;9,0
+2023;3;Málaga;América;Chile;160,0;1312,0;8,2
+2023;3;Málaga;América;Colombia;838,0;9134,0;10,9
+2023;3;Málaga;América;Costa Rica;31,0;291,0;9,4
+2023;3;Málaga;América;Ecuador;81,0;794,0;9,8
+2023;3;Málaga;América;Estados Unidos de América;9629,0;71255,0;7,4
+2023;3;Málaga;América;Honduras;41,0;258,0;6,3
+2023;3;Málaga;América;México;818,0;5399,0;6,6
+2023;3;Málaga;América;Nicaragua;36,0;284,0;7,9
+2023;3;Málaga;América;Panamá;33,0;261,0;7,9
+2023;3;Málaga;América;Paraguay;433,0;3377,0;7,8
+2023;3;Málaga;América;Perú;179,0;1808,0;10,1
+2023;3;Málaga;América;Uruguay;57,0;473,0;8,3
+2023;3;Málaga;América;Venezuela;97,0;1368,0;14,1
+2023;3;Málaga;Asia;Arabia Saudí;428,0;2953,0;6,9
+2023;3;Málaga;Asia;Bahréin;32,0;182,0;5,7
+2023;3;Málaga;Asia;China;807,0;5972,0;7,4
+2023;3;Málaga;Asia;Corea;504,0;2873,0;5,7
+2023;3;Málaga;Asia;Emiratos Árabes Unidos;501,0;3407,0;6,8
+2023;3;Málaga;Asia;Filipinas;431,0;1983,0;4,6
+2023;3;Málaga;Asia;India;468,0;2434,0;5,2
+2023;3;Málaga;Asia;Indonesia;177,0;920,0;5,2
+2023;3;Málaga;Asia;Iraq;38,0;213,0;5,6
+2023;3;Málaga;Asia;Irán;216,0;2030,0;9,4
+2023;3;Málaga;Asia;Israel;259,0;1813,0;7,0
+2023;3;Málaga;Asia;Japón;183,0;1391,0;7,6
+2023;3;Málaga;Asia;Jordania;34,0;187,0;5,5
+2023;3;Málaga;Asia;Kazajstán;117,0;1322,0;11,3
+2023;3;Málaga;Asia;Kuwait;146,0;1402,0;9,6
+2023;3;Málaga;Asia;Líbano;59,0;448,0;7,6
+2023;3;Málaga;Asia;Malasia;58,0;313,0;5,4
+2023;3;Málaga;Asia;Otros países de Asia;46,0;253,0;5,5
+2023;3;Málaga;Asia;Pakistán;31,0;248,0;8,0
+2023;3;Málaga;Asia;Qatar;106,0;742,0;7,0
+2023;3;Málaga;Asia;Singapur;134,0;1045,0;7,8
+2023;3;Málaga;Asia;Tailandia;248,0;843,0;3,4
+2023;3;Málaga;Asia;Vietnam;35,0;235,0;6,7
+2023;3;Málaga;Europa;Albania;53,0;419,0;7,9
+2023;3;Málaga;Europa;Alemania;25635,0;266604,0;10,4
+2023;3;Málaga;Europa;Andorra;62,0;446,0;7,2
+2023;3;Málaga;Europa;Armenia;36,0;266,0;7,4
+2023;3;Málaga;Europa;Austria;4050,0;35640,0;8,8
+2023;3;Málaga;Europa;Belarús;217,0;1714,0;7,9
+2023;3;Málaga;Europa;Bosnia y Herzegovina;66,0;343,0;5,2
+2023;3;Málaga;Europa;Bulgaria;762,0;5029,0;6,6
+2023;3;Málaga;Europa;Bélgica;18205,0;140179,0;7,7
+2023;3;Málaga;Europa;Chipre;75,0;450,0;6,0
+2023;3;Málaga;Europa;Croacia;495,0;2624,0;5,3
+2023;3;Málaga;Europa;Dinamarca;13717,0;119338,0;8,7
+2023;3;Málaga;Europa;Eslovenia;211,0;1329,0;6,3
+2023;3;Málaga;Europa;Estonia;1429,0;11575,0;8,1
+2023;3;Málaga;Europa;Finlandia;11002,0;122122,0;11,1
+2023;3;Málaga;Europa;Francia;22063,0;200773,0;9,1
+2023;3;Málaga;Europa;Georgia;80,0;680,0;8,5
+2023;3;Málaga;Europa;Grecia;345,0;2105,0;6,1
+2023;3;Málaga;Europa;Hungría;1844,0;10695,0;5,8
+2023;3;Málaga;Europa;Irlanda;22333,0;158564,0;7,1
+2023;3;Málaga;Europa;Islandia;112,0;1131,0;10,1
+2023;3;Málaga;Europa;Italia;10420,0;66688,0;6,4
+2023;3;Málaga;Europa;Letonia;2013,0;20935,0;10,4
+2023;3;Málaga;Europa;Liechtenstein;516,0;5263,0;10,2
+2023;3;Málaga;Europa;Lituania;1355,0;10434,0;7,7
+2023;3;Málaga;Europa;Luxemburgo;1670,0;16533,0;9,9
+2023;3;Málaga;Europa;Macedonia del Norte;56,0;291,0;5,2
+2023;3;Málaga;Europa;Malta;180,0;1638,0;9,1
+2023;3;Málaga;Europa;Moldavia;37,0;340,0;9,2
+2023;3;Málaga;Europa;Montenegro;30,0;237,0;7,9
+2023;3;Málaga;Europa;Noruega;9845,0;89590,0;9,1
+2023;3;Málaga;Europa;Países Bajos;27010,0;221482,0;8,2
+2023;3;Málaga;Europa;Polonia;8830,0;60044,0;6,8
+2023;3;Málaga;Europa;Portugal;2773,0;17193,0;6,2
+2023;3;Málaga;Europa;Reino Unido;105562,0;746738,0;6,25
+2023;3;Málaga;Europa;República Checa;2716,0;19284,0;7,1
+2023;3;Málaga;Europa;República Eslovaca;543,0;3910,0;7,2
+2023;3;Málaga;Europa;Rumanía;1424,0;12246,0;8,6
+2023;3;Málaga;Europa;Rusia;1059,0;10908,0;10,3
+2023;3;Málaga;Europa;Serbia;174,0;853,0;4,9
+2023;3;Málaga;Europa;Suecia;21946,0;182152,0;8,3
+2023;3;Málaga;Europa;Suiza;8451,0;56622,0;6,7
+2023;3;Málaga;Europa;Turquía;430,0;1849,0;4,3
+2023;3;Málaga;Oceanía;Australia;157,0;1272,0;8,1
+2023;3;Málaga;Total;Total;369618,0;2908101,0;7,9
+2023;3;Málaga;Total;Total América;23507,0;195822,0;8,3
+2023;3;Málaga;Total;Total América del Norte;18893,0;152668,0;8,1
+2023;3;Málaga;Total;Total Asia;5166,0;33783,0;6,5
+2023;3;Málaga;Total;Total Centroamérica y Caribe;217,0;1721,0;7,9
+2023;3;Málaga;Total;Total Europa;329836,0;2627278,0;8,0
+2023;3;Málaga;Total;Total Oceanía;184,0;1470,0;8,0
+2023;3;Málaga;Total;Total Sudamérica;4397,0;41433,0;9,4
+2023;3;Málaga;Total;Total África;10925,0;49748,0;4,6
+2023;3;Málaga;África;Argelia;162,0;972,0;6,0
+2023;3;Málaga;África;Egipto;87,0;383,0;4,4
+2023;3;Málaga;África;Ghana;34,0;218,0;6,4
+2023;3;Málaga;África;Kenia;34,0;258,0;7,6
+2023;3;Málaga;África;Marruecos;10168,0;44739,0;4,4
+2023;3;Málaga;África;Nigeria;134,0;1126,0;8,4
+2023;3;Málaga;África;Senegal;90,0;630,0;7,0
+2023;3;Málaga;África;Sudáfrica;67,0;395,0;5,9
+2023;3;Málaga;África;Túnez;45,0;288,0;6,4
+2023;4;Málaga;América;Argentina;1997,0;17574,0;8,8
+2023;4;Málaga;América;Brasil;573,0;3839,0;6,7
+2023;4;Málaga;América;Canadá;5826,0;44860,0;7,7
+2023;4;Málaga;América;Chile;223,0;1360,0;6,1
+2023;4;Málaga;América;Colombia;948,0;9575,0;10,1
+2023;4;Málaga;América;Costa Rica;47,0;465,0;9,9
+2023;4;Málaga;América;Ecuador;88,0;686,0;7,8
+2023;4;Málaga;América;Estados Unidos de América;17714,0;111598,0;6,3
+2023;4;Málaga;América;Guatemala;35,0;308,0;8,8
+2023;4;Málaga;América;Honduras;55,0;440,0;8,0
+2023;4;Málaga;América;México;955,0;6303,0;6,6
+2023;4;Málaga;América;Panamá;67,0;476,0;7,1
+2023;4;Málaga;América;Paraguay;424,0;3095,0;7,3
+2023;4;Málaga;América;Perú;124,0;1463,0;11,8
+2023;4;Málaga;América;Uruguay;132,0;1201,0;9,1
+2023;4;Málaga;América;Venezuela;135,0;1647,0;12,2
+2023;4;Málaga;Asia;Arabia Saudí;206,0;1195,0;5,8
+2023;4;Málaga;Asia;China;1081,0;7675,0;7,1
+2023;4;Málaga;Asia;Corea;804,0;4663,0;5,8
+2023;4;Málaga;Asia;Emiratos Árabes Unidos;656,0;4658,0;7,1
+2023;4;Málaga;Asia;Filipinas;882,0;4322,0;4,9
+2023;4;Málaga;Asia;India;743,0;3789,0;5,1
+2023;4;Málaga;Asia;Indonesia;396,0;1663,0;4,2
+2023;4;Málaga;Asia;Irán;274,0;2713,0;9,9
+2023;4;Málaga;Asia;Israel;445,0;2893,0;6,5
+2023;4;Málaga;Asia;Japón;280,0;2100,0;7,5
+2023;4;Málaga;Asia;Jordania;35,0;259,0;7,4
+2023;4;Málaga;Asia;Kazajstán;124,0;1550,0;12,5
+2023;4;Málaga;Asia;Kuwait;55,0;429,0;7,8
+2023;4;Málaga;Asia;Líbano;76,0;365,0;4,8
+2023;4;Málaga;Asia;Malasia;57,0;308,0;5,4
+2023;4;Málaga;Asia;Otros países de Asia;36,0;205,0;5,7
+2023;4;Málaga;Asia;Qatar;67,0;503,0;7,5
+2023;4;Málaga;Asia;Singapur;140,0;1232,0;8,8
+2023;4;Málaga;Asia;Sri Lanka;31,0;198,0;6,4
+2023;4;Málaga;Asia;Tailandia;376,0;1579,0;4,2
+2023;4;Málaga;Asia;Vietnam;32,0;237,0;7,4
+2023;4;Málaga;Europa;Albania;71,0;518,0;7,3
+2023;4;Málaga;Europa;Alemania;37991,0;349517,0;9,2
+2023;4;Málaga;Europa;Andorra;127,0;978,0;7,7
+2023;4;Málaga;Europa;Armenia;30,0;207,0;6,9
+2023;4;Málaga;Europa;Austria;5883,0;47064,0;8,0
+2023;4;Málaga;Europa;Belarús;200,0;1880,0;9,4
+2023;4;Málaga;Europa;Bosnia y Herzegovina;40,0;244,0;6,1
+2023;4;Málaga;Europa;Bulgaria;1342,0;8589,0;6,4
+2023;4;Málaga;Europa;Bélgica;27230,0;185164,0;6,8
+2023;4;Málaga;Europa;Chipre;112,0;717,0;6,4
+2023;4;Málaga;Europa;Croacia;576,0;3053,0;5,3
+2023;4;Málaga;Europa;Dinamarca;18877,0;149128,0;7,9
+2023;4;Málaga;Europa;Eslovenia;283,0;1755,0;6,2
+2023;4;Málaga;Europa;Estonia;1961,0;16865,0;8,6
+2023;4;Málaga;Europa;Finlandia;14520,0;146652,0;10,1
+2023;4;Málaga;Europa;Francia;31101,0;258138,0;8,3
+2023;4;Málaga;Europa;Georgia;121,0;811,0;6,7
+2023;4;Málaga;Europa;Grecia;436,0;2660,0;6,1
+2023;4;Málaga;Europa;Hungría;2695,0;16709,0;6,2
+2023;4;Málaga;Europa;Irlanda;43423,0;290934,0;6,7
+2023;4;Málaga;Europa;Islandia;287,0;2440,0;8,5
+2023;4;Málaga;Europa;Italia;11414,0;63918,0;5,6
+2023;4;Málaga;Europa;Letonia;1848,0;19774,0;10,7
+2023;4;Málaga;Europa;Liechtenstein;404,0;3838,0;9,5
+2023;4;Málaga;Europa;Lituania;1528,0;11154,0;7,3
+2023;4;Málaga;Europa;Luxemburgo;2278,0;18907,0;8,3
+2023;4;Málaga;Europa;Macedonia del Norte;91,0;573,0;6,3
+2023;4;Málaga;Europa;Malta;254,0;2286,0;9,0
+2023;4;Málaga;Europa;Moldavia;74,0;525,0;7,1
+2023;4;Málaga;Europa;Noruega;13505,0;114793,0;8,5
+2023;4;Málaga;Europa;Países Bajos;29801,0;226488,0;7,6
+2023;4;Málaga;Europa;Polonia;10367,0;71532,0;6,9
+2023;4;Málaga;Europa;Portugal;6813,0;33384,0;4,9
+2023;4;Málaga;Europa;Reino Unido;174766,0;1133168,0;5,9
+2023;4;Málaga;Europa;República Checa;3037,0;21563,0;7,1
+2023;4;Málaga;Europa;República Eslovaca;850,0;5610,0;6,6
+2023;4;Málaga;Europa;Rumanía;2128,0;15534,0;7,3
+2023;4;Málaga;Europa;Rusia;1102,0;11351,0;10,3
+2023;4;Málaga;Europa;Serbia;338,0;1589,0;4,7
+2023;4;Málaga;Europa;Suecia;29354,0;234832,0;8,0
+2023;4;Málaga;Europa;Suiza;11011,0;73774,0;6,7
+2023;4;Málaga;Europa;Turquía;501,0;2705,0;5,4
+2023;4;Málaga;Oceanía;Australia;418,0;2926,0;7,0
+2023;4;Málaga;Oceanía;Nueva Zelanda;51,0;388,0;7,6
+2023;4;Málaga;Total;Total;533241,0;3841819,0;7,2
+2023;4;Málaga;Total;Total América;29435,0;205582,0;7,0
+2023;4;Málaga;Total;Total América del Norte;24495,0;162761,0;6,6
+2023;4;Málaga;Total;Total Asia;6962,0;43567,0;6,3
+2023;4;Málaga;Total;Total Centroamérica y Caribe;289,0;2328,0;8,1
+2023;4;Málaga;Total;Total Europa;488800,0;3551525,0;7,3
+2023;4;Málaga;Total;Total Oceanía;471,0;3352,0;7,1
+2023;4;Málaga;Total;Total Sudamérica;4651,0;40493,0;8,7
+2023;4;Málaga;Total;Total África;7573,0;37793,0;5,0
+2023;4;Málaga;África;Argelia;102,0;541,0;5,3
+2023;4;Málaga;África;Egipto;129,0;658,0;5,1
+2023;4;Málaga;África;Ghana;45,0;464,0;10,3
+2023;4;Málaga;África;Kenia;52,0;244,0;4,7
+2023;4;Málaga;África;Marruecos;6690,0;32112,0;4,8
+2023;4;Málaga;África;Nigeria;173,0;1055,0;6,1
+2023;4;Málaga;África;Senegal;112,0;784,0;7,0
+2023;4;Málaga;África;Sudáfrica;80,0;600,0;7,5
+2023;4;Málaga;África;Túnez;59,0;407,0;6,9
+2023;5;Málaga;América;Argentina;2348,0;21836,0;9,3
+2023;5;Málaga;América;Brasil;1119,0;6378,0;5,7
+2023;5;Málaga;América;Canadá;5057,0;31859,0;6,3
+2023;5;Málaga;América;Chile;299,0;2392,0;8,0
+2023;5;Málaga;América;Colombia;1036,0;9842,0;9,5
+2023;5;Málaga;América;Costa Rica;42,0;298,0;7,1
+2023;5;Málaga;América;Ecuador;81,0;721,0;8,9
+2023;5;Málaga;América;Estados Unidos de América;19411,0;122289,0;6,3
+2023;5;Málaga;América;Guatemala;50,0;435,0;8,7
+2023;5;Málaga;América;Honduras;75,0;690,0;9,2
+2023;5;Málaga;América;Jamaica;70,0;224,0;3,2
+2023;5;Málaga;América;México;1208,0;7731,0;6,4
+2023;5;Málaga;América;Nicaragua;32,0;166,0;5,2
+2023;5;Málaga;América;Panamá;72,0;605,0;8,4
+2023;5;Málaga;América;Paraguay;353,0;2824,0;8,0
+2023;5;Málaga;América;Perú;122,0;1122,0;9,2
+2023;5;Málaga;América;República Dominicana;33,0;201,0;6,1
+2023;5;Málaga;América;Uruguay;195,0;1892,0;9,7
+2023;5;Málaga;América;Venezuela;130,0;1794,0;13,8
+2023;5;Málaga;Asia;Arabia Saudí;436,0;2965,0;6,8
+2023;5;Málaga;Asia;Azerbaiyán;33,0;208,0;6,3
+2023;5;Málaga;Asia;Bahréin;55,0;424,0;7,7
+2023;5;Málaga;Asia;China;1212,0;7999,0;6,6
+2023;5;Málaga;Asia;Corea;883,0;5121,0;5,8
+2023;5;Málaga;Asia;Emiratos Árabes Unidos;772,0;6022,0;7,8
+2023;5;Málaga;Asia;Filipinas;1433,0;6305,0;4,4
+2023;5;Málaga;Asia;India;838,0;4860,0;5,8
+2023;5;Málaga;Asia;Indonesia;606,0;2666,0;4,4
+2023;5;Málaga;Asia;Iraq;31,0;152,0;4,9
+2023;5;Málaga;Asia;Irán;180,0;1800,0;10,0
+2023;5;Málaga;Asia;Israel;927,0;3801,0;4,1
+2023;5;Málaga;Asia;Japón;343,0;2367,0;6,9
+2023;5;Málaga;Asia;Jordania;62,0;372,0;6,0
+2023;5;Málaga;Asia;Kazajstán;162,0;1345,0;8,3
+2023;5;Málaga;Asia;Kuwait;121,0;1029,0;8,5
+2023;5;Málaga;Asia;Líbano;93,0;642,0;6,9
+2023;5;Málaga;Asia;Malasia;98,0;608,0;6,2
+2023;5;Málaga;Asia;Omán;37,0;322,0;8,7
+2023;5;Málaga;Asia;Otros países de Asia;66,0;416,0;6,3
+2023;5;Málaga;Asia;Pakistán;34,0;228,0;6,7
+2023;5;Málaga;Asia;Qatar;137,0;1082,0;7,9
+2023;5;Málaga;Asia;Singapur;147,0;970,0;6,6
+2023;5;Málaga;Asia;Sri Lanka;35,0;189,0;5,4
+2023;5;Málaga;Asia;Tailandia;353,0;1377,0;3,9
+2023;5;Málaga;Asia;Uzbekistán;30,0;225,0;7,5
+2023;5;Málaga;Asia;Vietnam;44,0;141,0;3,2
+2023;5;Málaga;Europa;Albania;92,0;543,0;5,9
+2023;5;Málaga;Europa;Alemania;35215,0;299328,0;8,5
+2023;5;Málaga;Europa;Andorra;132,0;1069,0;8,1
+2023;5;Málaga;Europa;Armenia;40,0;320,0;8,0
+2023;5;Málaga;Europa;Austria;6113,0;49515,0;8,1
+2023;5;Málaga;Europa;Belarús;284,0;2329,0;8,2
+2023;5;Málaga;Europa;Bosnia y Herzegovina;132,0;792,0;6,0
+2023;5;Málaga;Europa;Bulgaria;1433,0;9171,0;6,4
+2023;5;Málaga;Europa;Bélgica;27721,0;194047,0;7,0
+2023;5;Málaga;Europa;Chipre;89,0;614,0;6,9
+2023;5;Málaga;Europa;Croacia;474,0;2607,0;5,5
+2023;5;Málaga;Europa;Dinamarca;17367,0;128516,0;7,4
+2023;5;Málaga;Europa;Eslovenia;604,0;3684,0;6,1
+2023;5;Málaga;Europa;Estonia;2364,0;19858,0;8,4
+2023;5;Málaga;Europa;Finlandia;12145,0;110520,0;9,1
+2023;5;Málaga;Europa;Francia;41453,0;294316,0;7,1
+2023;5;Málaga;Europa;Georgia;124,0;744,0;6,0
+2023;5;Málaga;Europa;Grecia;560,0;3696,0;6,6
+2023;5;Málaga;Europa;Hungría;2450,0;15435,0;6,3
+2023;5;Málaga;Europa;Irlanda;51655,0;351254,0;6,8
+2023;5;Málaga;Europa;Islandia;491,0;4174,0;8,5
+2023;5;Málaga;Europa;Italia;13284,0;71734,0;5,4
+2023;5;Málaga;Europa;Letonia;1998,0;22178,0;11,1
+2023;5;Málaga;Europa;Liechtenstein;551,0;5841,0;10,6
+2023;5;Málaga;Europa;Lituania;1852,0;12038,0;6,5
+2023;5;Málaga;Europa;Luxemburgo;2085,0;18140,0;8,7
+2023;5;Málaga;Europa;Macedonia del Norte;63,0;485,0;7,7
+2023;5;Málaga;Europa;Malta;241,0;1928,0;8,0
+2023;5;Málaga;Europa;Moldavia;57,0;445,0;7,8
+2023;5;Málaga;Europa;Montenegro;31,0;202,0;6,5
+2023;5;Málaga;Europa;Noruega;13178,0;94882,0;7,2
+2023;5;Málaga;Europa;Países Bajos;41487,0;319450,0;7,7
+2023;5;Málaga;Europa;Polonia;14469,0;94049,0;6,5
+2023;5;Málaga;Europa;Portugal;5907,0;30716,0;5,2
+2023;5;Málaga;Europa;Reino Unido;203655,0;1302554,0;6,25
+2023;5;Málaga;Europa;República Checa;3651,0;23732,0;6,5
+2023;5;Málaga;Europa;República Eslovaca;1096,0;6905,0;6,3
+2023;5;Málaga;Europa;Rumanía;2637,0;18459,0;7,0
+2023;5;Málaga;Europa;Rusia;1283,0;13600,0;10,6
+2023;5;Málaga;Europa;Serbia;289,0;1561,0;5,4
+2023;5;Málaga;Europa;Suecia;27234,0;196085,0;7,2
+2023;5;Málaga;Europa;Suiza;10932,0;72151,0;6,6
+2023;5;Málaga;Europa;Turquía;503,0;2113,0;4,2
+2023;5;Málaga;Oceanía;Australia;629,0;4466,0;7,1
+2023;5;Málaga;Oceanía;Nueva Zelanda;118,0;814,0;6,9
+2023;5;Málaga;Total;Total;601448,0;4131325,0;6,9
+2023;5;Málaga;Total;Total América;31761,0;213470,0;6,7
+2023;5;Málaga;Total;Total América del Norte;25676,0;161879,0;6,3
+2023;5;Málaga;Total;Total Asia;9198,0;53854,0;5,9
+2023;5;Málaga;Total;Total Centroamérica y Caribe;395,0;2752,0;7,0
+2023;5;Málaga;Total;Total Europa;547424,0;3801789,0;6,9
+2023;5;Málaga;Total;Total Oceanía;750,0;5310,0;7,1
+2023;5;Málaga;Total;Total Sudamérica;5690,0;48839,0;8,6
+2023;5;Málaga;Total;Total África;12315,0;56902,0;4,6
+2023;5;Málaga;África;Argelia;193,0;1255,0;6,5
+2023;5;Málaga;África;Egipto;125,0;625,0;5,0
+2023;5;Málaga;África;Ghana;48,0;331,0;6,9
+2023;5;Málaga;África;Kenia;101,0;576,0;5,7
+2023;5;Málaga;África;Marruecos;11058,0;48655,0;4,4
+2023;5;Málaga;África;Mauricio;42,0;244,0;5,8
+2023;5;Málaga;África;Nigeria;177,0;1381,0;7,8
+2023;5;Málaga;África;Senegal;139,0;987,0;7,1
+2023;5;Málaga;África;Sudáfrica;187,0;1403,0;7,5
+2023;5;Málaga;África;Túnez;142,0;781,0;5,5
+2023;6;Málaga;América;Argentina;2307,0;22839,0;9,9
+2023;6;Málaga;América;Brasil;796,0;5970,0;7,5
+2023;6;Málaga;América;Canadá;4206,0;30283,0;7,2
+2023;6;Málaga;América;Chile;364,0;3021,0;8,3
+2023;6;Málaga;América;Colombia;1055,0;10656,0;10,1
+2023;6;Málaga;América;Costa Rica;41,0;328,0;8,0
+2023;6;Málaga;América;Ecuador;77,0;608,0;7,9
+2023;6;Málaga;América;Estados Unidos de América;20069,0;140483,0;7,0
+2023;6;Málaga;América;Guatemala;32,0;243,0;7,6
+2023;6;Málaga;América;Honduras;41,0;312,0;7,6
+2023;6;Málaga;América;México;1023,0;7263,0;7,1
+2023;6;Málaga;América;Nicaragua;48,0;370,0;7,7
+2023;6;Málaga;América;Panamá;84,0;689,0;8,2
+2023;6;Málaga;América;Paraguay;383,0;2719,0;7,1
+2023;6;Málaga;América;Perú;121,0;1210,0;10,0
+2023;6;Málaga;América;Uruguay;228,0;2029,0;8,9
+2023;6;Málaga;América;Venezuela;142,0;2016,0;14,2
+2023;6;Málaga;Asia;Arabia Saudí;768,0;4224,0;5,5
+2023;6;Málaga;Asia;Bahréin;66,0;422,0;6,4
+2023;6;Málaga;Asia;China;1220,0;8662,0;7,1
+2023;6;Málaga;Asia;Corea;692,0;4083,0;5,9
+2023;6;Málaga;Asia;Emiratos Árabes Unidos;960,0;5760,0;6,0
+2023;6;Málaga;Asia;Filipinas;643,0;3537,0;5,5
+2023;6;Málaga;Asia;India;843,0;4974,0;5,9
+2023;6;Málaga;Asia;Indonesia;217,0;1107,0;5,1
+2023;6;Málaga;Asia;Iraq;31,0;152,0;4,9
+2023;6;Málaga;Asia;Irán;234,0;1942,0;8,3
+2023;6;Málaga;Asia;Israel;431,0;2414,0;5,6
+2023;6;Málaga;Asia;Japón;359,0;2441,0;6,8
+2023;6;Málaga;Asia;Jordania;50,0;405,0;8,1
+2023;6;Málaga;Asia;Kazajstán;127,0;1105,0;8,7
+2023;6;Málaga;Asia;Kuwait;477,0;3482,0;7,3
+2023;6;Málaga;Asia;Líbano;73,0;489,0;6,7
+2023;6;Málaga;Asia;Malasia;71,0;462,0;6,5
+2023;6;Málaga;Asia;Omán;49,0;221,0;4,5
+2023;6;Málaga;Asia;Otros países de Asia;68,0;367,0;5,4
+2023;6;Málaga;Asia;Pakistán;36,0;310,0;8,6
+2023;6;Málaga;Asia;Qatar;294,0;1382,0;4,7
+2023;6;Málaga;Asia;Singapur;188,0;1354,0;7,2
+2023;6;Málaga;Asia;Tailandia;287,0;1378,0;4,8
+2023;6;Málaga;Asia;Uzbekistán;39,0;273,0;7,0
+2023;6;Málaga;Asia;Vietnam;40,0;232,0;5,8
+2023;6;Málaga;Europa;Albania;89,0;507,0;5,7
+2023;6;Málaga;Europa;Alemania;43129,0;375222,0;8,7
+2023;6;Málaga;Europa;Andorra;120,0;1092,0;9,1
+2023;6;Málaga;Europa;Armenia;67,0;328,0;4,9
+2023;6;Málaga;Europa;Austria;5836,0;47272,0;8,1
+2023;6;Málaga;Europa;Belarús;270,0;2106,0;7,8
+2023;6;Málaga;Europa;Bosnia y Herzegovina;77,0;462,0;6,0
+2023;6;Málaga;Europa;Bulgaria;1206,0;8201,0;6,8
+2023;6;Málaga;Europa;Bélgica;23064,0;179899,0;7,8
+2023;6;Málaga;Europa;Chipre;100,0;660,0;6,6
+2023;6;Málaga;Europa;Croacia;447,0;2593,0;5,8
+2023;6;Málaga;Europa;Dinamarca;14223,0;113784,0;8,0
+2023;6;Málaga;Europa;Eslovenia;193,0;1351,0;7,0
+2023;6;Málaga;Europa;Estonia;2545,0;17306,0;6,8
+2023;6;Málaga;Europa;Finlandia;11196,0;94046,0;8,4
+2023;6;Málaga;Europa;Francia;31981,0;233461,0;7,3
+2023;6;Málaga;Europa;Georgia;121,0;944,0;7,8
+2023;6;Málaga;Europa;Grecia;649,0;4348,0;6,7
+2023;6;Málaga;Europa;Hungría;2691,0;18837,0;7,0
+2023;6;Málaga;Europa;Irlanda;58311,0;454826,0;7,8
+2023;6;Málaga;Europa;Islandia;425,0;3825,0;9,0
+2023;6;Málaga;Europa;Italia;12563,0;72865,0;5,8
+2023;6;Málaga;Europa;Letonia;1980,0;20592,0;10,4
+2023;6;Málaga;Europa;Liechtenstein;486,0;4714,0;9,7
+2023;6;Málaga;Europa;Lituania;1684,0;11620,0;6,9
+2023;6;Málaga;Europa;Luxemburgo;2566,0;23094,0;9,0
+2023;6;Málaga;Europa;Macedonia del Norte;64,0;416,0;6,5
+2023;6;Málaga;Europa;Malta;237,0;1730,0;7,3
+2023;6;Málaga;Europa;Moldavia;95,0;713,0;7,5
+2023;6;Málaga;Europa;Noruega;20031,0;132205,0;6,6
+2023;6;Málaga;Europa;Países Bajos;36348,0;290784,0;8,0
+2023;6;Málaga;Europa;Polonia;12934,0;84071,0;6,5
+2023;6;Málaga;Europa;Portugal;7801,0;41345,0;5,3
+2023;6;Málaga;Europa;Reino Unido;212238,0;1418788,0;6,05
+2023;6;Málaga;Europa;República Checa;2941,0;21469,0;7,3
+2023;6;Málaga;Europa;República Eslovaca;973,0;7103,0;7,3
+2023;6;Málaga;Europa;Rumanía;2891,0;21393,0;7,4
+2023;6;Málaga;Europa;Rusia;1255,0;11923,0;9,5
+2023;6;Málaga;Europa;Serbia;303,0;1757,0;5,8
+2023;6;Málaga;Europa;Suecia;25156,0;181123,0;7,2
+2023;6;Málaga;Europa;Suiza;10003,0;64019,0;6,4
+2023;6;Málaga;Europa;Turquía;461,0;2213,0;4,8
+2023;6;Málaga;Oceanía;Australia;846,0;6345,0;7,5
+2023;6;Málaga;Oceanía;Nueva Zelanda;182,0;1456,0;8,0
+2023;6;Málaga;Total;Total;598973,0;4308601,0;7,2
+2023;6;Málaga;Total;Total América;31097,0;231675,0;7,5
+2023;6;Málaga;Total;Total América del Norte;25298,0;178029,0;7,0
+2023;6;Málaga;Total;Total Asia;8329,0;51565,0;6,2
+2023;6;Málaga;Total;Total Centroamérica y Caribe;302,0;2426,0;8,0
+2023;6;Málaga;Total;Total Europa;549770,0;3975137,0;7,2
+2023;6;Málaga;Total;Total Oceanía;1031,0;7839,0;7,6
+2023;6;Málaga;Total;Total Sudamérica;5497,0;51220,0;9,3
+2023;6;Málaga;Total;Total África;8746,0;42385,0;4,8
+2023;6;Málaga;África;Argelia;166,0;1029,0;6,2
+2023;6;Málaga;África;Egipto;162,0;859,0;5,3
+2023;6;Málaga;África;Ghana;78,0;593,0;7,6
+2023;6;Málaga;África;Kenia;36,0;252,0;7,0
+2023;6;Málaga;África;Marruecos;7628,0;35089,0;4,6
+2023;6;Málaga;África;Nigeria;157,0;1193,0;7,6
+2023;6;Málaga;África;Senegal;100,0;720,0;7,2
+2023;6;Málaga;África;Sudáfrica;186,0;1302,0;7,0
+2023;6;Málaga;África;Túnez;90,0;504,0;5,6
+2023;7;Málaga;América;Argentina;2149,0;19771,0;9,2
+2023;7;Málaga;América;Brasil;978,0;7433,0;7,6
+2023;7;Málaga;América;Canadá;4101,0;27887,0;6,8
+2023;7;Málaga;América;Chile;344,0;2614,0;7,6
+2023;7;Málaga;América;Colombia;1509,0;12827,0;8,5
+2023;7;Málaga;América;Costa Rica;66,0;581,0;8,8
+2023;7;Málaga;América;Cuba;50,0;260,0;5,2
+2023;7;Málaga;América;Ecuador;149,0;1028,0;6,9
+2023;7;Málaga;América;Estados Unidos de América;19246,0;163591,0;8,5
+2023;7;Málaga;América;Guatemala;62,0;564,0;9,1
+2023;7;Málaga;América;Honduras;64,0;486,0;7,6
+2023;7;Málaga;América;México;1222,0;8921,0;7,3
+2023;7;Málaga;América;Nicaragua;53,0;456,0;8,6
+2023;7;Málaga;América;Panamá;99,0;743,0;7,5
+2023;7;Málaga;América;Paraguay;422,0;3123,0;7,4
+2023;7;Málaga;América;Perú;113,0;848,0;7,5
+2023;7;Málaga;América;República Dominicana;59,0;478,0;8,1
+2023;7;Málaga;América;Uruguay;305,0;2959,0;9,7
+2023;7;Málaga;América;Venezuela;282,0;2735,0;9,7
+2023;7;Málaga;Asia;Arabia Saudí;3953,0;28462,0;7,2
+2023;7;Málaga;Asia;Azerbaiyán;106,0;625,0;5,9
+2023;7;Málaga;Asia;Bahréin;618,0;3955,0;6,4
+2023;7;Málaga;Asia;China;1566,0;10179,0;6,5
+2023;7;Málaga;Asia;Corea;482,0;2796,0;5,8
+2023;7;Málaga;Asia;Emiratos Árabes Unidos;2922,0;20162,0;6,9
+2023;7;Málaga;Asia;Filipinas;703,0;4218,0;6,0
+2023;7;Málaga;Asia;India;763,0;4578,0;6,0
+2023;7;Málaga;Asia;Indonesia;171,0;1077,0;6,3
+2023;7;Málaga;Asia;Iraq;94,0;376,0;4,0
+2023;7;Málaga;Asia;Irán;314,0;2795,0;8,9
+2023;7;Málaga;Asia;Israel;887,0;5943,0;6,7
+2023;7;Málaga;Asia;Japón;233,0;2027,0;8,7
+2023;7;Málaga;Asia;Jordania;255,0;1913,0;7,5
+2023;7;Málaga;Asia;Kazajstán;173,0;1332,0;7,7
+2023;7;Málaga;Asia;Kuwait;1361,0;13882,0;10,2
+2023;7;Málaga;Asia;Líbano;200,0;1400,0;7,0
+2023;7;Málaga;Asia;Omán;83,0;606,0;7,3
+2023;7;Málaga;Asia;Otros países de Asia;70,0;322,0;4,6
+2023;7;Málaga;Asia;Qatar;1432,0;10024,0;7,0
+2023;7;Málaga;Asia;Singapur;269,0;1991,0;7,4
+2023;7;Málaga;Asia;Sri Lanka;30,0;219,0;7,3
+2023;7;Málaga;Asia;Tailandia;499,0;2146,0;4,3
+2023;7;Málaga;Asia;Uzbekistán;46,0;368,0;8,0
+2023;7;Málaga;Asia;Vietnam;85,0;434,0;5,1
+2023;7;Málaga;Europa;Albania;120,0;780,0;6,5
+2023;7;Málaga;Europa;Alemania;38584,0;335681,0;8,7
+2023;7;Málaga;Europa;Andorra;165,0;1584,0;9,6
+2023;7;Málaga;Europa;Armenia;93,0;670,0;7,2
+2023;7;Málaga;Europa;Austria;7524,0;57182,0;7,6
+2023;7;Málaga;Europa;Belarús;405,0;3483,0;8,6
+2023;7;Málaga;Europa;Bosnia y Herzegovina;94,0;743,0;7,9
+2023;7;Málaga;Europa;Bulgaria;1140,0;8550,0;7,5
+2023;7;Málaga;Europa;Bélgica;37325,0;291135,0;7,8
+2023;7;Málaga;Europa;Chipre;112,0;750,0;6,7
+2023;7;Málaga;Europa;Croacia;426,0;2897,0;6,8
+2023;7;Málaga;Europa;Dinamarca;31997,0;265575,0;8,3
+2023;7;Málaga;Europa;Eslovenia;407,0;2971,0;7,3
+2023;7;Málaga;Europa;Estonia;2181,0;18320,0;8,4
+2023;7;Málaga;Europa;Finlandia;13858,0;127494,0;9,2
+2023;7;Málaga;Europa;Francia;46810,0;360437,0;7,7
+2023;7;Málaga;Europa;Georgia;148,0;1214,0;8,2
+2023;7;Málaga;Europa;Grecia;858,0;5749,0;6,7
+2023;7;Málaga;Europa;Hungría;3762,0;29720,0;7,9
+2023;7;Málaga;Europa;Irlanda;60108,0;516929,0;8,6
+2023;7;Málaga;Europa;Islandia;602,0;6080,0;10,1
+2023;7;Málaga;Europa;Italia;17527,0;113926,0;6,5
+2023;7;Málaga;Europa;Letonia;1892,0;20244,0;10,7
+2023;7;Málaga;Europa;Liechtenstein;634,0;5199,0;8,2
+2023;7;Málaga;Europa;Lituania;2954,0;21860,0;7,4
+2023;7;Málaga;Europa;Luxemburgo;2479,0;23798,0;9,6
+2023;7;Málaga;Europa;Macedonia del Norte;137,0;973,0;7,1
+2023;7;Málaga;Europa;Malta;313,0;2723,0;8,7
+2023;7;Málaga;Europa;Moldavia;158,0;1296,0;8,2
+2023;7;Málaga;Europa;Montenegro;33,0;215,0;6,5
+2023;7;Málaga;Europa;Noruega;27087,0;238366,0;8,8
+2023;7;Málaga;Europa;Países Bajos;47201,0;330407,0;7,0
+2023;7;Málaga;Europa;Polonia;17073,0;112682,0;6,6
+2023;7;Málaga;Europa;Portugal;10422,0;62532,0;6,0
+2023;7;Málaga;Europa;Reino Unido;222051,0;1617738,0;6,8
+2023;7;Málaga;Europa;República Checa;5947,0;49360,0;8,3
+2023;7;Málaga;Europa;República Eslovaca;2477,0;21302,0;8,6
+2023;7;Málaga;Europa;Rumanía;3488,0;30346,0;8,7
+2023;7;Málaga;Europa;Rusia;2156,0;21560,0;10,0
+2023;7;Málaga;Europa;Serbia;551,0;4518,0;8,2
+2023;7;Málaga;Europa;Suecia;37247,0;312875,0;8,4
+2023;7;Málaga;Europa;Suiza;12956,0;91988,0;7,1
+2023;7;Málaga;Europa;Turquía;612,0;3060,0;5,0
+2023;7;Málaga;Oceanía;Australia;1209,0;8705,0;7,2
+2023;7;Málaga;Oceanía;Nueva Zelanda;225,0;1643,0;7,3
+2023;7;Málaga;Total;Total;734976,0;5622570,0;7,7
+2023;7;Málaga;Total;Total América;31347,0;257665,0;8,2
+2023;7;Málaga;Total;Total América del Norte;24569,0;200399,0;8,2
+2023;7;Málaga;Total;Total Asia;17405,0;122494,0;7,0
+2023;7;Málaga;Total;Total Centroamérica y Caribe;497,0;3770,0;7,6
+2023;7;Málaga;Total;Total Europa;662119,0;5124942,0;7,7
+2023;7;Málaga;Total;Total Oceanía;1437,0;10387,0;7,2
+2023;7;Málaga;Total;Total Sudamérica;6281,0;53496,0;8,5
+2023;7;Málaga;Total;Total África;22668,0;107082,0;4,7
+2023;7;Málaga;África;Argelia;301,0;2077,0;6,9
+2023;7;Málaga;África;Egipto;270,0;1944,0;7,2
+2023;7;Málaga;África;Ghana;57,0;439,0;7,7
+2023;7;Málaga;África;Kenia;66,0;317,0;4,8
+2023;7;Málaga;África;Marruecos;20761,0;93425,0;4,5
+2023;7;Málaga;África;Mauricio;34,0;238,0;7,0
+2023;7;Málaga;África;Nigeria;301,0;2378,0;7,9
+2023;7;Málaga;África;Senegal;186,0;1339,0;7,2
+2023;7;Málaga;África;Sudáfrica;277,0;2188,0;7,9
+2023;7;Málaga;África;Túnez;128,0;858,0;6,7
+2023;8;Málaga;América;Argentina;2290,0;24732,0;10,8
+2023;8;Málaga;América;Bolivia;40,0;328,0;8,2
+2023;8;Málaga;América;Brasil;902,0;7757,0;8,6
+2023;8;Málaga;América;Canadá;3736,0;28394,0;7,6
+2023;8;Málaga;América;Chile;348,0;2575,0;7,4
+2023;8;Málaga;América;Colombia;1569,0;14278,0;9,1
+2023;8;Málaga;América;Costa Rica;40,0;368,0;9,2
+2023;8;Málaga;América;Cuba;37,0;192,0;5,2
+2023;8;Málaga;América;Ecuador;162,0;1458,0;9,0
+2023;8;Málaga;América;Estados Unidos de América;14892,0;116158,0;7,8
+2023;8;Málaga;América;Guatemala;38,0;327,0;8,6
+2023;8;Málaga;América;Honduras;61,0;543,0;8,9
+2023;8;Málaga;América;México;1022,0;8074,0;7,9
+2023;8;Málaga;América;Panamá;88,0;801,0;9,1
+2023;8;Málaga;América;Paraguay;425,0;3358,0;7,9
+2023;8;Málaga;América;Perú;147,0;1573,0;10,7
+2023;8;Málaga;América;República Dominicana;48,0;566,0;11,8
+2023;8;Málaga;América;Uruguay;295,0;2685,0;9,1
+2023;8;Málaga;América;Venezuela;279,0;2539,0;9,1
+2023;8;Málaga;Asia;Arabia Saudí;7403,0;68108,0;9,2
+2023;8;Málaga;Asia;Azerbaiyán;131,0;891,0;6,8
+2023;8;Málaga;Asia;Bahréin;752,0;7370,0;9,8
+2023;8;Málaga;Asia;China;1683,0;11444,0;6,8
+2023;8;Málaga;Asia;Corea;481,0;3078,0;6,4
+2023;8;Málaga;Asia;Emiratos Árabes Unidos;3154,0;28071,0;8,9
+2023;8;Málaga;Asia;Filipinas;865,0;8045,0;9,3
+2023;8;Málaga;Asia;India;702,0;4282,0;6,1
+2023;8;Málaga;Asia;Indonesia;139,0;1001,0;7,2
+2023;8;Málaga;Asia;Iraq;72,0;605,0;8,4
+2023;8;Málaga;Asia;Irán;305,0;2593,0;8,5
+2023;8;Málaga;Asia;Israel;1243,0;8950,0;7,2
+2023;8;Málaga;Asia;Japón;189,0;1588,0;8,4
+2023;8;Málaga;Asia;Jordania;152,0;1611,0;10,6
+2023;8;Málaga;Asia;Kazajstán;184,0;1582,0;8,6
+2023;8;Málaga;Asia;Kuwait;2402,0;30265,0;12,6
+2023;8;Málaga;Asia;Líbano;237,0;1801,0;7,6
+2023;8;Málaga;Asia;Malasia;56,0;358,0;6,4
+2023;8;Málaga;Asia;Omán;109,0;1101,0;10,1
+2023;8;Málaga;Asia;Otros países de Asia;47,0;273,0;5,8
+2023;8;Málaga;Asia;Pakistán;68,0;483,0;7,1
+2023;8;Málaga;Asia;Qatar;1213,0;10311,0;8,5
+2023;8;Málaga;Asia;Singapur;195,0;1716,0;8,8
+2023;8;Málaga;Asia;Sri Lanka;51,0;383,0;7,5
+2023;8;Málaga;Asia;Tailandia;368,0;1914,0;5,2
+2023;8;Málaga;Asia;Uzbekistán;50,0;495,0;9,9
+2023;8;Málaga;Asia;Vietnam;87,0;609,0;7,0
+2023;8;Málaga;Europa;Albania;143,0;1087,0;7,6
+2023;8;Málaga;Europa;Alemania;41908,0;393935,0;9,4
+2023;8;Málaga;Europa;Andorra;221,0;2453,0;11,1
+2023;8;Málaga;Europa;Armenia;130,0;1079,0;8,3
+2023;8;Málaga;Europa;Austria;9619,0;79838,0;8,3
+2023;8;Málaga;Europa;Belarús;387,0;3444,0;8,9
+2023;8;Málaga;Europa;Bosnia y Herzegovina;78,0;515,0;6,6
+2023;8;Málaga;Europa;Bulgaria;942,0;7253,0;7,7
+2023;8;Málaga;Europa;Bélgica;36567,0;340073,0;9,3
+2023;8;Málaga;Europa;Chipre;209,0;1609,0;7,7
+2023;8;Málaga;Europa;Croacia;454,0;3541,0;7,8
+2023;8;Málaga;Europa;Dinamarca;24363,0;211958,0;8,7
+2023;8;Málaga;Europa;Eslovenia;578,0;3410,0;5,9
+2023;8;Málaga;Europa;Estonia;1997,0;15976,0;8,0
+2023;8;Málaga;Europa;Finlandia;8894,0;80935,0;9,1
+2023;8;Málaga;Europa;Francia;88127,0;687391,0;7,8
+2023;8;Málaga;Europa;Georgia;158,0;1169,0;7,4
+2023;8;Málaga;Europa;Grecia;823,0;5596,0;6,8
+2023;8;Málaga;Europa;Hungría;3361,0;27224,0;8,1
+2023;8;Málaga;Europa;Irlanda;57185,0;571850,0;10,0
+2023;8;Málaga;Europa;Islandia;547,0;5689,0;10,4
+2023;8;Málaga;Europa;Italia;28788,0;207274,0;7,2
+2023;8;Málaga;Europa;Letonia;1864,0;21250,0;11,4
+2023;8;Málaga;Europa;Liechtenstein;493,0;4831,0;9,8
+2023;8;Málaga;Europa;Lituania;3137,0;19136,0;6,1
+2023;8;Málaga;Europa;Luxemburgo;3352,0;32850,0;9,8
+2023;8;Málaga;Europa;Macedonia del Norte;141,0;1043,0;7,4
+2023;8;Málaga;Europa;Malta;363,0;3049,0;8,4
+2023;8;Málaga;Europa;Moldavia;113,0;1051,0;9,3
+2023;8;Málaga;Europa;Montenegro;37,0;359,0;9,7
+2023;8;Málaga;Europa;Noruega;16766,0;152571,0;9,1
+2023;8;Málaga;Europa;Países Bajos;57236,0;480782,0;8,4
+2023;8;Málaga;Europa;Polonia;20305,0;158379,0;7,8
+2023;8;Málaga;Europa;Portugal;17943,0;118424,0;6,6
+2023;8;Málaga;Europa;Reino Unido;219756,0;1839576,0;7,45
+2023;8;Málaga;Europa;República Checa;5048,0;44927,0;8,9
+2023;8;Málaga;Europa;República Eslovaca;1414,0;12585,0;8,9
+2023;8;Málaga;Europa;Rumanía;4389,0;39062,0;8,9
+2023;8;Málaga;Europa;Rusia;3016,0;32874,0;10,9
+2023;8;Málaga;Europa;Serbia;800,0;6160,0;7,7
+2023;8;Málaga;Europa;Suecia;36424,0;320531,0;8,8
+2023;8;Málaga;Europa;Suiza;14534,0;119179,0;8,2
+2023;8;Málaga;Europa;Turquía;606,0;2909,0;4,8
+2023;8;Málaga;Oceanía;Australia;791,0;5774,0;7,3
+2023;8;Málaga;Oceanía;Nueva Zelanda;165,0;1337,0;8,1
+2023;8;Málaga;Total;Total;804174,0;6751436,0;8,4
+2023;8;Málaga;Total;Total América;26495,0;217282,0;8,2
+2023;8;Málaga;Total;Total América del Norte;19650,0;152626,0;7,8
+2023;8;Málaga;Total;Total Asia;22375,0;199230,0;8,9
+2023;8;Málaga;Total;Total Centroamérica y Caribe;385,0;3361,0;8,7
+2023;8;Málaga;Total;Total Europa;713221,0;6064862,0;8,5
+2023;8;Málaga;Total;Total Oceanía;959,0;7123,0;7,4
+2023;8;Málaga;Total;Total Sudamérica;6460,0;61295,0;9,5
+2023;8;Málaga;Total;Total África;41124,0;262939,0;6,4
+2023;8;Málaga;África;Angola;89,0;641,0;7,2
+2023;8;Málaga;África;Argelia;618,0;5191,0;8,4
+2023;8;Málaga;África;Egipto;269,0;2071,0;7,7
+2023;8;Málaga;África;Ghana;100,0;630,0;6,3
+2023;8;Málaga;África;Kenia;66,0;356,0;5,4
+2023;8;Málaga;África;Marruecos;38426,0;242084,0;6,3
+2023;8;Málaga;África;Nigeria;589,0;3887,0;6,6
+2023;8;Málaga;África;Senegal;286,0;2460,0;8,6
+2023;8;Málaga;África;Sudáfrica;241,0;2241,0;9,3
+2023;8;Málaga;África;Túnez;145,0;1146,0;7,9
+2023;9;Málaga;América;Argentina;2133,0;24743,0;11,6
+2023;9;Málaga;América;Bolivia;31,0;171,0;5,5
+2023;9;Málaga;América;Brasil;863,0;6214,0;7,2
+2023;9;Málaga;América;Canadá;4604,0;32228,0;7,0
+2023;9;Málaga;América;Chile;360,0;2448,0;6,8
+2023;9;Málaga;América;Colombia;1269,0;10787,0;8,5
+2023;9;Málaga;América;Costa Rica;47,0;357,0;7,6
+2023;9;Málaga;América;Ecuador;142,0;1164,0;8,2
+2023;9;Málaga;América;Estados Unidos de América;21225,0;142208,0;6,7
+2023;9;Málaga;América;Guatemala;45,0;342,0;7,6
+2023;9;Málaga;América;Honduras;53,0;445,0;8,4
+2023;9;Málaga;América;México;1160,0;7772,0;6,7
+2023;9;Málaga;América;Nicaragua;39,0;296,0;7,6
+2023;9;Málaga;América;Panamá;65,0;533,0;8,2
+2023;9;Málaga;América;Paraguay;346,0;2595,0;7,5
+2023;9;Málaga;América;Perú;118,0;1168,0;9,9
+2023;9;Málaga;América;República Dominicana;42,0;235,0;5,6
+2023;9;Málaga;América;Uruguay;267,0;2697,0;10,1
+2023;9;Málaga;América;Venezuela;228,0;2166,0;9,5
+2023;9;Málaga;Asia;Arabia Saudí;1298,0;11422,0;8,8
+2023;9;Málaga;Asia;Azerbaiyán;56,0;291,0;5,2
+2023;9;Málaga;Asia;Bahréin;193,0;1100,0;5,7
+2023;9;Málaga;Asia;China;1403,0;7997,0;5,7
+2023;9;Málaga;Asia;Corea;1211,0;6661,0;5,5
+2023;9;Málaga;Asia;Emiratos Árabes Unidos;1258,0;9183,0;7,3
+2023;9;Málaga;Asia;Filipinas;327,0;1373,0;4,2
+2023;9;Málaga;Asia;India;755,0;3700,0;4,9
+2023;9;Málaga;Asia;Indonesia;215,0;1204,0;5,6
+2023;9;Málaga;Asia;Iraq;30,0;111,0;3,7
+2023;9;Málaga;Asia;Irán;354,0;2726,0;7,7
+2023;9;Málaga;Asia;Israel;721,0;4614,0;6,4
+2023;9;Málaga;Asia;Japón;477,0;2624,0;5,5
+2023;9;Málaga;Asia;Jordania;91,0;610,0;6,7
+2023;9;Málaga;Asia;Kazajstán;167,0;1453,0;8,7
+2023;9;Málaga;Asia;Kuwait;784,0;11133,0;14,2
+2023;9;Málaga;Asia;Líbano;139,0;904,0;6,5
+2023;9;Málaga;Asia;Malasia;95,0;665,0;7,0
+2023;9;Málaga;Asia;Otros países de Asia;78,0;468,0;6,0
+2023;9;Málaga;Asia;Pakistán;64,0;371,0;5,8
+2023;9;Málaga;Asia;Qatar;269,0;1775,0;6,6
+2023;9;Málaga;Asia;Singapur;173,0;1228,0;7,1
+2023;9;Málaga;Asia;Sri Lanka;46,0;235,0;5,1
+2023;9;Málaga;Asia;Tailandia;378,0;1777,0;4,7
+2023;9;Málaga;Asia;Vietnam;70,0;462,0;6,6
+2023;9;Málaga;Europa;Albania;97,0;621,0;6,4
+2023;9;Málaga;Europa;Alemania;44132,0;388362,0;8,8
+2023;9;Málaga;Europa;Andorra;111,0;1132,0;10,2
+2023;9;Málaga;Europa;Armenia;57,0;325,0;5,7
+2023;9;Málaga;Europa;Austria;7327,0;56418,0;7,7
+2023;9;Málaga;Europa;Belarús;387,0;3212,0;8,3
+2023;9;Málaga;Europa;Bosnia y Herzegovina;88,0;660,0;7,5
+2023;9;Málaga;Europa;Bulgaria;1696,0;11194,0;6,6
+2023;9;Málaga;Europa;Bélgica;26678,0;208088,0;7,8
+2023;9;Málaga;Europa;Chipre;163,0;1011,0;6,2
+2023;9;Málaga;Europa;Croacia;468,0;2714,0;5,8
+2023;9;Málaga;Europa;Dinamarca;20229,0;143626,0;7,1
+2023;9;Málaga;Europa;Eslovenia;403,0;2418,0;6,0
+2023;9;Málaga;Europa;Estonia;2134,0;16005,0;7,5
+2023;9;Málaga;Europa;Finlandia;12413,0;93098,0;7,5
+2023;9;Málaga;Europa;Francia;44093,0;330698,0;7,5
+2023;9;Málaga;Europa;Georgia;208,0;1310,0;6,3
+2023;9;Málaga;Europa;Grecia;652,0;4042,0;6,2
+2023;9;Málaga;Europa;Hungría;2895,0;19976,0;6,9
+2023;9;Málaga;Europa;Irlanda;55946,0;386027,0;6,9
+2023;9;Málaga;Europa;Islandia;251,0;2184,0;8,7
+2023;9;Málaga;Europa;Italia;17391,0;114781,0;6,6
+2023;9;Málaga;Europa;Letonia;2086,0;21277,0;10,2
+2023;9;Málaga;Europa;Liechtenstein;408,0;3917,0;9,6
+2023;9;Málaga;Europa;Lituania;3058,0;17125,0;5,6
+2023;9;Málaga;Europa;Luxemburgo;2850,0;26790,0;9,4
+2023;9;Málaga;Europa;Macedonia del Norte;91,0;701,0;7,7
+2023;9;Málaga;Europa;Malta;386,0;2818,0;7,3
+2023;9;Málaga;Europa;Moldavia;102,0;755,0;7,4
+2023;9;Málaga;Europa;Montenegro;37,0;300,0;8,1
+2023;9;Málaga;Europa;Noruega;15275,0;99288,0;6,5
+2023;9;Málaga;Europa;Países Bajos;42427,0;305474,0;7,2
+2023;9;Málaga;Europa;Polonia;16906,0;108198,0;6,4
+2023;9;Málaga;Europa;Portugal;12087,0;76148,0;6,3
+2023;9;Málaga;Europa;Reino Unido;212429,0;1548353,0;6,85
+2023;9;Málaga;Europa;República Checa;4934,0;37992,0;7,7
+2023;9;Málaga;Europa;República Eslovaca;1530,0;11934,0;7,8
+2023;9;Málaga;Europa;Rumanía;4049,0;32797,0;8,1
+2023;9;Málaga;Europa;Rusia;2575,0;23690,0;9,2
+2023;9;Málaga;Europa;Serbia;612,0;4223,0;6,9
+2023;9;Málaga;Europa;Suecia;28986,0;191308,0;6,6
+2023;9;Málaga;Europa;Suiza;11334,0;77071,0;6,8
+2023;9;Málaga;Europa;Turquía;546,0;3112,0;5,7
+2023;9;Málaga;Oceanía;Australia;1395,0;9486,0;6,8
+2023;9;Málaga;Oceanía;Nueva Zelanda;214,0;1605,0;7,5
+2023;9;Málaga;Total;Total;661965,0;4800131,0;7,3
+2023;9;Málaga;Total;Total América;33107,0;239162,0;7,2
+2023;9;Málaga;Total;Total América del Norte;26989,0;182208,0;6,8
+2023;9;Málaga;Total;Total Asia;10751,0;74696,0;6,9
+2023;9;Málaga;Total;Total Centroamérica y Caribe;358,0;2793,0;7,8
+2023;9;Málaga;Total;Total Europa;600531,0;4381191,0;7,3
+2023;9;Málaga;Total;Total Oceanía;1612,0;11114,0;6,9
+2023;9;Málaga;Total;Total Sudamérica;5760,0;54161,0;9,4
+2023;9;Málaga;Total;Total África;15964,0;93968,0;5,9
+2023;9;Málaga;África;Angola;44,0;392,0;8,9
+2023;9;Málaga;África;Argelia;333,0;2731,0;8,2
+2023;9;Málaga;África;Egipto;197,0;1359,0;6,9
+2023;9;Málaga;África;Ghana;78,0;577,0;7,4
+2023;9;Málaga;África;Kenia;72,0;475,0;6,6
+2023;9;Málaga;África;Marruecos;14346,0;81772,0;5,7
+2023;9;Málaga;África;Nigeria;127,0;1029,0;8,1
+2023;9;Málaga;África;Senegal;259,0;1994,0;7,7
+2023;9;Málaga;África;Sudáfrica;172,0;1324,0;7,7
+2023;9;Málaga;África;Túnez;96,0;586,0;6,1
+2023;10;Málaga;América;Argentina;1604,0;15880,0;9,9
+2023;10;Málaga;América;Bolivia;36,0;180,0;5,0
+2023;10;Málaga;América;Brasil;887,0;6386,0;7,2
+2023;10;Málaga;América;Canadá;5706,0;41083,0;7,2
+2023;10;Málaga;América;Chile;362,0;2896,0;8,0
+2023;10;Málaga;América;Colombia;1370,0;10686,0;7,8
+2023;10;Málaga;América;Costa Rica;40,0;296,0;7,4
+2023;10;Málaga;América;Cuba;42,0;193,0;4,6
+2023;10;Málaga;América;Ecuador;165,0;1155,0;7,0
+2023;10;Málaga;América;Estados Unidos de América;13817,0;96719,0;7,0
+2023;10;Málaga;América;Guatemala;70,0;441,0;6,3
+2023;10;Málaga;América;Honduras;54,0;421,0;7,8
+2023;10;Málaga;América;México;946,0;6717,0;7,1
+2023;10;Málaga;América;Nicaragua;36,0;259,0;7,2
+2023;10;Málaga;América;Panamá;75,0;615,0;8,2
+2023;10;Málaga;América;Paraguay;379,0;2539,0;6,7
+2023;10;Málaga;América;Perú;123,0;1046,0;8,5
+2023;10;Málaga;América;República Dominicana;43,0;301,0;7,0
+2023;10;Málaga;América;Uruguay;260,0;2158,0;8,3
+2023;10;Málaga;América;Venezuela;257,0;1773,0;6,9
+2023;10;Málaga;Asia;Arabia Saudí;414,0;3395,0;8,2
+2023;10;Málaga;Asia;Azerbaiyán;46,0;290,0;6,3
+2023;10;Málaga;Asia;Bahréin;58,0;406,0;7,0
+2023;10;Málaga;Asia;China;1973,0;12627,0;6,4
+2023;10;Málaga;Asia;Corea;1260,0;7056,0;5,6
+2023;10;Málaga;Asia;Emiratos Árabes Unidos;1015,0;7308,0;7,2
+2023;10;Málaga;Asia;Filipinas;429,0;1587,0;3,7
+2023;10;Málaga;Asia;India;845,0;4732,0;5,6
+2023;10;Málaga;Asia;Indonesia;234,0;1404,0;6,0
+2023;10;Málaga;Asia;Irán;304,0;2614,0;8,6
+2023;10;Málaga;Asia;Israel;727,0;5307,0;7,3
+2023;10;Málaga;Asia;Japón;338,0;2096,0;6,2
+2023;10;Málaga;Asia;Jordania;74,0;437,0;5,9
+2023;10;Málaga;Asia;Kazajstán;160,0;1584,0;9,9
+2023;10;Málaga;Asia;Kuwait;188,0;1861,0;9,9
+2023;10;Málaga;Asia;Líbano;139,0;1001,0;7,2
+2023;10;Málaga;Asia;Malasia;79,0;537,0;6,8
+2023;10;Málaga;Asia;Omán;40,0;248,0;6,2
+2023;10;Málaga;Asia;Otros países de Asia;132,0;779,0;5,9
+2023;10;Málaga;Asia;Pakistán;77,0;501,0;6,5
+2023;10;Málaga;Asia;Qatar;124,0;905,0;7,3
+2023;10;Málaga;Asia;Singapur;225,0;1710,0;7,6
+2023;10;Málaga;Asia;Sri Lanka;34,0;180,0;5,3
+2023;10;Málaga;Asia;Tailandia;365,0;1898,0;5,2
+2023;10;Málaga;Asia;Vietnam;77,0;400,0;5,2
+2023;10;Málaga;Europa;Albania;99,0;614,0;6,2
+2023;10;Málaga;Europa;Alemania;49677,0;432190,0;8,7
+2023;10;Málaga;Europa;Andorra;124,0;1141,0;9,2
+2023;10;Málaga;Europa;Armenia;87,0;557,0;6,4
+2023;10;Málaga;Europa;Austria;7376,0;57533,0;7,8
+2023;10;Málaga;Europa;Belarús;353,0;3036,0;8,6
+2023;10;Málaga;Europa;Bosnia y Herzegovina;204,0;877,0;4,3
+2023;10;Málaga;Europa;Bulgaria;1716,0;11326,0;6,6
+2023;10;Málaga;Europa;Bélgica;22300,0;173940,0;7,8
+2023;10;Málaga;Europa;Chipre;173,0;1038,0;6,0
+2023;10;Málaga;Europa;Croacia;630,0;3654,0;5,8
+2023;10;Málaga;Europa;Dinamarca;24639,0;187256,0;7,6
+2023;10;Málaga;Europa;Eslovenia;388,0;2406,0;6,2
+2023;10;Málaga;Europa;Estonia;3160,0;25912,0;8,2
+2023;10;Málaga;Europa;Finlandia;18418,0;156553,0;8,5
+2023;10;Málaga;Europa;Francia;42060,0;294420,0;7,0
+2023;10;Málaga;Europa;Georgia;179,0;1164,0;6,5
+2023;10;Málaga;Europa;Grecia;674,0;4246,0;6,3
+2023;10;Málaga;Europa;Hungría;3231,0;22294,0;6,9
+2023;10;Málaga;Europa;Irlanda;48907,0;342349,0;7,0
+2023;10;Málaga;Europa;Islandia;371,0;3525,0;9,5
+2023;10;Málaga;Europa;Italia;13516,0;79744,0;5,9
+2023;10;Málaga;Europa;Letonia;2461,0;23133,0;9,4
+2023;10;Málaga;Europa;Liechtenstein;451,0;3834,0;8,5
+2023;10;Málaga;Europa;Lituania;3667,0;22002,0;6,0
+2023;10;Málaga;Europa;Luxemburgo;2424,0;22058,0;9,1
+2023;10;Málaga;Europa;Macedonia del Norte;58,0;348,0;6,0
+2023;10;Málaga;Europa;Malta;472,0;3587,0;7,6
+2023;10;Málaga;Europa;Moldavia;102,0;694,0;6,8
+2023;10;Málaga;Europa;Montenegro;56,0;392,0;7,0
+2023;10;Málaga;Europa;Noruega;20951,0;157133,0;7,5
+2023;10;Málaga;Europa;Países Bajos;45176,0;316232,0;7,0
+2023;10;Málaga;Europa;Polonia;16386,0;116341,0;7,1
+2023;10;Málaga;Europa;Portugal;6063,0;32134,0;5,3
+2023;10;Málaga;Europa;Reino Unido;184796,0;1307785,0;6,1
+2023;10;Málaga;Europa;República Checa;5129,0;36929,0;7,2
+2023;10;Málaga;Europa;República Eslovaca;1218,0;9013,0;7,4
+2023;10;Málaga;Europa;Rumanía;3835,0;28763,0;7,5
+2023;10;Málaga;Europa;Rusia;2098,0;18462,0;8,8
+2023;10;Málaga;Europa;Serbia;721,0;4470,0;6,2
+2023;10;Málaga;Europa;Suecia;33873,0;257435,0;7,6
+2023;10;Málaga;Europa;Suiza;13996,0;100771,0;7,2
+2023;10;Málaga;Europa;Turquía;688,0;3096,0;4,5
+2023;10;Málaga;Oceanía;Australia;1086,0;8145,0;7,5
+2023;10;Málaga;Oceanía;Nueva Zelanda;166,0;1660,0;10,0
+2023;10;Málaga;Total;Total;633083,0;4609406,0;7,3
+2023;10;Málaga;Total;Total América;26314,0;192052,0;7,3
+2023;10;Málaga;Total;Total América del Norte;20469,0;144519,0;7,1
+2023;10;Málaga;Total;Total Asia;9434,0;61379,0;6,5
+2023;10;Málaga;Total;Total Centroamérica y Caribe;399,0;2825,0;7,1
+2023;10;Málaga;Total;Total Europa;582906,0;4270425,0;7,3
+2023;10;Málaga;Total;Total Oceanía;1255,0;9833,0;7,8
+2023;10;Málaga;Total;Total Sudamérica;5446,0;44708,0;8,2
+2023;10;Málaga;Total;Total África;13174,0;75717,0;5,7
+2023;10;Málaga;África;Argelia;197,0;1300,0;6,6
+2023;10;Málaga;África;Camerún;33,0;195,0;5,9
+2023;10;Málaga;África;Egipto;145,0;798,0;5,5
+2023;10;Málaga;África;Ghana;105,0;662,0;6,3
+2023;10;Málaga;África;Kenia;74,0;488,0;6,6
+2023;10;Málaga;África;Marruecos;11709,0;65570,0;5,6
+2023;10;Málaga;África;Mauritania;41,0;340,0;8,3
+2023;10;Málaga;África;Nigeria;149,0;1073,0;7,2
+2023;10;Málaga;África;Senegal;245,0;1862,0;7,6
+2023;10;Málaga;África;Sudáfrica;173,0;1211,0;7,0
+2023;10;Málaga;África;Túnez;94,0;667,0;7,1
+2023;11;Málaga;América;Argentina;1284,0;13482,0;10,5
+2023;11;Málaga;América;Brasil;777,0;4973,0;6,4
+2023;11;Málaga;América;Canadá;3444,0;26174,0;7,6
+2023;11;Málaga;América;Chile;264,0;1822,0;6,9
+2023;11;Málaga;América;Colombia;1205,0;8797,0;7,3
+2023;11;Málaga;América;Costa Rica;38,0;372,0;9,8
+2023;11;Málaga;América;Cuba;40,0;128,0;3,2
+2023;11;Málaga;América;Ecuador;145,0;1247,0;8,6
+2023;11;Málaga;América;Estados Unidos de América;10534,0;73738,0;7,0
+2023;11;Málaga;América;Guatemala;30,0;216,0;7,2
+2023;11;Málaga;América;Honduras;82,0;558,0;6,8
+2023;11;Málaga;América;México;745,0;5290,0;7,1
+2023;11;Málaga;América;Nicaragua;56,0;560,0;10,0
+2023;11;Málaga;América;Panamá;62,0;533,0;8,6
+2023;11;Málaga;América;Paraguay;365,0;2555,0;7,0
+2023;11;Málaga;América;Perú;112,0;851,0;7,6
+2023;11;Málaga;América;Uruguay;143,0;1502,0;10,5
+2023;11;Málaga;América;Venezuela;217,0;1606,0;7,4
+2023;11;Málaga;Asia;Arabia Saudí;308,0;2187,0;7,1
+2023;11;Málaga;Asia;Azerbaiyán;37,0;315,0;8,5
+2023;11;Málaga;Asia;Bahréin;45,0;360,0;8,0
+2023;11;Málaga;Asia;China;1765,0;11473,0;6,5
+2023;11;Málaga;Asia;Corea;1044,0;5324,0;5,1
+2023;11;Málaga;Asia;Emiratos Árabes Unidos;571,0;3940,0;6,9
+2023;11;Málaga;Asia;Filipinas;430,0;1333,0;3,1
+2023;11;Málaga;Asia;India;756,0;4309,0;5,7
+2023;11;Málaga;Asia;Indonesia;392,0;1999,0;5,1
+2023;11;Málaga;Asia;Irán;247,0;1976,0;8,0
+2023;11;Málaga;Asia;Israel;308,0;2864,0;9,3
+2023;11;Málaga;Asia;Japón;317,0;2219,0;7,0
+2023;11;Málaga;Asia;Jordania;65,0;494,0;7,6
+2023;11;Málaga;Asia;Kazajstán;158,0;948,0;6,0
+2023;11;Málaga;Asia;Kuwait;98,0;990,0;10,1
+2023;11;Málaga;Asia;Líbano;105,0;809,0;7,7
+2023;11;Málaga;Asia;Malasia;71,0;476,0;6,7
+2023;11;Málaga;Asia;Omán;33,0;218,0;6,6
+2023;11;Málaga;Asia;Otros países de Asia;100,0;600,0;6,0
+2023;11;Málaga;Asia;Pakistán;41,0;201,0;4,9
+2023;11;Málaga;Asia;Qatar;74,0;533,0;7,2
+2023;11;Málaga;Asia;Singapur;154,0;1032,0;6,7
+2023;11;Málaga;Asia;Sri Lanka;42,0;168,0;4,0
+2023;11;Málaga;Asia;Tailandia;337,0;1348,0;4,0
+2023;11;Málaga;Asia;Vietnam;68,0;456,0;6,7
+2023;11;Málaga;Europa;Albania;58,0;400,0;6,9
+2023;11;Málaga;Europa;Alemania;29795,0;262196,0;8,8
+2023;11;Málaga;Europa;Andorra;107,0;792,0;7,4
+2023;11;Málaga;Europa;Armenia;63,0;473,0;7,5
+2023;11;Málaga;Europa;Austria;6971,0;56465,0;8,1
+2023;11;Málaga;Europa;Belarús;284,0;2386,0;8,4
+2023;11;Málaga;Europa;Bosnia y Herzegovina;70,0;371,0;5,3
+2023;11;Málaga;Europa;Bulgaria;1241,0;7074,0;5,7
+2023;11;Málaga;Europa;Bélgica;18698,0;138365,0;7,4
+2023;11;Málaga;Europa;Chipre;164,0;1164,0;7,1
+2023;11;Málaga;Europa;Croacia;863,0;4747,0;5,5
+2023;11;Málaga;Europa;Dinamarca;12766,0;108511,0;8,5
+2023;11;Málaga;Europa;Eslovenia;677,0;3724,0;5,5
+2023;11;Málaga;Europa;Estonia;1812,0;16127,0;8,9
+2023;11;Málaga;Europa;Finlandia;15696,0;161669,0;10,3
+2023;11;Málaga;Europa;Francia;21535,0;165820,0;7,7
+2023;11;Málaga;Europa;Georgia;165,0;957,0;5,8
+2023;11;Málaga;Europa;Grecia;683,0;4713,0;6,9
+2023;11;Málaga;Europa;Hungría;2569,0;17212,0;6,7
+2023;11;Málaga;Europa;Irlanda;21792,0;156902,0;7,2
+2023;11;Málaga;Europa;Islandia;182,0;1656,0;9,1
+2023;11;Málaga;Europa;Italia;10212,0;57187,0;5,6
+2023;11;Málaga;Europa;Letonia;1965,0;19454,0;9,9
+2023;11;Málaga;Europa;Liechtenstein;406,0;3289,0;8,1
+2023;11;Málaga;Europa;Lituania;3217,0;19945,0;6,2
+2023;11;Málaga;Europa;Luxemburgo;2137,0;19233,0;9,0
+2023;11;Málaga;Europa;Macedonia del Norte;36,0;320,0;8,9
+2023;11;Málaga;Europa;Malta;287,0;2382,0;8,3
+2023;11;Málaga;Europa;Moldavia;85,0;663,0;7,8
+2023;11;Málaga;Europa;Montenegro;52,0;312,0;6,0
+2023;11;Málaga;Europa;Noruega;10435,0;103307,0;9,9
+2023;11;Málaga;Europa;Países Bajos;26574,0;180703,0;6,8
+2023;11;Málaga;Europa;Polonia;16979,0;100176,0;5,9
+2023;11;Málaga;Europa;Portugal;3083,0;19115,0;6,2
+2023;11;Málaga;Europa;Reino Unido;83228,0;587916,0;6,25
+2023;11;Málaga;Europa;República Checa;3600,0;21600,0;6,0
+2023;11;Málaga;Europa;República Eslovaca;1018,0;6312,0;6,2
+2023;11;Málaga;Europa;Rumanía;2324,0;17198,0;7,4
+2023;11;Málaga;Europa;Rusia;1595,0;15312,0;9,6
+2023;11;Málaga;Europa;Serbia;490,0;2744,0;5,6
+2023;11;Málaga;Europa;Suecia;31034,0;263789,0;8,5
+2023;11;Málaga;Europa;Suiza;7666,0;51362,0;6,7
+2023;11;Málaga;Europa;Turquía;676,0;3042,0;4,5
+2023;11;Málaga;Oceanía;Australia;875,0;6213,0;7,1
+2023;11;Málaga;Oceanía;Nueva Zelanda;90,0;693,0;7,7
+2023;11;Málaga;Total;Total;380772,0;2856724,0;7,5
+2023;11;Málaga;Total;Total América;19641,0;145097,0;7,4
+2023;11;Málaga;Total;Total América del Norte;14723,0;105202,0;7,1
+2023;11;Málaga;Total;Total Asia;7657,0;47129,0;6,2
+2023;11;Málaga;Total;Total Centroamérica y Caribe;375,0;2874,0;7,7
+2023;11;Málaga;Total;Total Europa;343293,0;2607094,0;7,6
+2023;11;Málaga;Total;Total Oceanía;968,0;6935,0;7,2
+2023;11;Málaga;Total;Total Sudamérica;4543,0;37021,0;8,1
+2023;11;Málaga;Total;Total África;9213,0;50469,0;5,5
+2023;11;Málaga;África;Argelia;176,0;1126,0;6,4
+2023;11;Málaga;África;Egipto;132,0;528,0;4,0
+2023;11;Málaga;África;Ghana;57,0;382,0;6,7
+2023;11;Málaga;África;Kenia;77,0;493,0;6,4
+2023;11;Málaga;África;Madagascar;32,0;150,0;4,7
+2023;11;Málaga;África;Marruecos;7951,0;41345,0;5,2
+2023;11;Málaga;África;Mauricio;31,0;167,0;5,4
+2023;11;Málaga;África;Mauritania;43,0;387,0;9,0
+2023;11;Málaga;África;Nigeria;117,0;866,0;7,4
+2023;11;Málaga;África;Senegal;284,0;2499,0;8,8
+2023;11;Málaga;África;Sudáfrica;117,0;948,0;8,1
+2023;11;Málaga;África;Túnez;72,0;540,0;7,5
+2023;12;Málaga;América;Argentina;1693,0;14560,0;8,6
+2023;12;Málaga;América;Bolivia;37,0;355,0;9,6
+2023;12;Málaga;América;Brasil;572,0;3890,0;6,8
+2023;12;Málaga;América;Canadá;2698,0;20505,0;7,6
+2023;12;Málaga;América;Chile;264,0;1980,0;7,5
+2023;12;Málaga;América;Colombia;1285,0;9124,0;7,1
+2023;12;Málaga;América;Costa Rica;49,0;333,0;6,8
+2023;12;Málaga;América;Cuba;42,0;223,0;5,3
+2023;12;Málaga;América;Ecuador;123,0;836,0;6,8
+2023;12;Málaga;América;Estados Unidos de América;8161,0;60391,0;7,4
+2023;12;Málaga;América;Guatemala;44,0;348,0;7,9
+2023;12;Málaga;América;Honduras;65,0;540,0;8,3
+2023;12;Málaga;América;México;838,0;6201,0;7,4
+2023;12;Málaga;América;Nicaragua;34,0;177,0;5,2
+2023;12;Málaga;América;Panamá;81,0;494,0;6,1
+2023;12;Málaga;América;Paraguay;353,0;2471,0;7,0
+2023;12;Málaga;América;Perú;128,0;870,0;6,8
+2023;12;Málaga;América;Uruguay;110,0;1045,0;9,5
+2023;12;Málaga;América;Venezuela;281,0;2023,0;7,2
+2023;12;Málaga;Asia;Arabia Saudí;317,0;2378,0;7,5
+2023;12;Málaga;Asia;Bahréin;56,0;370,0;6,6
+2023;12;Málaga;Asia;China;1960,0;12348,0;6,3
+2023;12;Málaga;Asia;Corea;1208,0;7006,0;5,8
+2023;12;Málaga;Asia;Emiratos Árabes Unidos;787,0;5273,0;6,7
+2023;12;Málaga;Asia;Filipinas;417,0;1501,0;3,6
+2023;12;Málaga;Asia;India;681,0;3065,0;4,5
+2023;12;Málaga;Asia;Indonesia;185,0;1221,0;6,6
+2023;12;Málaga;Asia;Iraq;33,0;92,0;2,8
+2023;12;Málaga;Asia;Irán;290,0;2494,0;8,6
+2023;12;Málaga;Asia;Israel;239,0;2008,0;8,4
+2023;12;Málaga;Asia;Japón;408,0;2856,0;7,0
+2023;12;Málaga;Asia;Jordania;41,0;221,0;5,4
+2023;12;Málaga;Asia;Kazajstán;160,0;1248,0;7,8
+2023;12;Málaga;Asia;Kuwait;116,0;1067,0;9,2
+2023;12;Málaga;Asia;Líbano;85,0;672,0;7,9
+2023;12;Málaga;Asia;Malasia;95,0;561,0;5,9
+2023;12;Málaga;Asia;Omán;55,0;292,0;5,3
+2023;12;Málaga;Asia;Otros países de Asia;57,0;325,0;5,7
+2023;12;Málaga;Asia;Pakistán;41,0;279,0;6,8
+2023;12;Málaga;Asia;Qatar;114,0;787,0;6,9
+2023;12;Málaga;Asia;Singapur;174,0;1131,0;6,5
+2023;12;Málaga;Asia;Tailandia;419,0;1508,0;3,6
+2023;12;Málaga;Asia;Vietnam;65,0;358,0;5,5
+2023;12;Málaga;Europa;Albania;67,0;409,0;6,1
+2023;12;Málaga;Europa;Alemania;19257,0;169462,0;8,8
+2023;12;Málaga;Europa;Andorra;60,0;600,0;10,0
+2023;12;Málaga;Europa;Armenia;60,0;498,0;8,3
+2023;12;Málaga;Europa;Austria;5547,0;46040,0;8,3
+2023;12;Málaga;Europa;Belarús;310,0;2604,0;8,4
+2023;12;Málaga;Europa;Bosnia y Herzegovina;84,0;395,0;4,7
+2023;12;Málaga;Europa;Bulgaria;841,0;5382,0;6,4
+2023;12;Málaga;Europa;Bélgica;12074,0;91762,0;7,6
+2023;12;Málaga;Europa;Chipre;95,0;827,0;8,7
+2023;12;Málaga;Europa;Croacia;673,0;3365,0;5,0
+2023;12;Málaga;Europa;Dinamarca;10219,0;80730,0;7,9
+2023;12;Málaga;Europa;Eslovenia;279,0;1590,0;5,7
+2023;12;Málaga;Europa;Estonia;1673,0;16730,0;10,0
+2023;12;Málaga;Europa;Finlandia;12649,0;151788,0;12,0
+2023;12;Málaga;Europa;Francia;21207,0;180260,0;8,5
+2023;12;Málaga;Europa;Georgia;103,0;752,0;7,3
+2023;12;Málaga;Europa;Grecia;358,0;2649,0;7,4
+2023;12;Málaga;Europa;Hungría;1696,0;13229,0;7,8
+2023;12;Málaga;Europa;Irlanda;18560,0;141056,0;7,6
+2023;12;Málaga;Europa;Islandia;103,0;1040,0;10,1
+2023;12;Málaga;Europa;Italia;8625,0;53475,0;6,2
+2023;12;Málaga;Europa;Letonia;1652,0;16190,0;9,8
+2023;12;Málaga;Europa;Liechtenstein;361,0;3213,0;8,9
+2023;12;Málaga;Europa;Lituania;2404,0;15626,0;6,5
+2023;12;Málaga;Europa;Luxemburgo;2006,0;22467,0;11,2
+2023;12;Málaga;Europa;Macedonia del Norte;102,0;643,0;6,3
+2023;12;Málaga;Europa;Malta;258,0;2219,0;8,6
+2023;12;Málaga;Europa;Moldavia;84,0;647,0;7,7
+2023;12;Málaga;Europa;Noruega;6982,0;64933,0;9,3
+2023;12;Málaga;Europa;Países Bajos;23311,0;160846,0;6,9
+2023;12;Málaga;Europa;Polonia;12819,0;79478,0;6,2
+2023;12;Málaga;Europa;Portugal;3987,0;23922,0;6,0
+2023;12;Málaga;Europa;Reino Unido;73669,0;510570,0;5,9
+2023;12;Málaga;Europa;República Checa;1981,0;15848,0;8,0
+2023;12;Málaga;Europa;República Eslovaca;606,0;4606,0;7,6
+2023;12;Málaga;Europa;Rumanía;1765,0;13238,0;7,5
+2023;12;Málaga;Europa;Rusia;1584,0;15998,0;10,1
+2023;12;Málaga;Europa;Serbia;251,0;1506,0;6,0
+2023;12;Málaga;Europa;Suecia;18637,0;158415,0;8,5
+2023;12;Málaga;Europa;Suiza;5969,0;39992,0;6,7
+2023;12;Málaga;Europa;Turquía;531,0;2549,0;4,8
+2023;12;Málaga;Oceanía;Australia;646,0;4328,0;6,7
+2023;12;Málaga;Oceanía;Nueva Zelanda;36,0;191,0;5,3
+2023;12;Málaga;Total;Total;309368,0;2350889,0;7,6
+2023;12;Málaga;Total;Total América;16915,0;126808,0;7,5
+2023;12;Málaga;Total;Total América del Norte;11697,0;87097,0;7,4
+2023;12;Málaga;Total;Total Asia;8095,0;49758,0;6,1
+2023;12;Málaga;Total;Total Centroamérica y Caribe;369,0;2542,0;6,9
+2023;12;Málaga;Total;Total Europa;273527,0;2117734,0;7,7
+2023;12;Málaga;Total;Total Oceanía;686,0;4561,0;6,6
+2023;12;Málaga;Total;Total Sudamérica;4849,0;37169,0;7,7
+2023;12;Málaga;Total;Total África;10145,0;52028,0;5,1
+2023;12;Málaga;África;Argelia;227,0;1453,0;6,4
+2023;12;Málaga;África;Egipto;108,0;432,0;4,0
+2023;12;Málaga;África;Ghana;87,0;461,0;5,3
+2023;12;Málaga;África;Kenia;70,0;434,0;6,2
+2023;12;Málaga;África;Marruecos;8927,0;43742,0;4,9
+2023;12;Málaga;África;Nigeria;125,0;800,0;6,4
+2023;12;Málaga;África;Senegal;231,0;1964,0;8,5
+2023;12;Málaga;África;Sudáfrica;106,0;859,0;8,1
+2023;12;Málaga;África;Túnez;109,0;610,0;5,6
+2024;1;Málaga;América;Argentina;1294,0;12034,0;9,3
+2024;1;Málaga;América;Brasil;523,0;4916,0;9,4
+2024;1;Málaga;América;Canadá;4277,0;29084,0;6,8
+2024;1;Málaga;América;Chile;244,0;1708,0;7,0
+2024;1;Málaga;América;Colombia;1328,0;11421,0;8,6
+2024;1;Málaga;América;Costa Rica;40,0;352,0;8,8
+2024;1;Málaga;América;Cuba;38,0;228,0;6,0
+2024;1;Málaga;América;Ecuador;53,0;398,0;7,5
+2024;1;Málaga;América;Estados Unidos de América;6779,0;52198,0;7,7
+2024;1;Málaga;América;Honduras;56,0;482,0;8,6
+2024;1;Málaga;América;México;548,0;4110,0;7,5
+2024;1;Málaga;América;Nicaragua;42,0;386,0;9,2
+2024;1;Málaga;América;Panamá;34,0;343,0;10,1
+2024;1;Málaga;América;Paraguay;429,0;2746,0;6,4
+2024;1;Málaga;América;Perú;117,0;1147,0;9,8
+2024;1;Málaga;América;República Dominicana;61,0;519,0;8,5
+2024;1;Málaga;América;Uruguay;96,0;874,0;9,1
+2024;1;Málaga;América;Venezuela;412,0;3667,0;8,9
+2024;1;Málaga;Asia;Arabia Saudí;343,0;2470,0;7,2
+2024;1;Málaga;Asia;Bahréin;36,0;421,0;11,7
+2024;1;Málaga;Asia;China;1669,0;11015,0;6,6
+2024;1;Málaga;Asia;Corea;692,0;3944,0;5,7
+2024;1;Málaga;Asia;Emiratos Árabes Unidos;636,0;5088,0;8,0
+2024;1;Málaga;Asia;Filipinas;353,0;1341,0;3,8
+2024;1;Málaga;Asia;India;550,0;3300,0;6,0
+2024;1;Málaga;Asia;Indonesia;86,0;636,0;7,4
+2024;1;Málaga;Asia;Irán;195,0;1404,0;7,2
+2024;1;Málaga;Asia;Israel;199,0;1851,0;9,3
+2024;1;Málaga;Asia;Japón;279,0;2232,0;8,0
+2024;1;Málaga;Asia;Jordania;39,0;265,0;6,8
+2024;1;Málaga;Asia;Kazajstán;170,0;1513,0;8,9
+2024;1;Málaga;Asia;Kuwait;207,0;1904,0;9,2
+2024;1;Málaga;Asia;Líbano;67,0;489,0;7,3
+2024;1;Málaga;Asia;Malasia;34,0;245,0;7,2
+2024;1;Málaga;Asia;Omán;42,0;307,0;7,3
+2024;1;Málaga;Asia;Otros países de Asia;48,0;230,0;4,8
+2024;1;Málaga;Asia;Qatar;101,0;909,0;9,0
+2024;1;Málaga;Asia;Singapur;92,0;819,0;8,9
+2024;1;Málaga;Asia;Sri Lanka;30,0;168,0;5,6
+2024;1;Málaga;Asia;Tailandia;379,0;1743,0;4,6
+2024;1;Málaga;Europa;Albania;52,0;338,0;6,5
+2024;1;Málaga;Europa;Alemania;26237,0;249252,0;9,5
+2024;1;Málaga;Europa;Andorra;70,0;602,0;8,6
+2024;1;Málaga;Europa;Austria;9364,0;77721,0;8,3
+2024;1;Málaga;Europa;Belarús;252,0;2041,0;8,1
+2024;1;Málaga;Europa;Bosnia y Herzegovina;173,0;934,0;5,4
+2024;1;Málaga;Europa;Bulgaria;1293,0;8405,0;6,5
+2024;1;Málaga;Europa;Bélgica;16263,0;133357,0;8,2
+2024;1;Málaga;Europa;Chipre;77,0;593,0;7,7
+2024;1;Málaga;Europa;Croacia;883,0;4857,0;5,5
+2024;1;Málaga;Europa;Dinamarca;11759,0;89368,0;7,6
+2024;1;Málaga;Europa;Eslovenia;327,0;2093,0;6,4
+2024;1;Málaga;Europa;Estonia;1897,0;19539,0;10,3
+2024;1;Málaga;Europa;Finlandia;11776,0;118938,0;10,1
+2024;1;Málaga;Europa;Francia;25947,0;210171,0;8,1
+2024;1;Málaga;Europa;Georgia;134,0;1032,0;7,7
+2024;1;Málaga;Europa;Grecia;296,0;2042,0;6,9
+2024;1;Málaga;Europa;Hungría;3243,0;21404,0;6,6
+2024;1;Málaga;Europa;Irlanda;18770,0;142652,0;7,6
+2024;1;Málaga;Europa;Islandia;83,0;838,0;10,1
+2024;1;Málaga;Europa;Italia;11575,0;72923,0;6,3
+2024;1;Málaga;Europa;Letonia;1756,0;17560,0;10,0
+2024;1;Málaga;Europa;Liechtenstein;392,0;3489,0;8,9
+2024;1;Málaga;Europa;Lituania;2425,0;15278,0;6,3
+2024;1;Málaga;Europa;Luxemburgo;2132,0;19614,0;9,2
+2024;1;Málaga;Europa;Macedonia del Norte;39,0;254,0;6,5
+2024;1;Málaga;Europa;Malta;236,0;1912,0;8,1
+2024;1;Málaga;Europa;Noruega;7615,0;61682,0;8,1
+2024;1;Málaga;Europa;Países Bajos;36596,0;256172,0;7,0
+2024;1;Málaga;Europa;Polonia;16326,0;101221,0;6,2
+2024;1;Málaga;Europa;Portugal;3703,0;23329,0;6,3
+2024;1;Málaga;Europa;Reino Unido;62510,0;489723,0;6,7
+2024;1;Málaga;Europa;República Checa;2801,0;21008,0;7,5
+2024;1;Málaga;Europa;República Eslovaca;974,0;6721,0;6,9
+2024;1;Málaga;Europa;Rumanía;2655,0;22037,0;8,3
+2024;1;Málaga;Europa;Rusia;1859,0;18218,0;9,8
+2024;1;Málaga;Europa;Serbia;334,0;2071,0;6,2
+2024;1;Málaga;Europa;Suecia;22518,0;198158,0;8,8
+2024;1;Málaga;Europa;Suiza;6757,0;54732,0;8,1
+2024;1;Málaga;Europa;Turquía;412,0;2101,0;5,1
+2024;1;Málaga;Oceanía;Australia;535,0;4066,0;7,6
+2024;1;Málaga;Oceanía;Nueva Zelanda;60,0;558,0;9,3
+2024;1;Málaga;Total;Total;348577,0;2704316,0;7,8
+2024;1;Málaga;Total;Total América;16445,0;127073,0;7,7
+2024;1;Málaga;Total;Total América del Norte;11604,0;85392,0;7,4
+2024;1;Málaga;Total;Total Asia;6382,0;43181,0;6,8
+2024;1;Málaga;Total;Total Centroamérica y Caribe;323,0;2684,0;8,3
+2024;1;Málaga;Total;Total Europa;312580,0;2474840,0;7,9
+2024;1;Málaga;Total;Total Oceanía;598,0;4636,0;7,8
+2024;1;Málaga;Total;Total Sudamérica;4518,0;38997,0;8,6
+2024;1;Málaga;Total;Total África;12572,0;54586,0;4,3
+2024;1;Málaga;África;Argelia;202,0;1151,0;5,7
+2024;1;Málaga;África;Egipto;131,0;747,0;5,7
+2024;1;Málaga;África;Ghana;59,0;507,0;8,6
+2024;1;Málaga;África;Kenia;48,0;408,0;8,5
+2024;1;Málaga;África;Mali;49,0;519,0;10,6
+2024;1;Málaga;África;Marruecos;11373,0;45492,0;4,0
+2024;1;Málaga;África;Mauritania;41,0;324,0;7,9
+2024;1;Málaga;África;Nigeria;120,0;888,0;7,4
+2024;1;Málaga;África;Senegal;171,0;1334,0;7,8
+2024;1;Málaga;África;Sudáfrica;120,0;1032,0;8,6
+2024;1;Málaga;África;Túnez;34,0;265,0;7,8
+2024;2;Málaga;América;Argentina;1265,0;10626,0;8,4
+2024;2;Málaga;América;Bolivia;31,0;307,0;9,9
+2024;2;Málaga;América;Brasil;385,0;2811,0;7,3
+2024;2;Málaga;América;Canadá;4623,0;32361,0;7,0
+2024;2;Málaga;América;Chile;293,0;1905,0;6,5
+2024;2;Málaga;América;Colombia;1107,0;7970,0;7,2
+2024;2;Málaga;América;Ecuador;106,0;668,0;6,3
+2024;2;Málaga;América;Estados Unidos de América;6161,0;46208,0;7,5
+2024;2;Málaga;América;Guatemala;33,0;201,0;6,1
+2024;2;Málaga;América;Honduras;50,0;400,0;8,0
+2024;2;Málaga;América;México;541,0;4058,0;7,5
+2024;2;Málaga;América;Nicaragua;51,0;602,0;11,8
+2024;2;Málaga;América;Panamá;51,0;515,0;10,1
+2024;2;Málaga;América;Paraguay;338,0;2501,0;7,4
+2024;2;Málaga;América;Perú;121,0;1065,0;8,8
+2024;2;Málaga;América;Uruguay;136,0;1156,0;8,5
+2024;2;Málaga;América;Venezuela;237,0;1683,0;7,1
+2024;2;Málaga;Asia;Arabia Saudí;245,0;1789,0;7,3
+2024;2;Málaga;Asia;China;2136,0;13884,0;6,5
+2024;2;Málaga;Asia;Corea;614,0;3930,0;6,4
+2024;2;Málaga;Asia;Emiratos Árabes Unidos;622,0;4416,0;7,1
+2024;2;Málaga;Asia;Filipinas;379,0;1213,0;3,2
+2024;2;Málaga;Asia;India;554,0;2327,0;4,2
+2024;2;Málaga;Asia;Indonesia;119,0;655,0;5,5
+2024;2;Málaga;Asia;Irán;180,0;1080,0;6,0
+2024;2;Málaga;Asia;Israel;197,0;1478,0;7,5
+2024;2;Málaga;Asia;Japón;341,0;1876,0;5,5
+2024;2;Málaga;Asia;Jordania;41,0;308,0;7,5
+2024;2;Málaga;Asia;Kazajstán;102,0;918,0;9,0
+2024;2;Málaga;Asia;Kuwait;214,0;1990,0;9,3
+2024;2;Málaga;Asia;Líbano;90,0;675,0;7,5
+2024;2;Málaga;Asia;Malasia;74,0;370,0;5,0
+2024;2;Málaga;Asia;Myanmar;31,0;99,0;3,2
+2024;2;Málaga;Asia;Otros países de Asia;78,0;351,0;4,5
+2024;2;Málaga;Asia;Qatar;79,0;387,0;4,9
+2024;2;Málaga;Asia;Singapur;119,0;857,0;7,2
+2024;2;Málaga;Asia;Tailandia;398,0;1751,0;4,4
+2024;2;Málaga;Asia;Vietnam;66,0;561,0;8,5
+2024;2;Málaga;Europa;Albania;68,0;381,0;5,6
+2024;2;Málaga;Europa;Alemania;23811,0;204775,0;8,6
+2024;2;Málaga;Europa;Andorra;115,0;840,0;7,3
+2024;2;Málaga;Europa;Armenia;54,0;443,0;8,2
+2024;2;Málaga;Europa;Austria;7152,0;56501,0;7,9
+2024;2;Málaga;Europa;Belarús;241,0;1808,0;7,5
+2024;2;Málaga;Europa;Bosnia y Herzegovina;79,0;379,0;4,8
+2024;2;Málaga;Europa;Bulgaria;1022,0;5928,0;5,8
+2024;2;Málaga;Europa;Bélgica;13120,0;95776,0;7,3
+2024;2;Málaga;Europa;Chipre;66,0;455,0;6,9
+2024;2;Málaga;Europa;Croacia;819,0;4013,0;4,9
+2024;2;Málaga;Europa;Dinamarca;14680,0;115972,0;7,9
+2024;2;Málaga;Europa;Eslovenia;425,0;2253,0;5,3
+2024;2;Málaga;Europa;Estonia;1410,0;13536,0;9,6
+2024;2;Málaga;Europa;Finlandia;11235,0;106733,0;9,5
+2024;2;Málaga;Europa;Francia;21473,0;173931,0;8,1
+2024;2;Málaga;Europa;Georgia;106,0;869,0;8,2
+2024;2;Málaga;Europa;Grecia;367,0;2165,0;5,9
+2024;2;Málaga;Europa;Hungría;2475,0;14355,0;5,8
+2024;2;Málaga;Europa;Irlanda;22261,0;153601,0;6,9
+2024;2;Málaga;Europa;Islandia;146,0;1387,0;9,5
+2024;2;Málaga;Europa;Italia;8403,0;51258,0;6,1
+2024;2;Málaga;Europa;Letonia;1616,0;15675,0;9,7
+2024;2;Málaga;Europa;Liechtenstein;440,0;3784,0;8,6
+2024;2;Málaga;Europa;Lituania;2220,0;14208,0;6,4
+2024;2;Málaga;Europa;Luxemburgo;2202,0;20258,0;9,2
+2024;2;Málaga;Europa;Macedonia del Norte;33,0;175,0;5,3
+2024;2;Málaga;Europa;Malta;205,0;1845,0;9,0
+2024;2;Málaga;Europa;Moldavia;55,0;275,0;5,0
+2024;2;Málaga;Europa;Montenegro;34,0;201,0;5,9
+2024;2;Málaga;Europa;Noruega;9498,0;85482,0;9,0
+2024;2;Málaga;Europa;Países Bajos;28411,0;204559,0;7,2
+2024;2;Málaga;Europa;Polonia;17880,0;107280,0;6,0
+2024;2;Málaga;Europa;Portugal;3117,0;17767,0;5,7
+2024;2;Málaga;Europa;Reino Unido;97460,0;678880,0;6,05
+2024;2;Málaga;Europa;República Checa;4342,0;26920,0;6,2
+2024;2;Málaga;Europa;República Eslovaca;819,0;5242,0;6,4
+2024;2;Málaga;Europa;Rumanía;2032,0;13818,0;6,8
+2024;2;Málaga;Europa;Rusia;1720,0;15480,0;9,0
+2024;2;Málaga;Europa;Serbia;393,0;1769,0;4,5
+2024;2;Málaga;Europa;Suecia;19564,0;148686,0;7,6
+2024;2;Málaga;Europa;Suiza;8453,0;52409,0;6,2
+2024;2;Málaga;Europa;Turquía;472,0;2454,0;5,2
+2024;2;Málaga;Oceanía;Australia;402,0;3296,0;8,2
+2024;2;Málaga;Total;Total;361523,0;2633549,0;7,3
+2024;2;Málaga;Total;Total América;15631,0;115803,0;7,4
+2024;2;Málaga;Total;Total América del Norte;11325,0;82627,0;7,3
+2024;2;Málaga;Total;Total Asia;6844,0;41974,0;6,1
+2024;2;Málaga;Total;Total Centroamérica y Caribe;283,0;2462,0;8,7
+2024;2;Málaga;Total;Total Europa;330498,0;2424545,0;7,3
+2024;2;Málaga;Total;Total Oceanía;430,0;3477,0;8,1
+2024;2;Málaga;Total;Total Sudamérica;4023,0;30714,0;7,6
+2024;2;Málaga;Total;Total África;8120,0;47750,0;5,9
+2024;2;Málaga;África;Argelia;194,0;1145,0;5,9
+2024;2;Málaga;África;Egipto;151,0;936,0;6,2
+2024;2;Málaga;África;Ghana;60,0;498,0;8,3
+2024;2;Málaga;África;Kenia;43,0;198,0;4,6
+2024;2;Málaga;África;Mali;69,0;656,0;9,5
+2024;2;Málaga;África;Marruecos;7023,0;39329,0;5,6
+2024;2;Málaga;África;Mauritania;50,0;580,0;11,6
+2024;2;Málaga;África;Nigeria;98,0;813,0;8,3
+2024;2;Málaga;África;Senegal;179,0;1557,0;8,7
+2024;2;Málaga;África;Sudáfrica;71,0;575,0;8,1
+2024;2;Málaga;África;Túnez;56,0;381,0;6,8
+2024;3;Málaga;América;Argentina;1713,0;14389,0;8,4
+2024;3;Málaga;América;Bolivia;37,0;133,0;3,6
+2024;3;Málaga;América;Brasil;564,0;4230,0;7,5
+2024;3;Málaga;América;Canadá;10005,0;87044,0;8,7
+2024;3;Málaga;América;Chile;229,0;1603,0;7,0
+2024;3;Málaga;América;Colombia;1370,0;11234,0;8,2
+2024;3;Málaga;América;Costa Rica;47,0;428,0;9,1
+2024;3;Málaga;América;Cuba;39,0;187,0;4,8
+2024;3;Málaga;América;Ecuador;136,0;830,0;6,1
+2024;3;Málaga;América;Estados Unidos de América;9174,0;66053,0;7,2
+2024;3;Málaga;América;Guatemala;43,0;275,0;6,4
+2024;3;Málaga;América;Honduras;66,0;429,0;6,5
+2024;3;Málaga;América;México;711,0;4550,0;6,4
+2024;3;Málaga;América;Nicaragua;32,0;237,0;7,4
+2024;3;Málaga;América;Panamá;65,0;637,0;9,8
+2024;3;Málaga;América;Paraguay;404,0;2868,0;7,1
+2024;3;Málaga;América;Perú;108,0;950,0;8,8
+2024;3;Málaga;América;República Dominicana;42,0;277,0;6,6
+2024;3;Málaga;América;Uruguay;145,0;1160,0;8,0
+2024;3;Málaga;América;Venezuela;236,0;1652,0;7,0
+2024;3;Málaga;Asia;Arabia Saudí;277,0;2216,0;8,0
+2024;3;Málaga;Asia;Azerbaiyán;40,0;204,0;5,1
+2024;3;Málaga;Asia;Bahréin;34,0;248,0;7,3
+2024;3;Málaga;Asia;China;1998,0;12587,0;6,3
+2024;3;Málaga;Asia;Corea;714,0;4070,0;5,7
+2024;3;Málaga;Asia;Emiratos Árabes Unidos;623,0;3987,0;6,4
+2024;3;Málaga;Asia;Filipinas;846,0;3215,0;3,8
+2024;3;Málaga;Asia;India;653,0;2939,0;4,5
+2024;3;Málaga;Asia;Indonesia;94,0;536,0;5,7
+2024;3;Málaga;Asia;Irán;278,0;1696,0;6,1
+2024;3;Málaga;Asia;Israel;229,0;1763,0;7,7
+2024;3;Málaga;Asia;Japón;350,0;2835,0;8,1
+2024;3;Málaga;Asia;Jordania;53,0;424,0;8,0
+2024;3;Málaga;Asia;Kazajstán;147,0;1088,0;7,4
+2024;3;Málaga;Asia;Kuwait;147,0;1441,0;9,8
+2024;3;Málaga;Asia;Líbano;68,0;524,0;7,7
+2024;3;Málaga;Asia;Malasia;66,0;436,0;6,6
+2024;3;Málaga;Asia;Otros países de Asia;106,0;583,0;5,5
+2024;3;Málaga;Asia;Pakistán;52,0;411,0;7,9
+2024;3;Málaga;Asia;Qatar;68,0;496,0;7,3
+2024;3;Málaga;Asia;Singapur;172,0;877,0;5,1
+2024;3;Málaga;Asia;Sri Lanka;60,0;240,0;4,0
+2024;3;Málaga;Asia;Tailandia;337,0;1584,0;4,7
+2024;3;Málaga;Asia;Vietnam;66,0;337,0;5,1
+2024;3;Málaga;Europa;Albania;78,0;390,0;5,0
+2024;3;Málaga;Europa;Alemania;35830,0;326053,0;9,1
+2024;3;Málaga;Europa;Andorra;93,0;567,0;6,1
+2024;3;Málaga;Europa;Armenia;54,0;410,0;7,6
+2024;3;Málaga;Europa;Austria;9012,0;71195,0;7,9
+2024;3;Málaga;Europa;Belarús;299,0;2302,0;7,7
+2024;3;Málaga;Europa;Bosnia y Herzegovina;98,0;617,0;6,3
+2024;3;Málaga;Europa;Bulgaria;1172,0;6915,0;5,9
+2024;3;Málaga;Europa;Bélgica;15398,0;115485,0;7,5
+2024;3;Málaga;Europa;Chipre;133,0;825,0;6,2
+2024;3;Málaga;Europa;Croacia;753,0;4066,0;5,4
+2024;3;Málaga;Europa;Dinamarca;17544,0;147370,0;8,4
+2024;3;Málaga;Europa;Eslovenia;528,0;2851,0;5,4
+2024;3;Málaga;Europa;Estonia;2354,0;20009,0;8,5
+2024;3;Málaga;Europa;Finlandia;14527,0;140912,0;9,7
+2024;3;Málaga;Europa;Francia;28602,0;228816,0;8,0
+2024;3;Málaga;Europa;Georgia;126,0;1008,0;8,0
+2024;3;Málaga;Europa;Grecia;435,0;2610,0;6,0
+2024;3;Málaga;Europa;Hungría;2963,0;19260,0;6,5
+2024;3;Málaga;Europa;Irlanda;30395,0;215805,0;7,1
+2024;3;Málaga;Europa;Islandia;165,0;1634,0;9,9
+2024;3;Málaga;Europa;Italia;12022,0;69728,0;5,8
+2024;3;Málaga;Europa;Letonia;2486,0;21380,0;8,6
+2024;3;Málaga;Europa;Liechtenstein;578,0;5029,0;8,7
+2024;3;Málaga;Europa;Lituania;2321,0;16943,0;7,3
+2024;3;Málaga;Europa;Luxemburgo;2324,0;22310,0;9,6
+2024;3;Málaga;Europa;Macedonia del Norte;45,0;243,0;5,4
+2024;3;Málaga;Europa;Malta;381,0;2858,0;7,5
+2024;3;Málaga;Europa;Moldavia;54,0;270,0;5,0
+2024;3;Málaga;Europa;Montenegro;35,0;228,0;6,5
+2024;3;Málaga;Europa;Noruega;12553,0;110466,0;8,8
+2024;3;Málaga;Europa;Países Bajos;36861,0;265399,0;7,2
+2024;3;Málaga;Europa;Polonia;19581,0;121402,0;6,2
+2024;3;Málaga;Europa;Portugal;3608,0;22370,0;6,2
+2024;3;Málaga;Europa;Reino Unido;116744,0;837306,0;6,15
+2024;3;Málaga;Europa;República Checa;5613,0;34801,0;6,2
+2024;3;Málaga;Europa;República Eslovaca;1280,0;8448,0;6,6
+2024;3;Málaga;Europa;Rumanía;2279,0;16637,0;7,3
+2024;3;Málaga;Europa;Rusia;1869,0;17382,0;9,3
+2024;3;Málaga;Europa;Serbia;432,0;2678,0;6,2
+2024;3;Málaga;Europa;Suecia;26868,0;228378,0;8,5
+2024;3;Málaga;Europa;Suiza;11369,0;68214,0;6,0
+2024;3;Málaga;Europa;Turquía;717,0;3298,0;4,6
+2024;3;Málaga;Oceanía;Australia;506,0;4099,0;8,1
+2024;3;Málaga;Oceanía;Nueva Zelanda;41,0;320,0;7,8
+2024;3;Málaga;Total;Total;464589,0;3491203,0;7,5
+2024;3;Málaga;Total;Total América;25206,0;199400,0;7,9
+2024;3;Málaga;Total;Total América del Norte;19890,0;157647,0;7,9
+2024;3;Málaga;Total;Total Asia;7593,0;45457,0;6,0
+2024;3;Málaga;Total;Total Centroamérica y Caribe;370,0;2684,0;7,3
+2024;3;Málaga;Total;Total Europa;420583,0;3184890,0;7,6
+2024;3;Málaga;Total;Total Oceanía;550,0;4456,0;8,1
+2024;3;Málaga;Total;Total Sudamérica;4946,0;39069,0;7,9
+2024;3;Málaga;Total;Total África;10657,0;57000,0;5,3
+2024;3;Málaga;África;Argelia;156,0;952,0;6,1
+2024;3;Málaga;África;Egipto;169,0;1132,0;6,7
+2024;3;Málaga;África;Ghana;71,0;589,0;8,3
+2024;3;Málaga;África;Kenia;52,0;281,0;5,4
+2024;3;Málaga;África;Mali;112,0;739,0;6,6
+2024;3;Málaga;África;Marruecos;9274,0;47297,0;5,1
+2024;3;Málaga;África;Mauritania;57,0;581,0;10,2
+2024;3;Málaga;África;Nigeria;203,0;1401,0;6,9
+2024;3;Málaga;África;Senegal;263,0;1815,0;6,9
+2024;3;Málaga;África;Sudáfrica;95,0;732,0;7,7
+2024;3;Málaga;África;Túnez;51,0;362,0;7,1
+2024;4;Málaga;América;Argentina;2019,0;15546,0;7,7
+2024;4;Málaga;América;Bolivia;50,0;290,0;5,8
+2024;4;Málaga;América;Brasil;1532,0;8426,0;5,5
+2024;4;Málaga;América;Canadá;6278,0;52735,0;8,4
+2024;4;Málaga;América;Chile;251,0;1431,0;5,7
+2024;4;Málaga;América;Colombia;1487,0;11747,0;7,9
+2024;4;Málaga;América;Costa Rica;51,0;418,0;8,2
+2024;4;Málaga;América;Cuba;34,0;177,0;5,2
+2024;4;Málaga;América;Ecuador;140,0;1008,0;7,2
+2024;4;Málaga;América;Estados Unidos de América;12121,0;70302,0;5,8
+2024;4;Málaga;América;Guatemala;64,0;435,0;6,8
+2024;4;Málaga;América;Honduras;69,0;552,0;8,0
+2024;4;Málaga;América;México;764,0;4813,0;6,3
+2024;4;Málaga;América;Nicaragua;62,0;353,0;5,7
+2024;4;Málaga;América;Panamá;68,0;442,0;6,5
+2024;4;Málaga;América;Paraguay;449,0;3278,0;7,3
+2024;4;Málaga;América;Perú;98,0;755,0;7,7
+2024;4;Málaga;América;República Dominicana;57,0;388,0;6,8
+2024;4;Málaga;América;Uruguay;185,0;1739,0;9,4
+2024;4;Málaga;América;Venezuela;237,0;1849,0;7,8
+2024;4;Málaga;Asia;Arabia Saudí;468,0;2668,0;5,7
+2024;4;Málaga;Asia;Azerbaiyán;36,0;245,0;6,8
+2024;4;Málaga;Asia;Bahréin;76,0;426,0;5,6
+2024;4;Málaga;Asia;China;2421,0;13558,0;5,6
+2024;4;Málaga;Asia;Corea;1050,0;6090,0;5,8
+2024;4;Málaga;Asia;Emiratos Árabes Unidos;1046,0;7217,0;6,9
+2024;4;Málaga;Asia;Filipinas;1691,0;6595,0;3,9
+2024;4;Málaga;Asia;India;870,0;4611,0;5,3
+2024;4;Málaga;Asia;Indonesia;143,0;586,0;4,1
+2024;4;Málaga;Asia;Iraq;38,0;167,0;4,4
+2024;4;Málaga;Asia;Irán;433,0;3854,0;8,9
+2024;4;Málaga;Asia;Israel;405,0;2754,0;6,8
+2024;4;Málaga;Asia;Japón;312,0;2184,0;7,0
+2024;4;Málaga;Asia;Jordania;70,0;539,0;7,7
+2024;4;Málaga;Asia;Kazajstán;130,0;1105,0;8,5
+2024;4;Málaga;Asia;Kuwait;98,0;784,0;8,0
+2024;4;Málaga;Asia;Líbano;83,0;647,0;7,8
+2024;4;Málaga;Asia;Malasia;92,0;616,0;6,7
+2024;4;Málaga;Asia;Otros países de Asia;92,0;543,0;5,9
+2024;4;Málaga;Asia;Pakistán;36,0;292,0;8,1
+2024;4;Málaga;Asia;Qatar;268,0;1179,0;4,4
+2024;4;Málaga;Asia;Singapur;198,0;1287,0;6,5
+2024;4;Málaga;Asia;Sri Lanka;44,0;224,0;5,1
+2024;4;Málaga;Asia;Tailandia;546,0;2184,0;4,0
+2024;4;Málaga;Asia;Vietnam;102,0;592,0;5,8
+2024;4;Málaga;Europa;Albania;92,0;580,0;6,3
+2024;4;Málaga;Europa;Alemania;46015,0;395729,0;8,6
+2024;4;Málaga;Europa;Andorra;148,0;1125,0;7,6
+2024;4;Málaga;Europa;Armenia;70,0;532,0;7,6
+2024;4;Málaga;Europa;Austria;9273,0;76039,0;8,2
+2024;4;Málaga;Europa;Belarús;270,0;2214,0;8,2
+2024;4;Málaga;Europa;Bosnia y Herzegovina;178,0;890,0;5,0
+2024;4;Málaga;Europa;Bulgaria;1878,0;11456,0;6,1
+2024;4;Málaga;Europa;Bélgica;25104,0;173218,0;6,9
+2024;4;Málaga;Europa;Chipre;177,0;1257,0;7,1
+2024;4;Málaga;Europa;Croacia;1030,0;5562,0;5,4
+2024;4;Málaga;Europa;Dinamarca;21590,0;170561,0;7,9
+2024;4;Málaga;Europa;Eslovenia;380,0;2394,0;6,3
+2024;4;Málaga;Europa;Estonia;2877,0;24742,0;8,6
+2024;4;Málaga;Europa;Finlandia;20451,0;212690,0;10,4
+2024;4;Málaga;Europa;Francia;38841,0;275771,0;7,1
+2024;4;Málaga;Europa;Georgia;146,0;701,0;4,8
+2024;4;Málaga;Europa;Grecia;536,0;3162,0;5,9
+2024;4;Málaga;Europa;Hungría;3260,0;20864,0;6,4
+2024;4;Málaga;Europa;Irlanda;47048,0;319926,0;6,8
+2024;4;Málaga;Europa;Islandia;450,0;3915,0;8,7
+2024;4;Málaga;Europa;Italia;16261,0;86183,0;5,3
+2024;4;Málaga;Europa;Letonia;1855,0;19292,0;10,4
+2024;4;Málaga;Europa;Liechtenstein;674,0;6605,0;9,8
+2024;4;Málaga;Europa;Lituania;2515,0;17605,0;7,0
+2024;4;Málaga;Europa;Luxemburgo;2952,0;26273,0;8,9
+2024;4;Málaga;Europa;Macedonia del Norte;52,0;322,0;6,2
+2024;4;Málaga;Europa;Malta;389,0;3151,0;8,1
+2024;4;Málaga;Europa;Moldavia;59,0;401,0;6,8
+2024;4;Málaga;Europa;Montenegro;60,0;486,0;8,1
+2024;4;Málaga;Europa;Noruega;16979,0;147717,0;8,7
+2024;4;Málaga;Europa;Países Bajos;41591,0;262023,0;6,3
+2024;4;Málaga;Europa;Polonia;19602,0;129373,0;6,6
+2024;4;Málaga;Europa;Portugal;6994,0;34970,0;5,0
+2024;4;Málaga;Europa;Reino Unido;173947,0;1143628,0;5,85
+2024;4;Málaga;Europa;República Checa;5773,0;38102,0;6,6
+2024;4;Málaga;Europa;República Eslovaca;1333,0;8398,0;6,3
+2024;4;Málaga;Europa;Rumanía;2794,0;20955,0;7,5
+2024;4;Málaga;Europa;Rusia;2007,0;18464,0;9,2
+2024;4;Málaga;Europa;Serbia;544,0;2666,0;4,9
+2024;4;Málaga;Europa;Suecia;31927,0;249031,0;7,8
+2024;4;Málaga;Europa;Suiza;14270,0;92755,0;6,5
+2024;4;Málaga;Europa;Turquía;887,0;4790,0;5,4
+2024;4;Málaga;Oceanía;Australia;973,0;6714,0;6,9
+2024;4;Málaga;Oceanía;Nueva Zelanda;89,0;579,0;6,5
+2024;4;Málaga;Total;Total;615920,0;4323918,0;7,0
+2024;4;Málaga;Total;Total América;26088,0;177143,0;6,8
+2024;4;Málaga;Total;Total América del Norte;19163,0;127850,0;6,7
+2024;4;Málaga;Total;Total Asia;10849,0;61628,0;5,7
+2024;4;Málaga;Total;Total Centroamérica y Caribe;474,0;3201,0;6,8
+2024;4;Málaga;Total;Total Europa;563283,0;4016542,0;7,1
+2024;4;Málaga;Total;Total Oceanía;1066,0;7318,0;6,9
+2024;4;Málaga;Total;Total Sudamérica;6451,0;46092,0;7,1
+2024;4;Málaga;Total;Total África;14634,0;61287,0;4,2
+2024;4;Málaga;África;Argelia;214,0;1113,0;5,2
+2024;4;Málaga;África;Egipto;184,0;810,0;4,4
+2024;4;Málaga;África;Ghana;93,0;577,0;6,2
+2024;4;Málaga;África;Kenia;53,0;254,0;4,8
+2024;4;Málaga;África;Mali;110,0;583,0;5,3
+2024;4;Málaga;África;Marruecos;13013,0;50751,0;3,9
+2024;4;Málaga;África;Mauritania;45,0;365,0;8,1
+2024;4;Málaga;África;Nigeria;306,0;2448,0;8,0
+2024;4;Málaga;África;Senegal;244,0;1952,0;8,0
+2024;4;Málaga;África;Sudáfrica;136,0;898,0;6,6
+2024;4;Málaga;África;Túnez;74,0;459,0;6,2
+2024;5;Málaga;América;Argentina;2761,0;26230,0;9,5
+2024;5;Málaga;América;Bolivia;52,0;250,0;4,8
+2024;5;Málaga;América;Brasil;1039,0;7481,0;7,2
+2024;5;Málaga;América;Canadá;6208,0;46560,0;7,5
+2024;5;Málaga;América;Chile;352,0;2429,0;6,9
+2024;5;Málaga;América;Colombia;1556,0;11359,0;7,3
+2024;5;Málaga;América;Costa Rica;67,0;355,0;5,3
+2024;5;Málaga;América;Cuba;47,0;296,0;6,3
+2024;5;Málaga;América;Ecuador;144,0;936,0;6,5
+2024;5;Málaga;América;El Salvador;49,0;309,0;6,3
+2024;5;Málaga;América;Estados Unidos de América;24527,0;149615,0;6,1
+2024;5;Málaga;América;Guatemala;73,0;496,0;6,8
+2024;5;Málaga;América;Honduras;55,0;484,0;8,8
+2024;5;Málaga;América;Jamaica;60,0;192,0;3,2
+2024;5;Málaga;América;México;873,0;6024,0;6,9
+2024;5;Málaga;América;Nicaragua;37,0;326,0;8,8
+2024;5;Málaga;América;Panamá;68,0;571,0;8,4
+2024;5;Málaga;América;Paraguay;377,0;2978,0;7,9
+2024;5;Málaga;América;Perú;120,0;756,0;6,3
+2024;5;Málaga;América;República Dominicana;49,0;230,0;4,7
+2024;5;Málaga;América;Uruguay;256,0;2304,0;9,0
+2024;5;Málaga;América;Venezuela;254,0;1803,0;7,1
+2024;5;Málaga;Asia;Arabia Saudí;523,0;3190,0;6,1
+2024;5;Málaga;Asia;Azerbaiyán;60,0;300,0;5,0
+2024;5;Málaga;Asia;Bahréin;62,0;353,0;5,7
+2024;5;Málaga;Asia;China;2542,0;15252,0;6,0
+2024;5;Málaga;Asia;Corea;945,0;5387,0;5,7
+2024;5;Málaga;Asia;Emiratos Árabes Unidos;1138,0;6487,0;5,7
+2024;5;Málaga;Asia;Filipinas;1567,0;6738,0;4,3
+2024;5;Málaga;Asia;India;1293,0;6336,0;4,9
+2024;5;Málaga;Asia;Indonesia;199,0;716,0;3,6
+2024;5;Málaga;Asia;Irán;282,0;2200,0;7,8
+2024;5;Málaga;Asia;Israel;530,0;3127,0;5,9
+2024;5;Málaga;Asia;Japón;418,0;2884,0;6,9
+2024;5;Málaga;Asia;Jordania;73,0;358,0;4,9
+2024;5;Málaga;Asia;Kazajstán;123,0;873,0;7,1
+2024;5;Málaga;Asia;Kuwait;209,0;1379,0;6,6
+2024;5;Málaga;Asia;Líbano;105,0;588,0;5,6
+2024;5;Málaga;Asia;Malasia;102,0;479,0;4,7
+2024;5;Málaga;Asia;Omán;65,0;397,0;6,1
+2024;5;Málaga;Asia;Otros países de Asia;115,0;633,0;5,5
+2024;5;Málaga;Asia;Pakistán;79,0;506,0;6,4
+2024;5;Málaga;Asia;Qatar;251,0;1130,0;4,5
+2024;5;Málaga;Asia;Singapur;219,0;1314,0;6,0
+2024;5;Málaga;Asia;Sri Lanka;34,0;201,0;5,9
+2024;5;Málaga;Asia;Tailandia;405,0;1944,0;4,8
+2024;5;Málaga;Asia;Uzbekistán;32,0;173,0;5,4
+2024;5;Málaga;Asia;Vietnam;77,0;362,0;4,7
+2024;5;Málaga;Europa;Albania;97,0;611,0;6,3
+2024;5;Málaga;Europa;Alemania;43551,0;330988,0;7,6
+2024;5;Málaga;Europa;Andorra;143,0;1158,0;8,1
+2024;5;Málaga;Europa;Armenia;92,0;497,0;5,4
+2024;5;Málaga;Europa;Austria;9750,0;81900,0;8,4
+2024;5;Málaga;Europa;Belarús;304,0;2280,0;7,5
+2024;5;Málaga;Europa;Bosnia y Herzegovina;302,0;1419,0;4,7
+2024;5;Málaga;Europa;Bulgaria;1654,0;8435,0;5,1
+2024;5;Málaga;Europa;Bélgica;24196,0;164533,0;6,8
+2024;5;Málaga;Europa;Chipre;139,0;778,0;5,6
+2024;5;Málaga;Europa;Croacia;887,0;4258,0;4,8
+2024;5;Málaga;Europa;Dinamarca;19441,0;134143,0;6,9
+2024;5;Málaga;Europa;Eslovenia;849,0;4670,0;5,5
+2024;5;Málaga;Europa;Estonia;2739,0;20543,0;7,5
+2024;5;Málaga;Europa;Finlandia;13553,0;107069,0;7,9
+2024;5;Málaga;Europa;Francia;44404,0;293066,0;6,6
+2024;5;Málaga;Europa;Georgia;142,0;909,0;6,4
+2024;5;Málaga;Europa;Grecia;896,0;4838,0;5,4
+2024;5;Málaga;Europa;Hungría;2674,0;16044,0;6,0
+2024;5;Málaga;Europa;Irlanda;60174,0;385114,0;6,4
+2024;5;Málaga;Europa;Islandia;347,0;2811,0;8,1
+2024;5;Málaga;Europa;Italia;18314,0;89739,0;4,9
+2024;5;Málaga;Europa;Letonia;2159,0;20295,0;9,4
+2024;5;Málaga;Europa;Liechtenstein;686,0;7340,0;10,7
+2024;5;Málaga;Europa;Lituania;2398,0;14868,0;6,2
+2024;5;Málaga;Europa;Luxemburgo;2684,0;25498,0;9,5
+2024;5;Málaga;Europa;Macedonia del Norte;95,0;532,0;5,6
+2024;5;Málaga;Europa;Malta;294,0;1940,0;6,6
+2024;5;Málaga;Europa;Moldavia;85,0;595,0;7,0
+2024;5;Málaga;Europa;Montenegro;76,0;486,0;6,4
+2024;5;Málaga;Europa;Noruega;15975,0;107033,0;6,7
+2024;5;Málaga;Europa;Países Bajos;51579,0;340421,0;6,6
+2024;5;Málaga;Europa;Polonia;18926,0;126804,0;6,7
+2024;5;Málaga;Europa;Portugal;5597,0;29664,0;5,3
+2024;5;Málaga;Europa;Reino Unido;206335,0;1316983,0;5,55
+2024;5;Málaga;Europa;República Checa;6858,0;41834,0;6,1
+2024;5;Málaga;Europa;República Eslovaca;1493,0;9555,0;6,4
+2024;5;Málaga;Europa;Rumanía;3829,0;21060,0;5,5
+2024;5;Málaga;Europa;Rusia;2311,0;21955,0;9,5
+2024;5;Málaga;Europa;Serbia;665,0;4123,0;6,2
+2024;5;Málaga;Europa;Suecia;31109,0;211541,0;6,8
+2024;5;Málaga;Europa;Suiza;13539,0;85296,0;6,3
+2024;5;Málaga;Europa;Turquía;677,0;3385,0;5,0
+2024;5;Málaga;Oceanía;Australia;1122,0;7854,0;7,0
+2024;5;Málaga;Oceanía;Nueva Zelanda;163,0;1043,0;6,4
+2024;5;Málaga;Total;Total;681449,0;4459759,0;6,5
+2024;5;Málaga;Total;Total América;39037,0;262063,0;6,7
+2024;5;Málaga;Total;Total América del Norte;31608,0;202199,0;6,4
+2024;5;Málaga;Total;Total Asia;11550,0;63692,0;5,5
+2024;5;Málaga;Total;Total Centroamérica y Caribe;514,0;3320,0;6,5
+2024;5;Málaga;Total;Total Europa;612022,0;4047043,0;6,6
+2024;5;Málaga;Total;Total Oceanía;1288,0;8936,0;6,9
+2024;5;Málaga;Total;Total Sudamérica;6915,0;56544,0;8,2
+2024;5;Málaga;Total;Total África;17552,0;78025,0;4,4
+2024;5;Málaga;África;Argelia;257,0;1542,0;6,0
+2024;5;Málaga;África;Egipto;189,0;983,0;5,2
+2024;5;Málaga;África;Ghana;95,0;513,0;5,4
+2024;5;Málaga;África;Kenia;74,0;392,0;5,3
+2024;5;Málaga;África;Mali;86,0;636,0;7,4
+2024;5;Málaga;África;Marruecos;15692,0;64337,0;4,1
+2024;5;Málaga;África;Mauricio;42,0;235,0;5,6
+2024;5;Málaga;África;Mauritania;48,0;341,0;7,1
+2024;5;Málaga;África;Nigeria;302,0;2597,0;8,6
+2024;5;Málaga;África;Senegal;273,0;3167,0;11,6
+2024;5;Málaga;África;Sudáfrica;191,0;1222,0;6,4
+2024;5;Málaga;África;Túnez;136,0;802,0;5,9
+2024;6;Málaga;América;Argentina;2964,0;26676,0;9,0
+2024;6;Málaga;América;Bolivia;43,0;301,0;7,0
+2024;6;Málaga;América;Brasil;1085,0;8355,0;7,7
+2024;6;Málaga;América;Canadá;5576,0;40147,0;7,2
+2024;6;Málaga;América;Chile;478,0;3728,0;7,8
+2024;6;Málaga;América;Colombia;1538,0;11689,0;7,6
+2024;6;Málaga;América;Costa Rica;65,0;442,0;6,8
+2024;6;Málaga;América;Cuba;44,0;150,0;3,4
+2024;6;Málaga;América;Ecuador;132,0;1003,0;7,6
+2024;6;Málaga;América;Estados Unidos de América;23076,0;173070,0;7,5
+2024;6;Málaga;América;Guatemala;78,0;632,0;8,1
+2024;6;Málaga;América;Honduras;67,0;476,0;7,1
+2024;6;Málaga;América;Jamaica;30,0;138,0;4,6
+2024;6;Málaga;América;México;772,0;5018,0;6,5
+2024;6;Málaga;América;Nicaragua;41,0;422,0;10,3
+2024;6;Málaga;América;Panamá;92,0;653,0;7,1
+2024;6;Málaga;América;Paraguay;459,0;3902,0;8,5
+2024;6;Málaga;América;Perú;134,0;1045,0;7,8
+2024;6;Málaga;América;República Dominicana;58,0;505,0;8,7
+2024;6;Málaga;América;Uruguay;277,0;2715,0;9,8
+2024;6;Málaga;América;Venezuela;296,0;1539,0;5,2
+2024;6;Málaga;Asia;Arabia Saudí;2030,0;12586,0;6,2
+2024;6;Málaga;Asia;Azerbaiyán;36,0;194,0;5,4
+2024;6;Málaga;Asia;Bahréin;137,0;699,0;5,1
+2024;6;Málaga;Asia;China;2479,0;16609,0;6,7
+2024;6;Málaga;Asia;Corea;616,0;3573,0;5,8
+2024;6;Málaga;Asia;Emiratos Árabes Unidos;1939,0;12216,0;6,3
+2024;6;Málaga;Asia;Filipinas;1659,0;7963,0;4,8
+2024;6;Málaga;Asia;India;1468,0;8661,0;5,9
+2024;6;Málaga;Asia;Indonesia;111,0;666,0;6,0
+2024;6;Málaga;Asia;Iraq;37,0;196,0;5,3
+2024;6;Málaga;Asia;Irán;371,0;2894,0;7,8
+2024;6;Málaga;Asia;Israel;496,0;3621,0;7,3
+2024;6;Málaga;Asia;Japón;424,0;2756,0;6,5
+2024;6;Málaga;Asia;Jordania;122,0;769,0;6,3
+2024;6;Málaga;Asia;Kazajstán;165,0;1139,0;6,9
+2024;6;Málaga;Asia;Kuwait;1037,0;7778,0;7,5
+2024;6;Málaga;Asia;Líbano;133,0;891,0;6,7
+2024;6;Málaga;Asia;Malasia;107,0;663,0;6,2
+2024;6;Málaga;Asia;Omán;56,0;252,0;4,5
+2024;6;Málaga;Asia;Otros países de Asia;93,0;642,0;6,9
+2024;6;Málaga;Asia;Pakistán;79,0;545,0;6,9
+2024;6;Málaga;Asia;Qatar;493,0;2120,0;4,3
+2024;6;Málaga;Asia;Singapur;303,0;2121,0;7,0
+2024;6;Málaga;Asia;Sri Lanka;40,0;304,0;7,6
+2024;6;Málaga;Asia;Tailandia;446,0;2498,0;5,6
+2024;6;Málaga;Asia;Vietnam;91,0;555,0;6,1
+2024;6;Málaga;Europa;Albania;101,0;576,0;5,7
+2024;6;Málaga;Europa;Alemania;46888,0;356349,0;7,6
+2024;6;Málaga;Europa;Andorra;175,0;1505,0;8,6
+2024;6;Málaga;Europa;Armenia;97,0;601,0;6,2
+2024;6;Málaga;Europa;Austria;9772,0;80130,0;8,2
+2024;6;Málaga;Europa;Belarús;331,0;2714,0;8,2
+2024;6;Málaga;Europa;Bosnia y Herzegovina;113,0;633,0;5,6
+2024;6;Málaga;Europa;Bulgaria;1749,0;11019,0;6,3
+2024;6;Málaga;Europa;Bélgica;23913,0;188913,0;7,9
+2024;6;Málaga;Europa;Chipre;175,0;1260,0;7,2
+2024;6;Málaga;Europa;Croacia;799,0;3915,0;4,9
+2024;6;Málaga;Europa;Dinamarca;18774,0;153947,0;8,2
+2024;6;Málaga;Europa;Eslovenia;386,0;2200,0;5,7
+2024;6;Málaga;Europa;Estonia;2184,0;16162,0;7,4
+2024;6;Málaga;Europa;Finlandia;12410,0;110449,0;8,9
+2024;6;Málaga;Europa;Francia;40422,0;286996,0;7,1
+2024;6;Málaga;Europa;Georgia;145,0;1146,0;7,9
+2024;6;Málaga;Europa;Grecia;870,0;4959,0;5,7
+2024;6;Málaga;Europa;Hungría;3088,0;21616,0;7,0
+2024;6;Málaga;Europa;Irlanda;60493,0;489993,0;8,1
+2024;6;Málaga;Europa;Islandia;502,0;4869,0;9,7
+2024;6;Málaga;Europa;Italia;17802,0;99691,0;5,6
+2024;6;Málaga;Europa;Letonia;2208,0;20976,0;9,5
+2024;6;Málaga;Europa;Liechtenstein;669,0;7760,0;11,6
+2024;6;Málaga;Europa;Lituania;2261,0;14470,0;6,4
+2024;6;Málaga;Europa;Luxemburgo;2654,0;23621,0;8,9
+2024;6;Málaga;Europa;Macedonia del Norte;68,0;456,0;6,7
+2024;6;Málaga;Europa;Malta;385,0;2695,0;7,0
+2024;6;Málaga;Europa;Moldavia;92,0;736,0;8,0
+2024;6;Málaga;Europa;Montenegro;71,0;469,0;6,6
+2024;6;Málaga;Europa;Noruega;15347,0;127380,0;8,3
+2024;6;Málaga;Europa;Países Bajos;48578,0;349762,0;7,2
+2024;6;Málaga;Europa;Polonia;18657,0;119405,0;6,4
+2024;6;Málaga;Europa;Portugal;9146,0;49388,0;5,4
+2024;6;Málaga;Europa;Reino Unido;220636,0;1540936,0;6,25
+2024;6;Málaga;Europa;República Checa;6475,0;45325,0;7,0
+2024;6;Málaga;Europa;República Eslovaca;1844,0;12355,0;6,7
+2024;6;Málaga;Europa;Rumanía;4584,0;31630,0;6,9
+2024;6;Málaga;Europa;Rusia;2451,0;25490,0;10,4
+2024;6;Málaga;Europa;Serbia;537,0;3705,0;6,9
+2024;6;Málaga;Europa;Suecia;31595,0;208527,0;6,6
+2024;6;Málaga;Europa;Suiza;12499,0;81244,0;6,5
+2024;6;Málaga;Europa;Turquía;836,0;4598,0;5,5
+2024;6;Málaga;Oceanía;Australia;1270,0;9652,0;7,6
+2024;6;Málaga;Oceanía;Nueva Zelanda;240,0;1728,0;7,2
+2024;6;Málaga;Total;Total;693456,0;4976553,0;7,2
+2024;6;Málaga;Total;Total América;37333,0;282762,0;7,6
+2024;6;Málaga;Total;Total América del Norte;29424,0;218235,0;7,4
+2024;6;Málaga;Total;Total Asia;15009,0;93148,0;6,2
+2024;6;Málaga;Total;Total Centroamérica y Caribe;499,0;3551,0;7,1
+2024;6;Málaga;Total;Total Europa;622789,0;4510612,0;7,2
+2024;6;Málaga;Total;Total Oceanía;1514,0;11412,0;7,5
+2024;6;Málaga;Total;Total Sudamérica;7410,0;60976,0;8,2
+2024;6;Málaga;Total;Total África;16811,0;78619,0;4,7
+2024;6;Málaga;África;Argelia;249,0;1569,0;6,3
+2024;6;Málaga;África;Egipto;224,0;1098,0;4,9
+2024;6;Málaga;África;Ghana;76,0;456,0;6,0
+2024;6;Málaga;África;Kenia;65,0;520,0;8,0
+2024;6;Málaga;África;Mali;118,0;767,0;6,5
+2024;6;Málaga;África;Marruecos;14935,0;65714,0;4,4
+2024;6;Málaga;África;Mauritania;45,0;351,0;7,8
+2024;6;Málaga;África;Nigeria;257,0;1928,0;7,5
+2024;6;Málaga;África;Senegal;304,0;2189,0;7,2
+2024;6;Málaga;África;Sudáfrica;266,0;2261,0;8,5
+2024;6;Málaga;África;Túnez;109,0;512,0;4,7
+2024;7;Málaga;América;Argentina;3205,0;31409,0;9,8
+2024;7;Málaga;América;Bolivia;34,0;224,0;6,6
+2024;7;Málaga;América;Brasil;1327,0;10218,0;7,7
+2024;7;Málaga;América;Canadá;5696,0;39872,0;7,0
+2024;7;Málaga;América;Chile;467,0;3736,0;8,0
+2024;7;Málaga;América;Colombia;1856,0;14106,0;7,6
+2024;7;Málaga;América;Costa Rica;69,0;600,0;8,7
+2024;7;Málaga;América;Cuba;44,0;194,0;4,4
+2024;7;Málaga;América;Ecuador;146,0;876,0;6,0
+2024;7;Málaga;América;Estados Unidos de América;20125,0;169050,0;8,4
+2024;7;Málaga;América;Guatemala;60,0;594,0;9,9
+2024;7;Málaga;América;Honduras;71,0;547,0;7,7
+2024;7;Málaga;América;México;823,0;6173,0;7,5
+2024;7;Málaga;América;Panamá;94,0;639,0;6,8
+2024;7;Málaga;América;Paraguay;466,0;4753,0;10,2
+2024;7;Málaga;América;Perú;133,0;1024,0;7,7
+2024;7;Málaga;América;República Dominicana;70,0;532,0;7,6
+2024;7;Málaga;América;Uruguay;343,0;3293,0;9,6
+2024;7;Málaga;América;Venezuela;325,0;2145,0;6,6
+2024;7;Málaga;Asia;Arabia Saudí;4433,0;34134,0;7,7
+2024;7;Málaga;Asia;Azerbaiyán;119,0;690,0;5,8
+2024;7;Málaga;Asia;Bahréin;467,0;3222,0;6,9
+2024;7;Málaga;Asia;China;2686,0;17728,0;6,6
+2024;7;Málaga;Asia;Corea;366,0;2306,0;6,3
+2024;7;Málaga;Asia;Emiratos Árabes Unidos;3630,0;24684,0;6,8
+2024;7;Málaga;Asia;Filipinas;1352,0;7977,0;5,9
+2024;7;Málaga;Asia;India;1037,0;6429,0;6,2
+2024;7;Málaga;Asia;Indonesia;119,0;774,0;6,5
+2024;7;Málaga;Asia;Iraq;47,0;174,0;3,7
+2024;7;Málaga;Asia;Irán;413,0;3098,0;7,5
+2024;7;Málaga;Asia;Israel;840,0;6384,0;7,6
+2024;7;Málaga;Asia;Japón;347,0;2741,0;7,9
+2024;7;Málaga;Asia;Jordania;272,0;1931,0;7,1
+2024;7;Málaga;Asia;Kazajstán;247,0;2025,0;8,2
+2024;7;Málaga;Asia;Kuwait;3409,0;33749,0;9,9
+2024;7;Málaga;Asia;Líbano;268,0;1796,0;6,7
+2024;7;Málaga;Asia;Malasia;140,0;1064,0;7,6
+2024;7;Málaga;Asia;Omán;113,0;791,0;7,0
+2024;7;Málaga;Asia;Otros países de Asia;93,0;493,0;5,3
+2024;7;Málaga;Asia;Pakistán;55,0;215,0;3,9
+2024;7;Málaga;Asia;Qatar;1003,0;5617,0;5,6
+2024;7;Málaga;Asia;Singapur;343,0;2641,0;7,7
+2024;7;Málaga;Asia;Sri Lanka;45,0;189,0;4,2
+2024;7;Málaga;Asia;Tailandia;447,0;2012,0;4,5
+2024;7;Málaga;Asia;Vietnam;93,0;605,0;6,5
+2024;7;Málaga;Europa;Albania;149,0;849,0;5,7
+2024;7;Málaga;Europa;Alemania;40797,0;330456,0;8,1
+2024;7;Málaga;Europa;Andorra;161,0;1530,0;9,5
+2024;7;Málaga;Europa;Armenia;120,0;816,0;6,8
+2024;7;Málaga;Europa;Austria;10838,0;91039,0;8,4
+2024;7;Málaga;Europa;Belarús;313,0;2754,0;8,8
+2024;7;Málaga;Europa;Bosnia y Herzegovina;120,0;828,0;6,9
+2024;7;Málaga;Europa;Bulgaria;1363,0;9677,0;7,1
+2024;7;Málaga;Europa;Bélgica;36761,0;297764,0;8,1
+2024;7;Málaga;Europa;Chipre;214,0;1412,0;6,6
+2024;7;Málaga;Europa;Croacia;732,0;4392,0;6,0
+2024;7;Málaga;Europa;Dinamarca;31920,0;242592,0;7,6
+2024;7;Málaga;Europa;Eslovenia;582,0;3958,0;6,8
+2024;7;Málaga;Europa;Estonia;2100,0;18060,0;8,6
+2024;7;Málaga;Europa;Finlandia;11897,0;105883,0;8,9
+2024;7;Málaga;Europa;Francia;50978,0;372139,0;7,3
+2024;7;Málaga;Europa;Georgia;194,0;1397,0;7,2
+2024;7;Málaga;Europa;Grecia;751,0;5182,0;6,9
+2024;7;Málaga;Europa;Hungría;4098,0;30325,0;7,4
+2024;7;Málaga;Europa;Irlanda;61319,0;539607,0;8,8
+2024;7;Málaga;Europa;Islandia;644,0;6182,0;9,6
+2024;7;Málaga;Europa;Italia;21792,0;137290,0;6,3
+2024;7;Málaga;Europa;Letonia;1857,0;17827,0;9,6
+2024;7;Málaga;Europa;Liechtenstein;689,0;7855,0;11,4
+2024;7;Málaga;Europa;Lituania;2283,0;16894,0;7,4
+2024;7;Málaga;Europa;Luxemburgo;2721,0;22856,0;8,4
+2024;7;Málaga;Europa;Macedonia del Norte;119,0;857,0;7,2
+2024;7;Málaga;Europa;Malta;372,0;2753,0;7,4
+2024;7;Málaga;Europa;Moldavia;137,0;1110,0;8,1
+2024;7;Málaga;Europa;Montenegro;41,0;242,0;5,9
+2024;7;Málaga;Europa;Noruega;27402,0;241138,0;8,8
+2024;7;Málaga;Europa;Países Bajos;47161,0;306547,0;6,5
+2024;7;Málaga;Europa;Polonia;27976,0;201427,0;7,2
+2024;7;Málaga;Europa;Portugal;11076,0;67564,0;6,1
+2024;7;Málaga;Europa;Reino Unido;226690,0;1694595,0;6,55
+2024;7;Málaga;Europa;República Checa;7766,0;62128,0;8,0
+2024;7;Málaga;Europa;República Eslovaca;1988,0;15705,0;7,9
+2024;7;Málaga;Europa;Rumanía;5185,0;40443,0;7,8
+2024;7;Málaga;Europa;Rusia;2806,0;30866,0;11,0
+2024;7;Málaga;Europa;Serbia;799,0;5353,0;6,7
+2024;7;Málaga;Europa;Suecia;42893,0;368880,0;8,6
+2024;7;Málaga;Europa;Suiza;15727,0;106944,0;6,8
+2024;7;Málaga;Europa;Turquía;767,0;4219,0;5,5
+2024;7;Málaga;Oceanía;Australia;1160,0;8932,0;7,7
+2024;7;Málaga;Oceanía;Nueva Zelanda;266,0;2341,0;8,8
+2024;7;Málaga;Total;Total;780801,0;5986590,0;7,7
+2024;7;Málaga;Total;Total América;35428,0;290408,0;8,2
+2024;7;Málaga;Total;Total América del Norte;26644,0;215095,0;8,1
+2024;7;Málaga;Total;Total Asia;22454,0;163820,0;7,3
+2024;7;Málaga;Total;Total Centroamérica y Caribe;480,0;3523,0;7,3
+2024;7;Málaga;Total;Total Europa;704303,0;5420380,0;7,7
+2024;7;Málaga;Total;Total Oceanía;1430,0;11308,0;7,9
+2024;7;Málaga;Total;Total Sudamérica;8304,0;71790,0;8,6
+2024;7;Málaga;Total;Total África;17186,0;100674,0;5,9
+2024;7;Málaga;África;Angola;42,0;365,0;8,7
+2024;7;Málaga;África;Argelia;361,0;2130,0;5,9
+2024;7;Málaga;África;Costa de Marfil;35,0;238,0;6,8
+2024;7;Málaga;África;Egipto;329,0;2369,0;7,2
+2024;7;Málaga;África;Ghana;90,0;495,0;5,5
+2024;7;Málaga;África;Kenia;86,0;654,0;7,6
+2024;7;Málaga;África;Mali;97,0;388,0;4,0
+2024;7;Málaga;África;Marruecos;14649,0;83499,0;5,7
+2024;7;Málaga;África;Mauritania;32,0;182,0;5,7
+2024;7;Málaga;África;Nigeria;438,0;2935,0;6,7
+2024;7;Málaga;África;Senegal;317,0;2219,0;7,0
+2024;7;Málaga;África;Sudáfrica;367,0;3083,0;8,4
+2024;7;Málaga;África;Túnez;166,0;913,0;5,5
+2024;8;Málaga;América;Argentina;3262,0;34251,0;10,5
+2024;8;Málaga;América;Bolivia;47,0;197,0;4,2
+2024;8;Málaga;América;Brasil;1139,0;9340,0;8,2
+2024;8;Málaga;América;Canadá;5099,0;35183,0;6,9
+2024;8;Málaga;América;Chile;402,0;3377,0;8,4
+2024;8;Málaga;América;Colombia;1770,0;14160,0;8,0
+2024;8;Málaga;América;Costa Rica;67,0;730,0;10,9
+2024;8;Málaga;América;Cuba;60,0;234,0;3,9
+2024;8;Málaga;América;Ecuador;166,0;1228,0;7,4
+2024;8;Málaga;América;El Salvador;37,0;303,0;8,2
+2024;8;Málaga;América;Estados Unidos de América;15949,0;121212,0;7,6
+2024;8;Málaga;América;Guatemala;48,0;523,0;10,9
+2024;8;Málaga;América;Honduras;81,0;608,0;7,5
+2024;8;Málaga;América;México;975,0;7313,0;7,5
+2024;8;Málaga;América;Nicaragua;38,0;350,0;9,2
+2024;8;Málaga;América;Panamá;71,0;618,0;8,7
+2024;8;Málaga;América;Paraguay;543,0;4941,0;9,1
+2024;8;Málaga;América;Perú;188,0;1542,0;8,2
+2024;8;Málaga;América;República Dominicana;74,0;548,0;7,4
+2024;8;Málaga;América;Uruguay;321,0;2825,0;8,8
+2024;8;Málaga;América;Venezuela;370,0;2886,0;7,8
+2024;8;Málaga;Asia;Arabia Saudí;7077,0;66524,0;9,4
+2024;8;Málaga;Asia;Azerbaiyán;209,0;1359,0;6,5
+2024;8;Málaga;Asia;Bahréin;794,0;8496,0;10,7
+2024;8;Málaga;Asia;China;2945,0;19437,0;6,6
+2024;8;Málaga;Asia;Corea;386,0;2393,0;6,2
+2024;8;Málaga;Asia;Emiratos Árabes Unidos;4208,0;36610,0;8,7
+2024;8;Málaga;Asia;Filipinas;1811,0;13764,0;7,6
+2024;8;Málaga;Asia;India;948,0;5309,0;5,6
+2024;8;Málaga;Asia;Indonesia;94,0;573,0;6,1
+2024;8;Málaga;Asia;Iraq;64,0;339,0;5,3
+2024;8;Málaga;Asia;Irán;372,0;3274,0;8,8
+2024;8;Málaga;Asia;Israel;877,0;7718,0;8,8
+2024;8;Málaga;Asia;Japón;464,0;3805,0;8,2
+2024;8;Málaga;Asia;Jordania;225,0;2273,0;10,1
+2024;8;Málaga;Asia;Kazajstán;257,0;2005,0;7,8
+2024;8;Málaga;Asia;Kuwait;5947,0;73743,0;12,4
+2024;8;Málaga;Asia;Líbano;315,0;2300,0;7,3
+2024;8;Málaga;Asia;Malasia;72,0;518,0;7,2
+2024;8;Málaga;Asia;Myanmar;45,0;198,0;4,4
+2024;8;Málaga;Asia;Omán;89,0;783,0;8,8
+2024;8;Málaga;Asia;Otros países de Asia;64,0;429,0;6,7
+2024;8;Málaga;Asia;Pakistán;49,0;431,0;8,8
+2024;8;Málaga;Asia;Qatar;1549,0;10843,0;7,0
+2024;8;Málaga;Asia;Singapur;271,0;2629,0;9,7
+2024;8;Málaga;Asia;Sri Lanka;54,0;400,0;7,4
+2024;8;Málaga;Asia;Tailandia;409,0;2004,0;4,9
+2024;8;Málaga;Asia;Uzbekistán;41,0;303,0;7,4
+2024;8;Málaga;Asia;Vietnam;89,0;614,0;6,9
+2024;8;Málaga;Europa;Albania;128,0;845,0;6,6
+2024;8;Málaga;Europa;Alemania;51420,0;457638,0;8,9
+2024;8;Málaga;Europa;Andorra;239,0;2486,0;10,4
+2024;8;Málaga;Europa;Armenia;197,0;1418,0;7,2
+2024;8;Málaga;Europa;Austria;12209,0;112323,0;9,2
+2024;8;Málaga;Europa;Belarús;334,0;3039,0;9,1
+2024;8;Málaga;Europa;Bosnia y Herzegovina;101,0;636,0;6,3
+2024;8;Málaga;Europa;Bulgaria;1021,0;7658,0;7,5
+2024;8;Málaga;Europa;Bélgica;36957,0;328917,0;8,9
+2024;8;Málaga;Europa;Chipre;255,0;2066,0;8,1
+2024;8;Málaga;Europa;Croacia;702,0;4423,0;6,3
+2024;8;Málaga;Europa;Dinamarca;25104,0;233467,0;9,3
+2024;8;Málaga;Europa;Eslovenia;461,0;3411,0;7,4
+2024;8;Málaga;Europa;Estonia;2023,0;17600,0;8,7
+2024;8;Málaga;Europa;Finlandia;7075,0;60845,0;8,6
+2024;8;Málaga;Europa;Francia;89592,0;707777,0;7,9
+2024;8;Málaga;Europa;Georgia;195,0;1482,0;7,6
+2024;8;Málaga;Europa;Grecia;796,0;5811,0;7,3
+2024;8;Málaga;Europa;Hungría;3515,0;25660,0;7,3
+2024;8;Málaga;Europa;Irlanda;56634,0;498379,0;8,8
+2024;8;Málaga;Europa;Islandia;658,0;5461,0;8,3
+2024;8;Málaga;Europa;Italia;33232,0;239270,0;7,2
+2024;8;Málaga;Europa;Letonia;1857,0;20056,0;10,8
+2024;8;Málaga;Europa;Liechtenstein;737,0;9139,0;12,4
+2024;8;Málaga;Europa;Lituania;1858,0;13378,0;7,2
+2024;8;Málaga;Europa;Luxemburgo;3574,0;32523,0;9,1
+2024;8;Málaga;Europa;Macedonia del Norte;155,0;1132,0;7,3
+2024;8;Málaga;Europa;Malta;401,0;3208,0;8,0
+2024;8;Málaga;Europa;Moldavia;148,0;1154,0;7,8
+2024;8;Málaga;Europa;Montenegro;53,0;392,0;7,4
+2024;8;Málaga;Europa;Noruega;17276,0;162394,0;9,4
+2024;8;Málaga;Europa;Países Bajos;74741,0;560558,0;7,5
+2024;8;Málaga;Europa;Polonia;22109,0;168028,0;7,6
+2024;8;Málaga;Europa;Portugal;19781,0;128577,0;6,5
+2024;8;Málaga;Europa;Reino Unido;228875,0;1938169,0;7,4
+2024;8;Málaga;Europa;República Checa;6114,0;50746,0;8,3
+2024;8;Málaga;Europa;República Eslovaca;1480,0;12432,0;8,4
+2024;8;Málaga;Europa;Rumanía;4934,0;38485,0;7,8
+2024;8;Málaga;Europa;Rusia;2831,0;32557,0;11,5
+2024;8;Málaga;Europa;Serbia;698,0;4816,0;6,9
+2024;8;Málaga;Europa;Suecia;35849,0;311886,0;8,7
+2024;8;Málaga;Europa;Suiza;16851,0;134808,0;8,0
+2024;8;Málaga;Europa;Turquía;722,0;4260,0;5,9
+2024;8;Málaga;Oceanía;Australia;1236,0;9270,0;7,5
+2024;8;Málaga;Oceanía;Nueva Zelanda;164,0;1082,0;6,6
+2024;8;Málaga;Total;Total;872114,0;7124158,0;8,2
+2024;8;Málaga;Total;Total América;30775,0;242786,0;7,9
+2024;8;Málaga;Total;Total América del Norte;22023,0;163708,0;7,4
+2024;8;Málaga;Total;Total Asia;29805,0;269510,0;9,0
+2024;8;Málaga;Total;Total Centroamérica y Caribe;536,0;4304,0;8,0
+2024;8;Málaga;Total;Total Europa;763900,0;6349398,0;8,3
+2024;8;Málaga;Total;Total Oceanía;1406,0;10400,0;7,4
+2024;8;Málaga;Total;Total Sudamérica;8216,0;74774,0;9,1
+2024;8;Málaga;Total;Total África;46228,0;252064,0;5,5
+2024;8;Málaga;África;Angola;83,0;606,0;7,3
+2024;8;Málaga;África;Argelia;567,0;4763,0;8,4
+2024;8;Málaga;África;Camerún;36,0;245,0;6,8
+2024;8;Málaga;África;Costa de Marfil;77,0;608,0;7,9
+2024;8;Málaga;África;Egipto;350,0;2520,0;7,2
+2024;8;Málaga;África;Ghana;94,0;714,0;7,6
+2024;8;Málaga;África;Kenia;85,0;604,0;7,1
+2024;8;Málaga;África;Mali;95,0;627,0;6,6
+2024;8;Málaga;África;Marruecos;43207,0;228997,0;5,3
+2024;8;Málaga;África;Mauricio;37,0;259,0;7,0
+2024;8;Málaga;África;Mauritania;44,0;290,0;6,6
+2024;8;Málaga;África;Mozambique;36,0;266,0;7,4
+2024;8;Málaga;África;Nigeria;470,0;3384,0;7,2
+2024;8;Málaga;África;República Democrática del Congo;34,0;177,0;5,2
+2024;8;Málaga;África;Senegal;340,0;2686,0;7,9
+2024;8;Málaga;África;Sudáfrica;204,0;1693,0;8,3
+2024;8;Málaga;África;Túnez;216,0;1490,0;6,9
+2024;9;Málaga;América;Argentina;2991,0;30508,0;10,2
+2024;9;Málaga;América;Bolivia;36,0;216,0;6,0
+2024;9;Málaga;América;Brasil;1042,0;7607,0;7,3
+2024;9;Málaga;América;Canadá;6012,0;37876,0;6,3
+2024;9;Málaga;América;Chile;414,0;2939,0;7,1
+2024;9;Málaga;América;Colombia;1515,0;12272,0;8,1
+2024;9;Málaga;América;Costa Rica;75,0;585,0;7,8
+2024;9;Málaga;América;Cuba;52,0;260,0;5,0
+2024;9;Málaga;América;Ecuador;169,0;997,0;5,9
+2024;9;Málaga;América;El Salvador;32,0;221,0;6,9
+2024;9;Málaga;América;Estados Unidos de América;19714,0;130112,0;6,6
+2024;9;Málaga;América;Guatemala;50,0;470,0;9,4
+2024;9;Málaga;América;Honduras;71,0;469,0;6,6
+2024;9;Málaga;América;México;870,0;5655,0;6,5
+2024;9;Málaga;América;Panamá;83,0;631,0;7,6
+2024;9;Málaga;América;Paraguay;416,0;4035,0;9,7
+2024;9;Málaga;América;Perú;133,0;1210,0;9,1
+2024;9;Málaga;América;República Dominicana;68,0;462,0;6,8
+2024;9;Málaga;América;Uruguay;336,0;2957,0;8,8
+2024;9;Málaga;América;Venezuela;338,0;2670,0;7,9
+2024;9;Málaga;Asia;Arabia Saudí;1166,0;9911,0;8,5
+2024;9;Málaga;Asia;Azerbaiyán;70,0;448,0;6,4
+2024;9;Málaga;Asia;Bahréin;220,0;1936,0;8,8
+2024;9;Málaga;Asia;China;2583,0;15756,0;6,1
+2024;9;Málaga;Asia;Corea;762,0;4191,0;5,5
+2024;9;Málaga;Asia;Emiratos Árabes Unidos;1554,0;11655,0;7,5
+2024;9;Málaga;Asia;Filipinas;1341,0;6973,0;5,2
+2024;9;Málaga;Asia;India;1048,0;5869,0;5,6
+2024;9;Málaga;Asia;Indonesia;108,0;605,0;5,6
+2024;9;Málaga;Asia;Iraq;59,0;325,0;5,5
+2024;9;Málaga;Asia;Irán;485,0;3638,0;7,5
+2024;9;Málaga;Asia;Israel;1568,0;7840,0;5,0
+2024;9;Málaga;Asia;Japón;412,0;2596,0;6,3
+2024;9;Málaga;Asia;Jordania;90,0;657,0;7,3
+2024;9;Málaga;Asia;Kazajstán;136,0;1115,0;8,2
+2024;9;Málaga;Asia;Kuwait;1426,0;18823,0;13,2
+2024;9;Málaga;Asia;Líbano;139,0;987,0;7,1
+2024;9;Málaga;Asia;Malasia;81,0;421,0;5,2
+2024;9;Málaga;Asia;Myanmar;30,0;150,0;5,0
+2024;9;Málaga;Asia;Omán;60,0;378,0;6,3
+2024;9;Málaga;Asia;Otros países de Asia;67,0;281,0;4,2
+2024;9;Málaga;Asia;Pakistán;71,0;405,0;5,7
+2024;9;Málaga;Asia;Qatar;359,0;1651,0;4,6
+2024;9;Málaga;Asia;Singapur;215,0;1312,0;6,1
+2024;9;Málaga;Asia;Sri Lanka;43,0;335,0;7,8
+2024;9;Málaga;Asia;Tailandia;439,0;2151,0;4,9
+2024;9;Málaga;Asia;Vietnam;84,0;504,0;6,0
+2024;9;Málaga;Europa;Albania;145,0;769,0;5,3
+2024;9;Málaga;Europa;Alemania;51150,0;424545,0;8,3
+2024;9;Málaga;Europa;Andorra;215,0;2193,0;10,2
+2024;9;Málaga;Europa;Armenia;121,0;895,0;7,4
+2024;9;Málaga;Europa;Austria;10410,0;86403,0;8,3
+2024;9;Málaga;Europa;Belarús;304,0;2250,0;7,4
+2024;9;Málaga;Europa;Bosnia y Herzegovina;175,0;910,0;5,2
+2024;9;Málaga;Europa;Bulgaria;1783,0;10876,0;6,1
+2024;9;Málaga;Europa;Bélgica;28103,0;219203,0;7,8
+2024;9;Málaga;Europa;Chipre;166,0;1179,0;7,1
+2024;9;Málaga;Europa;Croacia;700,0;3430,0;4,9
+2024;9;Málaga;Europa;Dinamarca;23355,0;175163,0;7,5
+2024;9;Málaga;Europa;Eslovenia;581,0;3486,0;6,0
+2024;9;Málaga;Europa;Estonia;2512,0;17333,0;6,9
+2024;9;Málaga;Europa;Finlandia;11117,0;82266,0;7,4
+2024;9;Málaga;Europa;Francia;43736,0;323646,0;7,4
+2024;9;Málaga;Europa;Georgia;182,0;1256,0;6,9
+2024;9;Málaga;Europa;Grecia;600,0;3900,0;6,5
+2024;9;Málaga;Europa;Hungría;3026,0;18156,0;6,0
+2024;9;Málaga;Europa;Irlanda;57748,0;386912,0;6,7
+2024;9;Málaga;Europa;Islandia;339,0;2848,0;8,4
+2024;9;Málaga;Europa;Italia;20826,0;129121,0;6,2
+2024;9;Málaga;Europa;Letonia;2047,0;17809,0;8,7
+2024;9;Málaga;Europa;Liechtenstein;734,0;9175,0;12,5
+2024;9;Málaga;Europa;Lituania;1809,0;12120,0;6,7
+2024;9;Málaga;Europa;Luxemburgo;3115,0;26166,0;8,4
+2024;9;Málaga;Europa;Macedonia del Norte;125,0;800,0;6,4
+2024;9;Málaga;Europa;Malta;385,0;2734,0;7,1
+2024;9;Málaga;Europa;Moldavia;131,0;943,0;7,2
+2024;9;Málaga;Europa;Noruega;15308,0;104094,0;6,8
+2024;9;Málaga;Europa;Países Bajos;53326,0;325289,0;6,1
+2024;9;Málaga;Europa;Polonia;18958,0;119435,0;6,3
+2024;9;Málaga;Europa;Portugal;12655,0;75930,0;6,0
+2024;9;Málaga;Europa;Reino Unido;224585,0;1592646,0;6,7
+2024;9;Málaga;Europa;República Checa;5874,0;36419,0;6,2
+2024;9;Málaga;Europa;República Eslovaca;1610,0;10304,0;6,4
+2024;9;Málaga;Europa;Rumanía;5092,0;36153,0;7,1
+2024;9;Málaga;Europa;Rusia;2208,0;21418,0;9,7
+2024;9;Málaga;Europa;Serbia;559,0;3466,0;6,2
+2024;9;Málaga;Europa;Suecia;29728,0;184314,0;6,2
+2024;9;Málaga;Europa;Suiza;14070,0;85827,0;6,1
+2024;9;Málaga;Europa;Turquía;674,0;3370,0;5,0
+2024;9;Málaga;Oceanía;Australia;1315,0;9863,0;7,5
+2024;9;Málaga;Oceanía;Nueva Zelanda;268,0;2305,0;8,6
+2024;9;Málaga;Total;Total;722885,0;5034618,0;7,0
+2024;9;Málaga;Total;Total América;34487,0;242611,0;7,0
+2024;9;Málaga;Total;Total América del Norte;26596,0;173643,0;6,5
+2024;9;Málaga;Total;Total Asia;14713,0;101342,0;6,9
+2024;9;Málaga;Total;Total Centroamérica y Caribe;499,0;3553,0;7,1
+2024;9;Málaga;Total;Total Europa;650319,0;4565363,0;7,0
+2024;9;Málaga;Total;Total Oceanía;1591,0;12258,0;7,7
+2024;9;Málaga;Total;Total Sudamérica;7392,0;65415,0;8,8
+2024;9;Málaga;Total;Total África;21775,0;113044,0;5,2
+2024;9;Málaga;África;Angola;70,0;525,0;7,5
+2024;9;Málaga;África;Argelia;359,0;2549,0;7,1
+2024;9;Málaga;África;Egipto;206,0;1401,0;6,8
+2024;9;Málaga;África;Ghana;93,0;623,0;6,7
+2024;9;Málaga;África;Kenia;68,0;388,0;5,7
+2024;9;Málaga;África;Mali;76,0;380,0;5,0
+2024;9;Málaga;África;Marruecos;19587,0;97935,0;5,0
+2024;9;Málaga;África;Mauritania;44,0;299,0;6,8
+2024;9;Málaga;África;Mozambique;38,0;186,0;4,9
+2024;9;Málaga;África;Nigeria;357,0;2642,0;7,4
+2024;9;Málaga;África;Senegal;297,0;2317,0;7,8
+2024;9;Málaga;África;Sudáfrica;225,0;1463,0;6,5
+2024;9;Málaga;África;Túnez;116,0;754,0;6,5
+2024;10;Málaga;América;Argentina;3032,0;28804,0;9,5
+2024;10;Málaga;América;Bolivia;38,0;217,0;5,7
+2024;10;Málaga;América;Brasil;1127,0;9016,0;8,0
+2024;10;Málaga;América;Canadá;8329,0;55804,0;6,7
+2024;10;Málaga;América;Chile;442,0;3492,0;7,9
+2024;10;Málaga;América;Colombia;1638,0;12285,0;7,5
+2024;10;Málaga;América;Costa Rica;80,0;600,0;7,5
+2024;10;Málaga;América;Cuba;67,0;235,0;3,5
+2024;10;Málaga;América;Ecuador;180,0;1458,0;8,1
+2024;10;Málaga;América;Estados Unidos de América;18533,0;133438,0;7,2
+2024;10;Málaga;América;Guatemala;74,0;511,0;6,9
+2024;10;Málaga;América;Honduras;58,0;522,0;9,0
+2024;10;Málaga;América;México;919,0;7168,0;7,8
+2024;10;Málaga;América;Nicaragua;68,0;360,0;5,3
+2024;10;Málaga;América;Panamá;116,0;882,0;7,6
+2024;10;Málaga;América;Paraguay;426,0;3408,0;8,0
+2024;10;Málaga;América;Perú;192,0;1632,0;8,5
+2024;10;Málaga;América;República Dominicana;100,0;720,0;7,2
+2024;10;Málaga;América;Uruguay;312,0;2964,0;9,5
+2024;10;Málaga;América;Venezuela;314,0;2355,0;7,5
+2024;10;Málaga;Asia;Arabia Saudí;523,0;3713,0;7,1
+2024;10;Málaga;Asia;Azerbaiyán;67,0;509,0;7,6
+2024;10;Málaga;Asia;Bahréin;66,0;515,0;7,8
+2024;10;Málaga;Asia;China;3222,0;19976,0;6,2
+2024;10;Málaga;Asia;Corea;798,0;4309,0;5,4
+2024;10;Málaga;Asia;Emiratos Árabes Unidos;1236,0;8405,0;6,8
+2024;10;Málaga;Asia;Filipinas;1932,0;8501,0;4,4
+2024;10;Málaga;Asia;India;1399,0;7974,0;5,7
+2024;10;Málaga;Asia;Indonesia;204,0;1122,0;5,5
+2024;10;Málaga;Asia;Iraq;48,0;269,0;5,6
+2024;10;Málaga;Asia;Irán;343,0;2298,0;6,7
+2024;10;Málaga;Asia;Israel;816,0;5386,0;6,6
+2024;10;Málaga;Asia;Japón;568,0;4090,0;7,2
+2024;10;Málaga;Asia;Jordania;85,0;536,0;6,3
+2024;10;Málaga;Asia;Kazajstán;180,0;1440,0;8,0
+2024;10;Málaga;Asia;Kuwait;261,0;2636,0;10,1
+2024;10;Málaga;Asia;Líbano;108,0;799,0;7,4
+2024;10;Málaga;Asia;Malasia;138,0;759,0;5,5
+2024;10;Málaga;Asia;Omán;51,0;362,0;7,1
+2024;10;Málaga;Asia;Otros países de Asia;131,0;786,0;6,0
+2024;10;Málaga;Asia;Pakistán;59,0;384,0;6,5
+2024;10;Málaga;Asia;Qatar;243,0;1191,0;4,9
+2024;10;Málaga;Asia;Singapur;234,0;1427,0;6,1
+2024;10;Málaga;Asia;Sri Lanka;60,0;420,0;7,0
+2024;10;Málaga;Asia;Tailandia;416,0;2205,0;5,3
+2024;10;Málaga;Asia;Vietnam;101,0;636,0;6,3
+2024;10;Málaga;Europa;Albania;106,0;668,0;6,3
+2024;10;Málaga;Europa;Alemania;61724,0;506137,0;8,2
+2024;10;Málaga;Europa;Andorra;138,0;1090,0;7,9
+2024;10;Málaga;Europa;Armenia;93,0;530,0;5,7
+2024;10;Málaga;Europa;Austria;11067,0;91856,0;8,3
+2024;10;Málaga;Europa;Belarús;321,0;2536,0;7,9
+2024;10;Málaga;Europa;Bosnia y Herzegovina;204,0;1000,0;4,9
+2024;10;Málaga;Europa;Bulgaria;1798,0;10608,0;5,9
+2024;10;Málaga;Europa;Bélgica;24938,0;197010,0;7,9
+2024;10;Málaga;Europa;Chipre;134,0;992,0;7,4
+2024;10;Málaga;Europa;Croacia;1072,0;5574,0;5,2
+2024;10;Málaga;Europa;Dinamarca;27068,0;219251,0;8,1
+2024;10;Málaga;Europa;Eslovenia;588,0;3352,0;5,7
+2024;10;Málaga;Europa;Estonia;3497,0;30074,0;8,6
+2024;10;Málaga;Europa;Finlandia;16601,0;142769,0;8,6
+2024;10;Málaga;Europa;Francia;39391,0;271798,0;6,9
+2024;10;Málaga;Europa;Georgia;189,0;1096,0;5,8
+2024;10;Málaga;Europa;Grecia;738,0;4649,0;6,3
+2024;10;Málaga;Europa;Hungría;4072,0;25654,0;6,3
+2024;10;Málaga;Europa;Irlanda;51356,0;364628,0;7,1
+2024;10;Málaga;Europa;Islandia;517,0;4808,0;9,3
+2024;10;Málaga;Europa;Italia;17332,0;95326,0;5,5
+2024;10;Málaga;Europa;Letonia;2542,0;22370,0;8,8
+2024;10;Málaga;Europa;Liechtenstein;802,0;10426,0;13,0
+2024;10;Málaga;Europa;Lituania;2646,0;17464,0;6,6
+2024;10;Málaga;Europa;Luxemburgo;2729,0;23469,0;8,6
+2024;10;Málaga;Europa;Macedonia del Norte;120,0;684,0;5,7
+2024;10;Málaga;Europa;Malta;395,0;2726,0;6,9
+2024;10;Málaga;Europa;Moldavia;152,0;942,0;6,2
+2024;10;Málaga;Europa;Montenegro;68,0;388,0;5,7
+2024;10;Málaga;Europa;Noruega;21020,0;172364,0;8,2
+2024;10;Málaga;Europa;Países Bajos;52166,0;323429,0;6,2
+2024;10;Málaga;Europa;Polonia;19420,0;120404,0;6,2
+2024;10;Málaga;Europa;Portugal;5626,0;32068,0;5,7
+2024;10;Málaga;Europa;Reino Unido;191486,0;1356453,0;6,25
+2024;10;Málaga;Europa;República Checa;6620,0;44354,0;6,7
+2024;10;Málaga;Europa;República Eslovaca;1415,0;8915,0;6,3
+2024;10;Málaga;Europa;Rumanía;5240,0;32488,0;6,2
+2024;10;Málaga;Europa;Rusia;2303,0;22339,0;9,7
+2024;10;Málaga;Europa;Serbia;609,0;3410,0;5,6
+2024;10;Málaga;Europa;Suecia;36711,0;271661,0;7,4
+2024;10;Málaga;Europa;Suiza;20426,0;140939,0;6,9
+2024;10;Málaga;Europa;Turquía;698,0;3490,0;5,0
+2024;10;Málaga;Oceanía;Australia;1165,0;9320,0;8,0
+2024;10;Málaga;Oceanía;Nueva Zelanda;309,0;2905,0;9,4
+2024;10;Málaga;Total;Total;699621,0;5019987,0;7,2
+2024;10;Málaga;Total;Total América;36117,0;266372,0;7,4
+2024;10;Málaga;Total;Total América del Norte;27781,0;196410,0;7,1
+2024;10;Málaga;Total;Total Asia;13425,0;81337,0;6,1
+2024;10;Málaga;Total;Total Centroamérica y Caribe;632,0;4323,0;6,8
+2024;10;Málaga;Total;Total Europa;636147,0;4592223,0;7,2
+2024;10;Málaga;Total;Total Oceanía;1481,0;12253,0;8,3
+2024;10;Málaga;Total;Total Sudamérica;7704,0;65639,0;8,5
+2024;10;Málaga;Total;Total África;12451,0;67802,0;5,4
+2024;10;Málaga;África;Argelia;229,0;1374,0;6,0
+2024;10;Málaga;África;Egipto;132,0;660,0;5,0
+2024;10;Málaga;África;Ghana;68,0;544,0;8,0
+2024;10;Málaga;África;Kenia;113,0;610,0;5,4
+2024;10;Málaga;África;Mali;57,0;165,0;2,9
+2024;10;Málaga;África;Marruecos;10476,0;54475,0;5,2
+2024;10;Málaga;África;Mauricio;33,0;198,0;6,0
+2024;10;Málaga;África;Mauritania;46,0;474,0;10,3
+2024;10;Málaga;África;Nigeria;383,0;3102,0;8,1
+2024;10;Málaga;África;Senegal;267,0;1709,0;6,4
+2024;10;Málaga;África;Sudáfrica;213,0;1789,0;8,4
+2024;10;Málaga;África;Túnez;102,0;561,0;5,5
+2024;10;Málaga;África;Zimbabwe;48,0;302,0;6,3
+2024;11;Málaga;América;Argentina;2018,0;19171,0;9,5
+2024;11;Málaga;América;Bolivia;38,0;232,0;6,1
+2024;11;Málaga;América;Brasil;1139,0;8201,0;7,2
+2024;11;Málaga;América;Canadá;4453,0;29835,0;6,7
+2024;11;Málaga;América;Chile;263,0;2104,0;8,0
+2024;11;Málaga;América;Colombia;1487,0;11153,0;7,5
+2024;11;Málaga;América;Costa Rica;56,0;370,0;6,6
+2024;11;Málaga;América;Cuba;57,0;205,0;3,6
+2024;11;Málaga;América;Ecuador;137,0;1014,0;7,4
+2024;11;Málaga;América;Estados Unidos de América;10970,0;81178,0;7,4
+2024;11;Málaga;América;Guatemala;55,0;633,0;11,5
+2024;11;Málaga;América;Honduras;73,0;555,0;7,6
+2024;11;Málaga;América;México;817,0;5229,0;6,4
+2024;11;Málaga;América;Nicaragua;41,0;328,0;8,0
+2024;11;Málaga;América;Panamá;69,0;607,0;8,8
+2024;11;Málaga;América;Paraguay;445,0;4183,0;9,4
+2024;11;Málaga;América;Perú;110,0;1023,0;9,3
+2024;11;Málaga;América;República Dominicana;74,0;666,0;9,0
+2024;11;Málaga;América;Uruguay;196,0;1842,0;9,4
+2024;11;Málaga;América;Venezuela;334,0;2906,0;8,7
+2024;11;Málaga;Asia;Arabia Saudí;479,0;2922,0;6,1
+2024;11;Málaga;Asia;Azerbaiyán;51,0;275,0;5,4
+2024;11;Málaga;Asia;Bahréin;45,0;423,0;9,4
+2024;11;Málaga;Asia;China;2551,0;17092,0;6,7
+2024;11;Málaga;Asia;Corea;496,0;2976,0;6,0
+2024;11;Málaga;Asia;Emiratos Árabes Unidos;862,0;5948,0;6,9
+2024;11;Málaga;Asia;Filipinas;1817,0;11811,0;6,5
+2024;11;Málaga;Asia;India;1248,0;8986,0;7,2
+2024;11;Málaga;Asia;Indonesia;181,0;1557,0;8,6
+2024;11;Málaga;Asia;Iraq;40,0;216,0;5,4
+2024;11;Málaga;Asia;Irán;359,0;2585,0;7,2
+2024;11;Málaga;Asia;Israel;592,0;3315,0;5,6
+2024;11;Málaga;Asia;Japón;541,0;3138,0;5,8
+2024;11;Málaga;Asia;Jordania;53,0;339,0;6,4
+2024;11;Málaga;Asia;Kazajstán;146,0;1270,0;8,7
+2024;11;Málaga;Asia;Kuwait;177,0;1717,0;9,7
+2024;11;Málaga;Asia;Líbano;83,0;747,0;9,0
+2024;11;Málaga;Asia;Malasia;82,0;508,0;6,2
+2024;11;Málaga;Asia;Myanmar;39,0;296,0;7,6
+2024;11;Málaga;Asia;Omán;39,0;203,0;5,2
+2024;11;Málaga;Asia;Otros países de Asia;88,0;484,0;5,5
+2024;11;Málaga;Asia;Pakistán;58,0;371,0;6,4
+2024;11;Málaga;Asia;Qatar;206,0;948,0;4,6
+2024;11;Málaga;Asia;Singapur;203,0;1340,0;6,6
+2024;11;Málaga;Asia;Sri Lanka;47,0;362,0;7,7
+2024;11;Málaga;Asia;Tailandia;397,0;1707,0;4,3
+2024;11;Málaga;Asia;Uzbekistán;30,0;135,0;4,5
+2024;11;Málaga;Asia;Vietnam;88,0;625,0;7,1
+2024;11;Málaga;Europa;Albania;84,0;504,0;6,0
+2024;11;Málaga;Europa;Alemania;30907,0;259619,0;8,4
+2024;11;Málaga;Europa;Andorra;151,0;1102,0;7,3
+2024;11;Málaga;Europa;Armenia;88,0;598,0;6,8
+2024;11;Málaga;Europa;Austria;8584,0;77256,0;9,0
+2024;11;Málaga;Europa;Belarús;267,0;2163,0;8,1
+2024;11;Málaga;Europa;Bosnia y Herzegovina;141,0;677,0;4,8
+2024;11;Málaga;Europa;Bulgaria;1394,0;7249,0;5,2
+2024;11;Málaga;Europa;Bélgica;21609,0;142619,0;6,6
+2024;11;Málaga;Europa;Chipre;121,0;1029,0;8,5
+2024;11;Málaga;Europa;Croacia;955,0;4489,0;4,7
+2024;11;Málaga;Europa;Dinamarca;17175,0;152858,0;8,9
+2024;11;Málaga;Europa;Eslovenia;773,0;4174,0;5,4
+2024;11;Málaga;Europa;Estonia;2301,0;19559,0;8,5
+2024;11;Málaga;Europa;Finlandia;14651,0;156766,0;10,7
+2024;11;Málaga;Europa;Francia;24760,0;188176,0;7,6
+2024;11;Málaga;Europa;Georgia;188,0;1354,0;7,2
+2024;11;Málaga;Europa;Grecia;781,0;6326,0;8,1
+2024;11;Málaga;Europa;Hungría;3355,0;18788,0;5,6
+2024;11;Málaga;Europa;Irlanda;23231,0;174233,0;7,5
+2024;11;Málaga;Europa;Islandia;301,0;2799,0;9,3
+2024;11;Málaga;Europa;Italia;13750,0;74250,0;5,4
+2024;11;Málaga;Europa;Letonia;2136,0;18370,0;8,6
+2024;11;Málaga;Europa;Liechtenstein;752,0;9776,0;13,0
+2024;11;Málaga;Europa;Lituania;2902,0;16832,0;5,8
+2024;11;Málaga;Europa;Luxemburgo;2767,0;26840,0;9,7
+2024;11;Málaga;Europa;Macedonia del Norte;67,0;375,0;5,6
+2024;11;Málaga;Europa;Malta;296,0;2457,0;8,3
+2024;11;Málaga;Europa;Moldavia;135,0;864,0;6,4
+2024;11;Málaga;Europa;Montenegro;56,0;375,0;6,7
+2024;11;Málaga;Europa;Noruega;12908,0;132952,0;10,3
+2024;11;Málaga;Europa;Países Bajos;39214,0;278419,0;7,1
+2024;11;Málaga;Europa;Polonia;15987,0;94323,0;5,9
+2024;11;Málaga;Europa;Portugal;4685,0;23894,0;5,1
+2024;11;Málaga;Europa;Reino Unido;95361,0;655751,0;6,2
+2024;11;Málaga;Europa;República Checa;4260,0;25134,0;5,9
+2024;11;Málaga;Europa;República Eslovaca;1229,0;6760,0;5,5
+2024;11;Málaga;Europa;Rumanía;3461,0;21458,0;6,2
+2024;11;Málaga;Europa;Rusia;1829,0;18290,0;10,0
+2024;11;Málaga;Europa;Serbia;494,0;2470,0;5,0
+2024;11;Málaga;Europa;Suecia;29207,0;242418,0;8,3
+2024;11;Málaga;Europa;Suiza;9835,0;60977,0;6,2
+2024;11;Málaga;Europa;Turquía;650,0;3055,0;4,7
+2024;11;Málaga;Oceanía;Australia;542,0;4444,0;8,2
+2024;11;Málaga;Oceanía;Nueva Zelanda;71,0;689,0;9,7
+2024;11;Málaga;Total;Total;437834,0;3237389,0;7,4
+2024;11;Málaga;Total;Total América;22896,0;171920,0;7,5
+2024;11;Málaga;Total;Total América del Norte;16240,0;116242,0;7,2
+2024;11;Málaga;Total;Total Asia;11082,0;72925,0;6,6
+2024;11;Málaga;Total;Total Centroamérica y Caribe;488,0;3831,0;7,9
+2024;11;Málaga;Total;Total Europa;393804,0;2938412,0;7,5
+2024;11;Málaga;Total;Total Oceanía;620,0;5168,0;8,3
+2024;11;Málaga;Total;Total Sudamérica;6168,0;51847,0;8,4
+2024;11;Málaga;Total;Total África;9432,0;48964,0;5,2
+2024;11;Málaga;África;Argelia;179,0;967,0;5,4
+2024;11;Málaga;África;Egipto;147,0;529,0;3,6
+2024;11;Málaga;África;Ghana;77,0;493,0;6,4
+2024;11;Málaga;África;Kenia;97,0;1310,0;13,5
+2024;11;Málaga;África;Mali;87,0;400,0;4,6
+2024;11;Málaga;África;Marruecos;7777,0;37330,0;4,8
+2024;11;Málaga;África;Mauritania;42,0;286,0;6,8
+2024;11;Málaga;África;Nigeria;318,0;2798,0;8,8
+2024;11;Málaga;África;Senegal;281,0;1630,0;5,8
+2024;11;Málaga;África;Sudáfrica;108,0;1004,0;9,3
+2024;11;Málaga;África;Túnez;93,0;586,0;6,3
+2024;12;Málaga;América;Argentina;2007,0;17662,0;8,8
+2024;12;Málaga;América;Bolivia;42,0;210,0;5,0
+2024;12;Málaga;América;Brasil;663,0;4575,0;6,9
+2024;12;Málaga;América;Canadá;2945,0;20910,0;7,1
+2024;12;Málaga;América;Chile;226,0;2057,0;9,1
+2024;12;Málaga;América;Colombia;1308,0;10072,0;7,7
+2024;12;Málaga;América;Costa Rica;53,0;323,0;6,1
+2024;12;Málaga;América;Cuba;61,0;390,0;6,4
+2024;12;Málaga;América;Ecuador;127,0;902,0;7,1
+2024;12;Málaga;América;Estados Unidos de América;7909,0;76717,0;9,7
+2024;12;Málaga;América;Guatemala;63,0;932,0;14,8
+2024;12;Málaga;América;Honduras;78,0;819,0;10,5
+2024;12;Málaga;América;México;785,0;5417,0;6,9
+2024;12;Málaga;América;Nicaragua;57,0;342,0;6,0
+2024;12;Málaga;América;Panamá;59,0;425,0;7,2
+2024;12;Málaga;América;Paraguay;422,0;5191,0;12,3
+2024;12;Málaga;América;Perú;148,0;1362,0;9,2
+2024;12;Málaga;América;República Dominicana;47,0;376,0;8,0
+2024;12;Málaga;América;Uruguay;113,0;1017,0;9,0
+2024;12;Málaga;América;Venezuela;350,0;2415,0;6,9
+2024;12;Málaga;Asia;Arabia Saudí;292,0;2015,0;6,9
+2024;12;Málaga;Asia;Bahréin;38,0;232,0;6,1
+2024;12;Málaga;Asia;China;2507,0;16546,0;6,6
+2024;12;Málaga;Asia;Corea;661,0;3437,0;5,2
+2024;12;Málaga;Asia;Emiratos Árabes Unidos;765,0;4896,0;6,4
+2024;12;Málaga;Asia;Filipinas;1447,0;8103,0;5,6
+2024;12;Málaga;Asia;India;950,0;5415,0;5,7
+2024;12;Málaga;Asia;Indonesia;91,0;737,0;8,1
+2024;12;Málaga;Asia;Irán;302,0;1872,0;6,2
+2024;12;Málaga;Asia;Israel;222,0;1687,0;7,6
+2024;12;Málaga;Asia;Japón;384,0;4800,0;12,5
+2024;12;Málaga;Asia;Jordania;45,0;324,0;7,2
+2024;12;Málaga;Asia;Kazajstán;119,0;1214,0;10,2
+2024;12;Málaga;Asia;Kuwait;160,0;1520,0;9,5
+2024;12;Málaga;Asia;Líbano;72,0;648,0;9,0
+2024;12;Málaga;Asia;Malasia;83,0;473,0;5,7
+2024;12;Málaga;Asia;Myanmar;41,0;172,0;4,2
+2024;12;Málaga;Asia;Omán;48,0;278,0;5,8
+2024;12;Málaga;Asia;Otros países de Asia;34,0;139,0;4,1
+2024;12;Málaga;Asia;Pakistán;47,0;235,0;5,0
+2024;12;Málaga;Asia;Qatar;201,0;905,0;4,5
+2024;12;Málaga;Asia;Singapur;194,0;1319,0;6,8
+2024;12;Málaga;Asia;Sri Lanka;41,0;390,0;9,5
+2024;12;Málaga;Asia;Tailandia;384,0;1766,0;4,6
+2024;12;Málaga;Asia;Vietnam;73,0;511,0;7,0
+2024;12;Málaga;Europa;Albania;59,0;384,0;6,5
+2024;12;Málaga;Europa;Alemania;19988,0;201879,0;10,1
+2024;12;Málaga;Europa;Andorra;73,0;569,0;7,8
+2024;12;Málaga;Europa;Armenia;83,0;498,0;6,0
+2024;12;Málaga;Europa;Austria;6364,0;64913,0;10,2
+2024;12;Málaga;Europa;Belarús;231,0;2010,0;8,7
+2024;12;Málaga;Europa;Bosnia y Herzegovina;55,0;314,0;5,7
+2024;12;Málaga;Europa;Bulgaria;857,0;5828,0;6,8
+2024;12;Málaga;Europa;Bélgica;13459,0;125169,0;9,3
+2024;12;Málaga;Europa;Chipre;114,0;1140,0;10,0
+2024;12;Málaga;Europa;Croacia;736,0;3827,0;5,2
+2024;12;Málaga;Europa;Dinamarca;11014,0;114546,0;10,4
+2024;12;Málaga;Europa;Eslovenia;297,0;1604,0;5,4
+2024;12;Málaga;Europa;Estonia;1779,0;21704,0;12,2
+2024;12;Málaga;Europa;Finlandia;12125,0;184300,0;15,2
+2024;12;Málaga;Europa;Francia;20541,0;188977,0;9,2
+2024;12;Málaga;Europa;Georgia;146,0;1475,0;10,1
+2024;12;Málaga;Europa;Grecia;320,0;3136,0;9,8
+2024;12;Málaga;Europa;Hungría;1644,0;14138,0;8,6
+2024;12;Málaga;Europa;Irlanda;15653,0;126789,0;8,1
+2024;12;Málaga;Europa;Islandia;141,0;1579,0;11,2
+2024;12;Málaga;Europa;Italia;8468,0;58429,0;6,9
+2024;12;Málaga;Europa;Letonia;1849,0;17381,0;9,4
+2024;12;Málaga;Europa;Liechtenstein;789,0;11204,0;14,2
+2024;12;Málaga;Europa;Lituania;1913,0;12817,0;6,7
+2024;12;Málaga;Europa;Luxemburgo;2146,0;24679,0;11,5
+2024;12;Málaga;Europa;Macedonia del Norte;37,0;233,0;6,3
+2024;12;Málaga;Europa;Malta;356,0;4023,0;11,3
+2024;12;Málaga;Europa;Moldavia;84,0;521,0;6,2
+2024;12;Málaga;Europa;Montenegro;40,0;228,0;5,7
+2024;12;Málaga;Europa;Noruega;6244,0;65562,0;10,5
+2024;12;Málaga;Europa;Países Bajos;32117,0;276206,0;8,6
+2024;12;Málaga;Europa;Polonia;11980,0;73078,0;6,1
+2024;12;Málaga;Europa;Portugal;3321,0;23579,0;7,1
+2024;12;Málaga;Europa;Reino Unido;69642,0;512031,0;6,4
+2024;12;Málaga;Europa;República Checa;2509,0;21076,0;8,4
+2024;12;Málaga;Europa;República Eslovaca;626,0;3631,0;5,8
+2024;12;Málaga;Europa;Rumanía;1838,0;12315,0;6,7
+2024;12;Málaga;Europa;Rusia;1807,0;24033,0;13,3
+2024;12;Málaga;Europa;Serbia;206,0;1257,0;6,1
+2024;12;Málaga;Europa;Suecia;15212,0;181023,0;11,9
+2024;12;Málaga;Europa;Suiza;6629,0;46403,0;7,0
+2024;12;Málaga;Europa;Turquía;423,0;2242,0;5,3
+2024;12;Málaga;Oceanía;Australia;518,0;3315,0;6,4
+2024;12;Málaga;Oceanía;Nueva Zelanda;41,0;344,0;8,4
+2024;12;Málaga;Total;Total;312081,0;2706982,0;8,7
+2024;12;Málaga;Total;Total América;17518,0;152503,0;8,7
+2024;12;Málaga;Total;Total América del Norte;11639,0;103044,0;8,9
+2024;12;Málaga;Total;Total Asia;9337,0;60426,0;6,5
+2024;12;Málaga;Total;Total Centroamérica y Caribe;471,0;3994,0;8,5
+2024;12;Málaga;Total;Total Europa;273918,0;2436748,0;8,9
+2024;12;Málaga;Total;Total Oceanía;565,0;3697,0;6,5
+2024;12;Málaga;Total;Total Sudamérica;5408,0;45465,0;8,4
+2024;12;Málaga;Total;Total África;10743,0;53608,0;5,0
+2024;12;Málaga;África;Argelia;201,0;1085,0;5,4
+2024;12;Málaga;África;Egipto;131,0;694,0;5,3
+2024;12;Málaga;África;Ghana;73,0;358,0;4,9
+2024;12;Málaga;África;Kenia;67,0;623,0;9,3
+2024;12;Málaga;África;Mali;53,0;371,0;7,0
+2024;12;Málaga;África;Marruecos;9313,0;43771,0;4,7
+2024;12;Málaga;África;Mauritania;33,0;281,0;8,5
+2024;12;Málaga;África;Nigeria;258,0;2245,0;8,7
+2024;12;Málaga;África;Senegal;194,0;1106,0;5,7
+2024;12;Málaga;África;Sudáfrica;107,0;963,0;9,0
+2024;12;Málaga;África;Túnez;77,0;531,0;6,9
